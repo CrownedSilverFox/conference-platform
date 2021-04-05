@@ -8,6 +8,8 @@
 /* eslint-disable import/no-commonjs, import/unambiguous, import/newline-after-import */
 /* global module:false */
 
+const WebpackManifestPlugin = require('webpack-manifest-plugin');
+
 const path = require('path');
 const process = require('process');
 
@@ -68,6 +70,10 @@ module.exports = env => {
     resolve: {
       alias: generateModuleAliases(),
     },
+    plugins: [
+      new WebpackManifestPlugin.WebpackManifestPlugin({
+        fileName: 'manifest.json',
+      })],
     optimization: {
       splitChunks: {
         cacheGroups: {
