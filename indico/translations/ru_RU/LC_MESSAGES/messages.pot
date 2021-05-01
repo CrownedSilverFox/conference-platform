@@ -8377,280 +8377,280 @@ msgstr "Применить крайний срок"
 
 #: indico/modules/events/papers/lists.py:36
 msgid "Not yet submitted"
-msgstr "Еще не отправлен"] , ["Не назначено"
+msgstr "Еще не отправлен"
 
 #: indico/modules/events/papers/lists.py:63 indico/modules/events/roles/templates/_roles.html:35
 msgid "Unassigned"
-msgstr "Рецензент макета"
+msgstr "Не назначено"
 
 #: indico/modules/events/papers/settings.py:18
 msgid "Layout Reviewer"
-msgstr "Рецензент содержания"
+msgstr "Рецензент макета"
 
 #: indico/modules/events/papers/settings.py:18
 msgid "Content Reviewer"
-msgstr "В настоящее время проверка невозможна"
+msgstr "Рецензент содержания"
 
 #: indico/modules/events/papers/controllers/api.py:172 indico/modules/events/papers/controllers/api.py:203
 msgid "Reviewing is currently not possible"
-msgstr "Члены групп успешно обновлены"
+msgstr "В настоящее время проверка невозможна"
 
 #: indico/modules/events/papers/controllers/management.py:79
 msgid "The members of the teams were updated successfully"
-msgstr "Компетенции команды были обновлены успешно "
+msgstr "Члены групп успешно обновлены"
 
 #: indico/modules/events/papers/controllers/management.py:119
 msgid "Team competences were updated successfully"
-msgstr "Прием документов перенесен "
+msgstr "Компетенции команды были обновлены успешно "
 
 #: indico/modules/events/papers/controllers/management.py:151
 msgid "Call for papers has been rescheduled"
-msgstr "Прием документов запланирован "
+msgstr "Прием документов перенесен "
 
 #: indico/modules/events/papers/controllers/management.py:153
 msgid "Call for papers has been scheduled"
-msgstr "Прием документов открыт "
+msgstr "Прием документов запланирован "
 
 #: indico/modules/events/papers/controllers/management.py:163
 msgid "Call for papers is now open"
-msgstr "Прием документов закрыт "
+msgstr "Прием документов открыт "
 
 #: indico/modules/events/papers/controllers/management.py:172
 msgid "Call for papers is now closed"
-msgstr "Настройки просмотра были успешно сохранены "
+msgstr "Прием документов закрыт "
 
 #: indico/modules/events/papers/controllers/management.py:195
 msgid "The reviewing settings were saved successfully"
-msgstr "Срок рассмотрения содержания установлен ."
+msgstr "Настройки просмотра были успешно сохранены "
 
 #: indico/modules/events/papers/controllers/management.py:212
 msgid "Content reviewing deadline has been set."
-msgstr "Установлен крайний срок рассмотрения макета."
+msgstr "Срок рассмотрения содержания установлен ."
 
 #: indico/modules/events/papers/controllers/management.py:213
 msgid "Layout reviewing deadline has been set."
-msgstr "Установлен крайний срок судейства."
+msgstr "Установлен крайний срок рассмотрения макета."
 
 #: indico/modules/events/papers/controllers/management.py:214
 msgid "Judging deadline has been set."
-msgstr "Назначены роли рецензентов документов."
+msgstr "Установлен крайний срок судейства."
 
 #: indico/modules/events/papers/controllers/paper.py:177
 msgid "Paper reviewing roles have been assigned."
-msgstr "Роли рецензентов не назначены."
+msgstr "Назначены роли рецензентов документов."
 
 #: indico/modules/events/papers/controllers/paper.py:179
 msgid "Paper reviewing roles have been unassigned."
-msgstr "Шаблон бумаги \"{}\"добавлен."
+msgstr "Роли рецензентов не назначены."
 
 #: indico/modules/events/papers/controllers/templates.py:55
 msgid "Paper template \"{}\"added."
-msgstr "Шаблон статьи \"{}\"обновлен."
+msgstr "Шаблон статьи \"{}\"добавлен."
 
 #: indico/modules/events/papers/controllers/templates.py:68
 msgid "Paper template \"{}\"updated."
-msgstr "Шаблон бумаги \"{}\"удален."
+msgstr "Шаблон статьи \"{}\"обновлен."
 
 #: indico/modules/events/papers/controllers/templates.py:78
 msgid "Paper template \"{}\"deleted."
-msgstr "Будет исправлено"
+msgstr "Шаблон статьи \"{}\"удален."
 
 #: indico/modules/events/papers/models/reviews.py:21 indico/modules/events/papers/models/revisions.py:26
 #: indico/modules/events/papers/templates/_paper_list.html:350
 msgid "To be corrected"
-msgstr "Видно для рецензентов и судей"
+msgstr "Будет исправлено"
 
 #: indico/modules/events/papers/models/reviews.py:61
 msgid "Visible to reviewers and judges"
-msgstr "Видно для авторов, рецензентов и судей"
+msgstr "Видно для рецензентов и судей"
 
 #: indico/modules/events/papers/models/reviews.py:62
 msgid "Visible to contributors, reviewers, and judges"
-msgstr "Рецензирование"
+msgstr "Видно для авторов, рецензентов и судей"
 
 #: indico/modules/events/papers/templates/_contributions.html:14
 msgid "Peer reviewing"
-msgstr "Перейти к графику"
+msgstr "Рецензирование"
 
 #: indico/modules/events/papers/templates/_contributions.html:61
 #: indico/modules/events/papers/templates/_contributions.html:107
 msgid "Go to timeline"
-msgstr "Подача документов открыта "
+msgstr "Перейти к графику"
 
 #: indico/modules/events/papers/templates/_contributions.html:74
 msgid "Submission is open"
-msgstr "Вы можете отправить файлы для редактирования "
+msgstr "Подача документов открыта "
 
 #: indico/modules/events/papers/templates/_contributions.html:77
 msgid "You can submit files for editing"
-msgstr "Открыт прием статей "
+msgstr "Вы можете отправить файлы для редактирования "
 
 #: indico/modules/events/papers/templates/_contributions.html:121
 #: indico/modules/events/papers/templates/display/_common.html:10
 #: indico/modules/events/papers/templates/management/cfp_actions/open.html:4
 msgid "The call for papers is open"
-msgstr "Вы можете отправить статью ."
+msgstr "Открыт прием статей "
 
 #: indico/modules/events/papers/templates/_contributions.html:124
 msgid "You can submit a paper."
-msgstr "Отправить статью для & quot;%(title) s & quot;"
+msgstr "Вы можете отправить статью ."
 
 #: indico/modules/events/papers/templates/_contributions.html:129
 msgid "Submit paper for &quot;%(title)s&quot;"
-msgstr "Отправить статью"
+msgstr "Отправить статью для &quot;%(title)&quot;"
 
 #: indico/modules/events/papers/templates/_contributions.html:134
 #: indico/modules/events/papers/templates/display/_common.html:37
 #: indico/modules/events/papers/templates/display/_common.html:44
 msgid "Submit paper"
-msgstr "Ваша статья находится на рассмотрении"
+msgstr "Отправить статью"
 
 #: indico/modules/events/papers/templates/_contributions.html:146
 msgid "Your paper is under review"
-msgstr "Подождите, пока рецензенты не вернутся к вам"
+msgstr "Ваша статья находится на рассмотрении"
 
 #: indico/modules/events/papers/templates/_contributions.html:149
 msgid "Please wait until the reviewers come back to you"
-msgstr "Ваша статья была отклонена"
+msgstr "Подождите, пока рецензенты не вернутся к вам"
 
 #: indico/modules/events/papers/templates/_contributions.html:153
 msgid "Your paper was rejected"
-msgstr "Вы можете проверить историю рецензирования на временной шкале "
+msgstr "Ваша статья была отклонена"
 
 #: indico/modules/events/papers/templates/_contributions.html:156
 msgid "You can check the review history in the timeline"
-msgstr "Ваш документ нуждается в исправлении "
+msgstr "Вы можете проверить историю рецензирования на временной шкале"
 
 #: indico/modules/events/papers/templates/_contributions.html:160
 msgid "Your paper needs to be corrected"
-msgstr "Пожалуйста, проверьте рецензию и отправьте исправленную версию "
+msgstr "Ваш документ нуждается в исправлении"
 
 #: indico/modules/events/papers/templates/_contributions.html:163
 msgid "Please check the review and submit a revised version"
-msgstr "Ход работы "
+msgstr "Пожалуйста, проверьте рецензию и отправьте исправленную версию"
 
 #: indico/modules/events/papers/templates/_contributions.html:197
 msgid "Proceedings"
-msgstr "Критерии фильтрации не соответствуют ни одному из существующих документы. Попробуйте очистить фильтры ."
+msgstr "Ход работы"
 
 #: indico/modules/events/papers/templates/_paper_list.html:24
 msgid "The filtering criteria do not match with any of the existing papers. Try to clear the filters."
-msgstr "Работы пока нет."
+msgstr "Критерии фильтрации не соответствуют ни одному из существующих документы. Попробуйте очистить фильтры."
 
 #: indico/modules/events/papers/templates/_paper_list.html:28
 msgid "There are no papers yet."
-msgstr "Редакция"
+msgstr "Статей пока нет."
 
 #: indico/modules/events/papers/templates/_paper_list.html:48
 msgid "Revision"
-msgstr "Работа еще не отправлена"
+msgstr "Редакция"
 
 #: indico/modules/events/papers/templates/_paper_list.html:73
 msgid "Paper not yet submitted"
-msgstr "Нет отправки"
+msgstr "Статья еще не отправлена"
 
 #: indico/modules/events/papers/templates/_paper_list.html:117
 msgid "No submission"
-msgstr "Назначить судей для выбранных работ"
+msgstr "Нет подтверждения"
 
 #: indico/modules/events/papers/templates/_paper_list.html:231
 msgid "Assign judges to selected contributions"
-msgstr "Назначить рецензентов для выбранных работ"
+msgstr "Назначить судей для выбранных статей"
 
 #: indico/modules/events/papers/templates/_paper_list.html:244
 msgid "Assign content reviewers to selected contributions"
-msgstr "Назначить рецензентов макета в выбранные материалы "
+msgstr "Назначить рецензентов для выбранных статей"
 
 #: indico/modules/events/papers/templates/_paper_list.html:257
 msgid "Assign layout reviewers to selected contributions"
-msgstr "Отменить назначение "
+msgstr "Назначить рецензентов макета в выбранные статьи"
 
 #: indico/modules/events/papers/templates/_paper_list.html:269 indico/modules/events/papers/templates/assign_role.html:80
 msgid "Unassign"
-msgstr "Отменить назначение судей из выбранных материалов "
+msgstr "Отменить"
 
 #: indico/modules/events/papers/templates/_paper_list.html:275
 msgid "Unassign judges from selected contributions"
-msgstr "Отменить назначение рецензентов контента из выбранных материалов "
+msgstr "Отменить назначение судей из выбранных материалов "
 
 #: indico/modules/events/papers/templates/_paper_list.html:288
 msgid "Unassign content reviewers from selected contributions"
-msgstr "Отменить назначение рецензентов макета из выбранных материалов "
+msgstr "Отменить назначение рецензентов контента из выбранных материалов "
 
 #: indico/modules/events/papers/templates/_paper_list.html:301
 msgid "Unassign layout reviewers from selected contributions"
-msgstr "Принять выбранные статьи "
+msgstr "Отменить назначение рецензентов макета из выбранных материалов "
 
 #: indico/modules/events/papers/templates/_paper_list.html:320
 msgid "Accept selected papers"
-msgstr "Отклонить выбранные статьи"
+msgstr "Принять выбранные статьи"
 
 #: indico/modules/events/papers/templates/_paper_list.html:332
 msgid "Reject selected papers"
-msgstr "Отметить для исправления выбранные статьи"
+msgstr "Отклонить выбранные статьи"
 
 #: indico/modules/events/papers/templates/_paper_list.html:344
 msgid "Mark to be corrected selected papers"
-msgstr "Загрузить документы"
+msgstr "Отметить для исправления выбранные статьи"
 
 #: indico/modules/events/papers/templates/_paper_list.html:364
 msgid "Download papers"
-msgstr "Компетенции"
+msgstr "Загрузить статьи"
 
 #: indico/modules/events/papers/templates/assign_role.html:15
 #: indico/modules/events/papers/templates/management/competences.html:19
 #: indico/modules/events/papers/templates/management/overview.html:198
 #: indico/modules/events/papers/templates/management/overview.html:200
 msgid "Competences"
-msgstr "Перекрывающаяся принадлежность"
+msgstr "Компетенции"
 
 #: indico/modules/events/papers/templates/assign_role.html:35
 msgid "Overlapping affiliation"
-msgstr "Еще нет судей."
+msgstr "Перекрывающаяся принадлежность"
 
 #: indico/modules/events/papers/templates/assign_role.html:57
 msgid "There are no judges yet."
-msgstr "Еще нет рецензентов."
+msgstr "Нет судей."
 
 #: indico/modules/events/papers/templates/assign_role.html:59
 msgid "There are no content reviewers yet."
-msgstr "Еще нет рецензентов макета."
+msgstr "Еще нет рецензентов."
 
 #: indico/modules/events/papers/templates/assign_role.html:61
 msgid "There are no layout reviewers yet."
-msgstr "Для выбранных материалов нет судей."
+msgstr "Еще нет рецензентов макета."
 
 #: indico/modules/events/papers/templates/assign_role.html:65
 msgid "There are no judges assigned to the selected contributions."
-msgstr "Для выбранных материалов не назначены рецензенты."
+msgstr "Для выбранных материалов нет судей."
 
 #: indico/modules/events/papers/templates/assign_role.html:67
 msgid "There are no content reviewers assigned to the selected contributions."
-msgstr "Для выбранных материалов не назначены рецензенты макета."
+msgstr "Для выбранных материалов не назначены рецензенты."
 
 #: indico/modules/events/papers/templates/assign_role.html:69
 msgid "There are no layout reviewers assigned to the selected contributions."
-msgstr "Настроить список назначений бумаги"
+msgstr "Для выбранных материалов не назначены рецензенты макета."
 
 #: indico/modules/events/papers/templates/paper_list_filter.html:40
 msgid "Customize paper assignment list"
-msgstr ""
-"Измените конфигурацию списка назначений бумаги, включив / отключив столбцы, перечисленные ниже, или применив"
-"параметры фильтрации (%(filter_icon) s)."
+msgstr "Настроить список назначений бумаги"
 
 #: indico/modules/events/papers/templates/paper_list_filter.html:43
 msgid ""
 "Change the configuration of the paper assignment list by enabling/disabling the columns listed below, or by applying "
 "filtering (%(filter_icon)s) options."
-msgstr "Общая информация о задании на бумаге"
+msgstr ""
+"Измените конфигурацию списка назначений бумаги, включив/отключив столбцы, перечисленные ниже, или применив"
+"параметры фильтрации (%(filter_icon))."
 
 #: indico/modules/events/papers/templates/paper_list_filter.html:69
 msgid "General paper assignment info"
-msgstrundefined
+msgstr "Общая информация о задании на бумаге"
 
 #: indico/modules/events/papers/templates/display/_common.html:18
 msgid "You can submit your paper for %(contrib_title)s"
-msgstr "Вы можете подать свой доклад для%(contrib_title) s"
+msgstr "Вы можете подать свой доклад для%(contrib_title)"
 
 #: indico/modules/events/papers/templates/display/_common.html:20
 msgid "You can submit a paper"
@@ -8697,30 +8697,32 @@ msgid ""
 "Paper judges use this area to judge papers assigned to them.<br> As a manager you can see all papers in the "
 "%(link_start)smanagement area%(link_end)s."
 msgstr ""
-"Бумажные судьи используют эту область для оценки назначенных им работ.<br> Как менеджер вы можете видеть все статьи в ""%(link_start) smanagement area%(link_end) s. "
+"Судьи используют эту область для оценки назначенных им работ.<br> Как менеджер вы можете видеть все статьи в "
+"%(link_start)Область управления%(link_end)."
 
 #: indico/modules/events/papers/templates/display/reviewing_area.html:12
 msgid "The reviewing area shows the papers for which you are a reviewer."
-msgstr "В области рецензирования отображаются статьи, рецензентом которых вы являетесь. "
+msgstr "В области рецензирования отображаются статьи, рецензентом которых вы являетесь."
 
 #: indico/modules/events/papers/templates/display/reviewing_area.html:18
 msgid ""
 "Paper reviewers use this area to review papers assigned to them.<br> As a judge/manager there is nothing for you to "
 "do here."
 msgstr ""
-"Paper рецензенты используют эту область для рецензирования назначенных им статей.<br> Вам как судье / руководителю нечего ""здесь делать. "
+"Paper рецензенты используют эту область для рецензирования назначенных им статей.<br> Вам как судье/руководителю нечего "
+"здесь делать."
 
 #: indico/modules/events/papers/templates/display/reviewing_area.html:33
 msgid "Reviewing deadlines"
-msgstr "Срок рассмотрения "
+msgstr "Срок рассмотрения"
 
 #: indico/modules/events/papers/templates/display/reviewing_area.html:37
 msgid "Layout reviewing ends on <strong>%(date)s</strong> at <strong>%(time)s</strong>."
-msgstr "Проверка макета заканчивается <strong>%(date) s</strong> в <strong>%(time) s</strong> . "
+msgstr "Проверка макета заканчивается <strong>%(date)</strong> в <strong>%(time)</strong> . "
 
 #: indico/modules/events/papers/templates/display/reviewing_area.html:44
 msgid "Content reviewing ends on <strong>%(date)s</strong> at <strong>%(time)s</strong>."
-msgstr "Контент рецензирование заканчивается <strong>%(date) s</strong> в <strong>%(time) s</strong> . "
+msgstr "Контент рецензирование заканчивается <strong>%(date)</strong> в <strong>%(time)</strong> . "
 
 #: indico/modules/events/papers/templates/display/reviewing_area.html:55
 msgid "Papers to review"
@@ -8744,15 +8746,15 @@ msgstr "Выберите материал, для которого вы хоти
 
 #: indico/modules/events/papers/templates/forms/paper_email_settings_widget.html:11
 msgid "Notify when"
-msgstr "Уведомить, когда "
+msgstr "Уведомить, когда"
 
 #: indico/modules/events/papers/templates/forms/paper_email_settings_widget.html:24
 msgid "the person is added to/removed from the conference"
-msgstr "человек добавлен в конференцию / удален из конференции "
+msgstr "человек добавлен в конференцию/удален из конференции "
 
 #: indico/modules/events/papers/templates/forms/paper_email_settings_widget.html:47
 msgid "the person is assigned to/unassigned from contributions"
-msgstr "лицо назначено / не назначено для участия"
+msgstr "лицо назначено/не назначено для участия"
 
 #: indico/modules/events/papers/templates/forms/paper_email_settings_widget.html:70
 msgid "an author submits a paper"
@@ -8768,187 +8770,190 @@ msgstr "судья оставляет решение"
 
 #: indico/modules/events/papers/templates/management/_templates.html:26
 msgid "Edit paper template"
-msgstr "редактировать шаблон статьи"] , ["Вы действительно хотите удалить этот бумажный шаблон?"
+msgstr "редактировать шаблон статьи"
 
 #: indico/modules/events/papers/templates/management/_templates.html:32
 msgid "Do you really want to delete this paper template?"
-msgstr "Бумажных шаблонов еще нет."
+msgstr "Вы действительно хотите удалить этот бумажный шаблон?"
 
 #: indico/modules/events/papers/templates/management/_templates.html:43
 msgid "There are no paper templates yet."
-msgstr "Бумажное задание"
+msgstr "Бумажных шаблонов еще нет."
 
 #: indico/modules/events/papers/templates/management/assignment.html:9
 msgid "Paper Assignment"
-msgstr ""
-"Назначьте <strong>рецензентов</strong> и <strong>судей</strong> для участия в работе, чтобы дать возможность оценивать их ""исправления на бумаге. "
+msgstr "Предоставление статей"
 
 #: indico/modules/events/papers/templates/management/assignment.html:13
 msgid ""
 "Assign <strong>reviewers</strong> and <strong>judges</strong> to contributions in order to allow assessing their "
 "paper revisions."
 msgstr ""
-"Определение компетенций членов команд может быть полезно для менеджеров и судей во время работы над документом ""как процесс подписания. "
+"Назначьте <strong>рецензентов</strong> и <strong>судей</strong> для участия в работе, чтобы дать возможность оценивать их "
+"исправления в статьях. "
 
 #: indico/modules/events/papers/templates/management/competences.html:7
 msgid ""
 "Defining competences to the members of the teams may be helpful for the managers and judges during the paper "
 "assignment process."
-msgstr "Экспертное рецензирование документов отключено "
+msgstr ""
+"Определение компетенций членов команд может быть полезно для менеджеров и судей во время работы над документом "
+"как процесс подписания."
 
 #: indico/modules/events/papers/templates/management/disabled.html:9
 msgid "Paper Peer Reviewing disabled"
-msgstr ""
-"\ "Экспертное рецензирование документов \"предоставляет интегрированный модуль управления бумагами и рецензирования, который позволит вам ""настроить полное представление документов и коллег рабочий процесс проверки. "
+msgstr "Экспертное рецензирование документов отключено "
 
 #: indico/modules/events/papers/templates/management/disabled.html:11
 msgid ""
 "\"Paper Peer Reviewing\"provides an integrated paper management and peer reviewing module that will allow you to set"
 "up a full paper submission and peer reviewing workflow."
-msgstr "Проверка содержимого "
+msgstr ""
+"\"Экспертное рецензирование документов \"предоставляет интегрированный модуль управления бумагами и рецензирования, который позволит вам "
+"настроить полное представление документов и коллег рабочий процесс проверки."
 
 #: indico/modules/events/papers/templates/management/overview.html:18
 msgid "Content reviewing"
-msgstr "Процесс проверки содержимого отключен "
+msgstr "Проверка содержимого"
 
 #: indico/modules/events/papers/templates/management/overview.html:21
 msgid "The content reviewing process is disabled"
-msgstr "Процесс проверки содержимого заканчивается <strong>%(date) s</strong> в <strong>%(time) s</strong> . "
+msgstr "Процесс проверки содержимого отключен "
 
 #: indico/modules/events/papers/templates/management/overview.html:23
 msgid "The content reviewing process ends on <strong>%(date)s</strong> at <strong>%(time)s</strong>."
-msgstr "The включен процесс проверки содержимого "
+msgstr "Процесс проверки содержимого заканчивается <strong>%(date)</strong> в <strong>%(time)</strong> ."
 
 #: indico/modules/events/papers/templates/management/overview.html:27
 msgid "The content reviewing process is enabled"
-msgstr "Установить крайний срок проверки содержимого "
+msgstr "Включен процесс проверки содержимого"
 
 #: indico/modules/events/papers/templates/management/overview.html:34
 msgid "Set content reviewing deadline"
-msgstr "Процесс проверки начался. Вы действительно хотите отключить процесс проверки содержания? "
+msgstr "Установить крайний срок проверки содержимого"
 
 #: indico/modules/events/papers/templates/management/overview.html:44
 msgid "The reviewing process has started. Are you sure you want to disable the content reviewing process?"
-msgstr "Отключить "
+msgstr "Процесс проверки начался. Вы действительно хотите отключить процесс проверки содержания?"
 
 #: indico/modules/events/papers/templates/management/overview.html:48
 #: indico/modules/events/papers/templates/management/overview.html:100
 msgid "Disable"
-msgstr "Настроить вопросы для проверки содержимого "
+msgstr "Отключить"
 
 #: indico/modules/events/papers/templates/management/overview.html:52
 msgid "Configure content reviewing questions"
-msgstr "Включить "
+msgstr "Настроить вопросы для проверки содержимого"
 
 #: indico/modules/events/papers/templates/management/overview.html:62
 #: indico/modules/events/papers/templates/management/overview.html:114
 #: indico/modules/events/registration/templates/management/participants.html:34
 msgid "Enable"
-msgstr "Проверка макета "
+msgstr "Включить"
 
 #: indico/modules/events/papers/templates/management/overview.html:70
 msgid "Layout reviewing"
-msgstr "Процесс проверки макета выполняется отключено "
+msgstr "Проверка макета"
 
 #: indico/modules/events/papers/templates/management/overview.html:73
 msgid "The layout reviewing process is disabled"
-msgstr "Процесс проверки макета заканчивается <strong>%(date) s</strong> в <strong>%(time) s</strong> . "
+msgstr "Процесс проверки макета выполняется отключено"
 
 #: indico/modules/events/papers/templates/management/overview.html:75
 msgid "The layout reviewing process ends on <strong>%(date)s</strong> at <strong>%(time)s</strong>."
-msgstr "Процесс проверки макета включен "
+msgstr "Процесс проверки макета заканчивается <strong>%(date)</strong> в <strong>%(time)</strong>."
 
 #: indico/modules/events/papers/templates/management/overview.html:79
 msgid "The layout reviewing process is enabled"
-msgstr "Установить крайний срок проверки макета "
+msgstr "Процесс проверки макета включен"
 
 #: indico/modules/events/papers/templates/management/overview.html:86
 msgid "Set layout reviewing deadline"
-msgstr "процесс проверки начался. Вы действительно хотите отключить процесс проверки макета? "
+msgstr "Установить крайний срок проверки макета"
 
 #: indico/modules/events/papers/templates/management/overview.html:96
 msgid "The reviewing process has started. Are you sure you want to disable the layout reviewing process?"
-msgstr "Настроить вопросы проверки макета "
+msgstr "Процесс проверки начался. Вы действительно хотите отключить процесс проверки макета?"
 
 #: indico/modules/events/papers/templates/management/overview.html:104
 msgid "Configure layout reviewing questions"
-msgstr "Оценка бумаги "
+msgstr "Настроить вопросы проверки макета"
 
 #: indico/modules/events/papers/templates/management/overview.html:122
 msgid "Paper judging"
-msgstr "Оценка бумаги заканчивается <strong>%(date) s</strong> в <strong>%(time) s</strong> ."
+msgstr "Оценка бумаги"
 
 #: indico/modules/events/papers/templates/management/overview.html:125
 msgid "Paper judging ends on <strong>%(date)s</strong> at <strong>%(time)s</strong>."
-msgstr "Нет крайнего срока для оценки бумаги."
+msgstr "Оценка бумаги заканчивается <strong>%(date)</strong> в <strong>%(time)</strong>."
 
 #: indico/modules/events/papers/templates/management/overview.html:129
 msgid "There is no deadline for paper judging."
-msgstr "Установить крайний срок для оценки бумаги"
+msgstr "Нет крайнего срока для оценки бумаги."
 
 #: indico/modules/events/papers/templates/management/overview.html:135
 msgid "Set paper judging deadline"
-msgstr "Управление шаблонами бумаги, которые можно загрузить в области мероприятия"
+msgstr "Установить крайний срок для оценки бумаги"
 
 #: indico/modules/events/papers/templates/management/overview.html:150
 msgid "Manage paper templates that can be downloaded in the event area"
-msgstr "Управление шаблонами бумаги"
+msgstr "Управление шаблонами статей, которые можно загрузить в области мероприятия"
 
 #: indico/modules/events/papers/templates/management/overview.html:155
 msgid "Manage paper templates"
-msgstr "Проверка настроек "
+msgstr "Управление шаблонами статей"
 
 #: indico/modules/events/papers/templates/management/overview.html:165
 msgid "Reviewing settings"
-msgstr "Настроить вопросы для проверки, уведомления по электронной почте и т. Д. "
+msgstr "Проверка настроек"
 
 #: indico/modules/events/papers/templates/management/overview.html:166
 msgid "Configure reviewing questions, email notifications, etc."
-msgstr "Управление настройками проверки "
+msgstr "Настроить вопросы для проверки, уведомления по электронной почте и т.д."
 
 #: indico/modules/events/papers/templates/management/overview.html:171
 msgid "Manage reviewing settings"
-msgstr "Группы проверки "
+msgstr "Управление настройками проверки"
 
 #: indico/modules/events/papers/templates/management/overview.html:180
 msgid "Reviewing teams"
-msgstr "Настроить группы и компетенции "
+msgstr "Группы проверки"
 
 #: indico/modules/events/papers/templates/management/overview.html:181
 msgid "Configure teams and competences"
-msgstr "Отправить электронные письма рецензентам статей. и судьи "
+msgstr "Настроить группы и компетенции"
 
 #: indico/modules/events/papers/templates/management/overview.html:186
 msgid "Send emails to paper reviewers and judges"
-msgstr "Управлять менеджерами, рецензентами и судьями, рецензирующими статьи "
+msgstr "Отправить электронные письма рецензентам статей. и судьи"
 
 #: indico/modules/events/papers/templates/management/overview.html:192
 msgid "Manage paper reviewing managers, reviewers and judges"
-msgstr "Команды "
+msgstr "Управлять менеджерами, рецензентами и судьями, рецензирующими статьи"
 
 #: indico/modules/events/papers/templates/management/overview.html:194
 msgid "Teams"
-msgstr "Задание бумаги "
+msgstr "Команды"
 
 #: indico/modules/events/papers/templates/management/overview.html:207
 msgid "Paper assignment"
-msgstr "Назначить рецензентов и судей по статьям "
+msgstr "Задание бумаги"
 
 #: indico/modules/events/papers/templates/management/overview.html:208
 msgid "Assign reviewers and judges to papers"
-msgstr "Назначить статьи "
+msgstr "Назначить рецензентов и судей по статьям"
 
 #: indico/modules/events/papers/templates/management/overview.html:212
 msgid "Assign papers"
-msgstr "Этот человек - судья"
+msgstr "Назначить статьи"
 
 #: indico/modules/events/papers/templates/management/paper_person_list.html:37
 msgid "This person is a judge"
-msgstr "Этот человек не судья"
+msgstr "Этот человек - судья"
 
 #: indico/modules/events/papers/templates/management/paper_person_list.html:39
 msgid "This person is not a judge"
-msgstrundefined
+msgstr "Этот человек не судья"
 
 #: indico/modules/events/papers/templates/management/paper_person_list.html:45
 msgid "This person is a content reviewer"
@@ -8983,7 +8988,7 @@ msgid ""
 "standards."
 msgstr ""
 "Загрузка бумажных шаблонов упрощает авторам написание статей, соответствующих"
-"стандартам"конференции.
+"стандартам конференции."
 
 #: indico/modules/events/papers/templates/management/templates.html:18
 msgid "Upload new paper template"
@@ -9062,8 +9067,7 @@ msgid ""
 "The currency code must be a valid <a href='{0}'>ISO-4217</a> code such as 'EUR' or 'CHF'."
 msgstr ""
 "Список валют, которые можно выбрать для события. При удалении валюты существующие события будут продолжать ее использовать"
-"Код валюты должен быть действительным кодом <a href='{0}'>ISO-4217, например</a> "EUR"или "CHF"
-".
+"Код валюты должен быть действительным кодом <a href='{0}'>ISO-4217, например</a> 'EUR' или 'CHF'."
 
 #: indico/modules/events/payment/forms.py:34 indico/modules/events/registration/forms.py:83
 msgid "Currency"
@@ -9203,7 +9207,7 @@ msgstr "Вручную"
 
 #: indico/modules/events/payment/templates/management/payments.html:58
 msgid "Payment settings: %(method)s"
-msgstr "Настройки оплаты:%(метод) s"
+msgstr "Настройки оплаты:%(метод)"
 
 #: indico/modules/events/persons/__init__.py:25 indico/modules/events/persons/templates/management/person_list.html:8
 msgid "Participant Roles"
@@ -9266,7 +9270,7 @@ msgid ""
 "This person is currently just an author of an abstract with no other ties to the event. Their data may have been "
 "provided by the submitter of the abstract."
 msgstr ""
-Этот человек в настоящее время является просто автором реферата, не имеющим никакой другой связи с мероприятием. Его данные могли быть"
+"Этот человек в настоящее время является просто автором реферата, не имеющим никакой другой связи с мероприятием. Его данные могли быть"
 "предоставлены автором реферата."
 
 #: indico/modules/events/persons/templates/management/_person_list_row.html:68
@@ -9715,153 +9719,153 @@ msgstr "Отображать пунктирную границу вокруг к
 
 #: indico/modules/events/registration/forms.py:368
 msgid "Page orientation"
-msgstr "Ориентация страницы "],[ "Макет страницы"],[  ""
-"Односторонний (складной) вариант доступен только в том случае, если ориентация шаблона совпадает с ориентацией страницы"
-"и его ширина составляет ровно половину ширины страницы"
+msgstr "Ориентация страницы "
 
 #: indico/modules/events/registration/forms.py:369
 msgid "Page layout"
-msgstr "Верхнее поле"
+msgstr "Макет страницы"
 
 #: indico/modules/events/registration/forms.py:370
 msgid ""
 "The single sided (foldable) option is only available if the template orientation is the same as the page orientation "
 "and its width is exactly half of the page width"
-msgstr "Левое поле"
+msgstr ""
+"Односторонний (складной) вариант доступен только в том случае, если ориентация шаблона совпадает с ориентацией страницы"
+"и его ширина составляет ровно половину ширины страницы"
 
 #: indico/modules/events/registration/forms.py:374
 msgid "Top margin"
-msgstr "Правое поле"
+msgstr "Верхний отступ"
 
 #: indico/modules/events/registration/forms.py:375
 msgid "Left margin"
-msgstr "Нижнее поле"
+msgstr "Левый отступ"
 
 #: indico/modules/events/registration/forms.py:376
 msgid "Right margin"
-msgstr "Поле между столбцами"
+msgstr "Правый отступ"
 
 #: indico/modules/events/registration/forms.py:377
 msgid "Bottom margin"
-msgstr "Промежуток между строками"
+msgstr "Нижнее поле"
 
 #: indico/modules/events/registration/forms.py:378
 msgid "Margin between columns"
-msgstr "Исходный файл"
+msgstr "Поле между столбцами"
 
 #: indico/modules/events/registration/forms.py:379
 msgid "Margin between rows"
-msgstr "Пропустить модерацию"
+msgstr "Промежуток между строками"
 
 #: indico/modules/events/registration/forms.py:399 indico/modules/events/roles/forms.py:44
 #: indico/modules/events/timetable/forms.py:205
 msgid "Source File"
-msgstr "Если включено, регистрация будет немедленно принята"
+msgstr "Исходный файл"
 
 #: indico/modules/events/registration/forms.py:400
 msgid "Skip Moderation"
-msgstr "Пользователи электронной почты"
+msgstr "Пропустить модерацию"
 
 #: indico/modules/events/registration/forms.py:401
 msgid "If enabled, the registration will be immediately accepted"
-msgstr "Будет ли импортировано пользователи должны получить уведомление по электронной почте "
+msgstr "Если включено, регистрация будет немедленно принята"
 
 #: indico/modules/events/registration/forms.py:402
 msgid "E-mail users"
-msgstr "Здесь вы можете указать причину отказа ."
+msgstr "Пользователи электронной почты"
 
 #: indico/modules/events/registration/forms.py:403
 msgid "Whether the imported users should receive an e-mail notification"
-msgstr "Приложите причину"
+msgstr "Будет ли импортировано пользователи должны получить уведомление по электронной почте"
 
 #: indico/modules/events/registration/forms.py:413
 msgid "You can provide a reason for the rejection here."
-msgstr "Дата регистрации"
+msgstr "Здесь вы можете указать причину отказа."
 
 #: indico/modules/events/registration/forms.py:414
 msgid "Attach reason"
-msgstr "Размещение"
+msgstr "Приложите причину"
 
 #: indico/modules/events/registration/lists.py:39
 msgid "Registration Date"
-msgstr "Зарегистрированные лица"
+msgstr "Дата регистрации"
 
 #: indico/modules/events/registration/stats.py:329 indico/modules/events/registration/stats.py:380
 msgid "Accommodation"
-msgstr "Занятость"
+msgstr "Размещение"
 
 #: indico/modules/events/registration/stats.py:380 indico/web/templates/forms/permissions_widget.html:46
 msgid "Registrants"
-msgstr "Размещение оплачено"
+msgstr "Зарегистрированные лица"
 
 #: indico/modules/events/registration/stats.py:383
 msgid "Occupancy"
-msgstr "Всего оплачено (не оплачено)"] , ["Всего"
+msgstr "Занятость"
 
 #: indico/modules/events/registration/stats.py:387
 msgid "Accommodations paid"
-msgstr "Строка {}: отсутствует адрес электронной почты"
+msgstr "Размещение оплачено"
 
 #: indico/modules/events/registration/stats.py:388
 msgid "Total paid (unpaid)"
-msgstr "Строка {}: недопустимый адрес электронной почты"
+msgstr "Всего оплачено (не оплачено)"
 
 #: indico/modules/events/registration/stats.py:389
 #: indico/modules/events/registration/templates/display/_registration_summary_blocks.html:170
 msgid "Total"
-msgstr "Строка {}: отсутствует имя или фамилия"
+msgstr "Всего"
 
 #: indico/modules/events/registration/util.py:570
 msgid "Row {}: missing e-mail address"
-msgstr "Строка {}: регистрация с этим адресом электронной почты уже существует"
+msgstr "Строка {}: отсутствует адрес электронной почты"
 
 #: indico/modules/events/registration/util.py:572
 msgid "Row {}: invalid e-mail address"
-msgstr "Строка {}: адрес электронной почты не является уникальным"
+msgstr "Строка {}: недопустимый адрес электронной почты"
 
 #: indico/modules/events/registration/util.py:574
 msgid "Row {}: missing first or last name"
-msgstr "Ваш код приглашения недействителен."
+msgstr "Строка {}: отсутствует имя или фамилия"
 
 #: indico/modules/events/registration/util.py:576
 msgid "Row {}: a registration with this email already exists"
-msgstr "Это приглашение не существует или было отозвано."
+msgstr "Строка {}: регистрация с этим адресом электронной почты уже существует"
 
 #: indico/modules/events/registration/util.py:578 indico/util/roles.py:40
 msgid "Row {}: email address is not unique"
-msgstr "Вы пытаетесь зарегистрироваться с помощью формы, которая требует, чтобы вы вошли в систему"
+msgstr "Строка {}: адрес электронной почты не является уникальным"
 
 #: indico/modules/events/registration/controllers/display.py:235
 msgid "Your invitation code is not valid."
-msgstr ""
-"Нам не удалось найти для вас регистрацию. Если вы уже зарегистрировались, воспользуйтесь ссылкой прямого доступа из"
-"электронное письмо, полученное после регистрации."
+msgstr "Ваш код приглашения недействителен."
 
 #: indico/modules/events/registration/controllers/display.py:239
 msgid "This invitation does not exist or has been withdrawn."
-msgstr ""
-"Нам не удалось найти для вас регистрацию. Если вы уже зарегистрировались, воспользуйтесь ссылкой прямого доступа из"
-"электронное письмо, полученное вами после регистрации или входа в свою учетную запись Indico."
+msgstr "Это приглашение не существует или было отозвано."
 
 #: indico/modules/events/registration/controllers/display.py:274
 msgid "You are trying to register with a form that requires you to be logged in"
-msgstr "Ваша регистрация была отозвана."
+msgstr "Вы пытаетесь зарегистрироваться с помощью формы, которая требует, чтобы вы вошли в систему"
 
 #: indico/modules/events/registration/controllers/display.py:336
 msgid ""
 "We could not find a registration for you.  If have already registered, please use the direct access link from the "
 "email you received after registering."
-msgstrundefined
+msgstr ""
+"Нам не удалось найти для вас регистрацию. Если вы уже зарегистрировались, воспользуйтесь ссылкой прямого доступа из"
+"электронное письмо, полученное после регистрации."
 
 #: indico/modules/events/registration/controllers/display.py:339
 msgid ""
 "We could not find a registration for you.  If have already registered, please use the direct access link from the "
 "email you received after registering or log in to your Indico account."
-msgstrundefined
+msgstr ""
+"Нам не удалось найти для вас регистрацию. Если вы уже зарегистрировались, воспользуйтесь ссылкой прямого доступа из"
+"электронное письмо, полученное вами после регистрации или входа в свою учетную запись Indico."
 
 #: indico/modules/events/registration/controllers/display.py:359
 msgid "Your registration has been withdrawn."
-msgstrundefined
+msgstr "Ваша регистрация была отозвана."
 
 #: indico/modules/events/registration/controllers/display.py:375
 msgid "You declined the invitation to register."
