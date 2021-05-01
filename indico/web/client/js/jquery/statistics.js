@@ -34,11 +34,11 @@ import './compat/jqplot';
       },
       highlighter: {show: true},
       legend: {show: false},
-      seriesColors: ['#007CAC'], // indico blue
+      seriesColors: ['#122c35'], // indico blue
       seriesDefaults: {
         markerOptions: {
           style: 'filledCircle',
-          color: '#007CAC', // indico blue
+          color: '#122c35', // indico blue
         },
         lineWidth: 3,
         pointLabels: {
