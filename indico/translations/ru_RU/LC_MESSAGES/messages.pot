@@ -9992,39 +9992,39 @@ msgstr "Причина, по которой регистрация была от
 #: indico/modules/events/registration/templates/display/conference_home.html:34
 msgid "Application"
 msgstr "Заявка "
-
 #: indico/modules/events/registration/templates/display/_regform_info.html:12
 msgid "Registration is open"
-msgstr "Регистрация открыта "
+msgstr "Регистрация открыта"
 
 #: indico/modules/events/registration/templates/display/_regform_info.html:17
 msgid "Opened"
-msgstr "Открыта "
+msgstr "Открыта"
 
 #: indico/modules/events/registration/templates/display/_regform_info.html:19
 #: indico/modules/events/registration/templates/display/regform_list.html:26
 msgid "Opens"
-msgstr "Открыта "
+msgstr "Открыта"
 
 #: indico/modules/events/registration/templates/display/_regform_info.html:32
 msgid "Closed"
-msgstr "Закрыта "
+msgstr "Закрыта"
 
 #: indico/modules/events/registration/templates/display/_regform_info.html:34
 #: indico/modules/events/registration/templates/display/regform_list.html:27
 msgid "Closes"
-msgstr "Закрывается "
+msgstr "Закрывается"
 
 #: indico/modules/events/registration/templates/display/_regform_info.html:41
 msgid "Not specified"
-msgstr "Не указано "
+msgstr "Не указано"
 
 #: indico/modules/events/registration/templates/display/_regform_invitation_info.html:6
 msgid ""
 "You have been invited to register for this event. If you do not wish to participate, please inform the organizers by "
 "declining the invitation."
 msgstr ""
-"Вас пригласили для регистрации на это мероприятие. Если вы не желаете участвовать, сообщите об этом организаторам, отклонив приглашение."
+"Вас пригласили для регистрации на это мероприятие. Если вы не желаете участвовать, сообщите об этом организаторам,"
+"отклонив приглашение."
 
 #: indico/modules/events/registration/templates/display/_regform_invitation_info.html:15
 msgid "Decline Invitation"
@@ -10040,7 +10040,7 @@ msgstr "Отклонить"
 
 #: indico/modules/events/registration/templates/display/_regform_invitation_info.html:21
 msgid "You have declined the invitation, but you may still register for the event."
-msgstr "Вы отклонили приглашение, но вы все еще можете зарегистрироваться для участия в мероприятии"
+msgstr "Вы отклонили приглашение, но вы все еще можете зарегистрироваться для участия в мероприятии."
 
 #: indico/modules/events/registration/templates/display/_registration_summary_blocks.html:14
 msgid "This field no longer exists"
@@ -10048,47 +10048,47 @@ msgstr "Это поле больше не существует"
 
 #: indico/modules/events/registration/templates/display/_registration_summary_blocks.html:29
 msgid "<strong>Arrival:</strong> %(arrival_date)s"
-msgstr "<strong>Прибытие:</strong> %(прибытие_дата) s"
+msgstr "<strong>Прибытие:</strong> %(arrival_date)"
 
 #: indico/modules/events/registration/templates/display/_registration_summary_blocks.html:34
 msgid "<strong>Departure:</strong> %(departure_date)s"
-msgstr "<strong>Отъезд</strong> :%(Дата_въезда) s"
+msgstr "<strong>Отъезд</strong> :%(departure_date) s"
 
 #: indico/modules/events/registration/templates/display/_registration_summary_blocks.html:40
 msgid "<strong>Accommodation:</strong> %(accommodation)s"
-msgstr "<strong>Размещение:</strong> %(размещение) s"
+msgstr "<strong>Размещение:</strong> %(accommodation) s"
 
 #: indico/modules/events/registration/templates/display/_registration_summary_blocks.html:61
 msgid "Summary"
-msgstr "Сводка "
+msgstr "Сводка"
 
 #: indico/modules/events/registration/templates/display/_registration_summary_blocks.html:65
 msgid "Reference:"
-msgstr "Ссылка: "
+msgstr "Ссылка:"
 
 #: indico/modules/events/registration/templates/display/_registration_summary_blocks.html:71
 msgid "Date:"
-msgstr "Дата: "
+msgstr "Дата:"
 
 #: indico/modules/events/registration/templates/display/_registration_summary_blocks.html:91
 msgid "Invoice"
-msgstr "Счет-фактура "
+msgstr "Счет-фактура"
 
 #: indico/modules/events/registration/templates/display/_registration_summary_blocks.html:95
 msgid "Not paid"
-msgstr "Не оплачен "
+msgstr "Не оплачен"
 
 #: indico/modules/events/registration/templates/display/_registration_summary_blocks.html:100
 msgid "Paid"
-msgstr "Оплачен "
+msgstr "Оплачен"
 
 #: indico/modules/events/registration/templates/display/_registration_summary_blocks.html:114
 msgid "Item"
-msgstr "Товар "
+msgstr "Товар"
 
 #: indico/modules/events/registration/templates/display/_registration_summary_blocks.html:120
 msgid "Cost"
-msgstr "Стоимость "
+msgstr "Стоимость"
 
 #: indico/modules/events/registration/templates/display/_registration_summary_blocks.html:160
 msgid "Price adjustment"
@@ -10102,7 +10102,7 @@ msgstr "Получить билет"
 
 #: indico/modules/events/registration/templates/display/conference_home.html:12
 msgid "Download ticket for the '%(title)s' registration form"
-msgstr "Загрузить билет для регистрационной формы '%(title) s'"
+msgstr "Загрузить билет для регистрационной формы '%(title)'"
 
 #: indico/modules/events/registration/templates/display/conference_home.html:42
 msgid "You are registered for this event, but there are more registration forms available."
@@ -10111,15 +10111,15 @@ msgstr "Вы зарегистрированы для участия в этом 
 #: indico/modules/events/registration/templates/display/conference_home.html:47
 #: indico/modules/events/registration/templates/display/event_header.html:13
 msgid "You are registered for this event."
-msgstr "Вы зарегистрированы для участия в этом мероприятии"
+msgstr "Вы зарегистрированы для участия в этом мероприятии."
 
 #: indico/modules/events/registration/templates/display/conference_home.html:52
 msgid "Application for this event is currently open."
-msgstr "Заявка на это мероприятие в настоящее время открыта"
+msgstr "Заявка на это мероприятие в настоящее время открыта."
 
 #: indico/modules/events/registration/templates/display/conference_home.html:54
 msgid "Registration for this event is currently open."
-msgstr "В настоящее время открыта регистрация на это мероприятие"
+msgstr "В настоящее время открыта регистрация на это мероприятие."
 
 #: indico/modules/events/registration/templates/display/conference_home.html:61
 #: indico/modules/events/registration/templates/display/event_header.html:33
@@ -10183,19 +10183,19 @@ msgstr "Списки участников, сгруппированные по �
 #: indico/modules/events/registration/templates/display/participant_list.html:76
 #: indico/modules/events/registration/templates/management/_reglist.html:132
 msgid "There are no registrations yet."
-msgstr "Еще нет регистраций"
+msgstr "Еще нет регистраций."
 
 #: indico/modules/events/registration/templates/display/participant_list.html:85
 msgid "There are no published registrations."
-msgstr "Нет опубликованных регистраций"
+msgstr "Нет опубликованных регистраций."
 
 #: indico/modules/events/registration/templates/display/participant_list.html:89
 msgid "There are no participants yet."
-msgstr "Пока нет участников"
+msgstr "Пока нет участников."
 
 #: indico/modules/events/registration/templates/display/regform_display.html:21
 msgid "Add registration to \"%(title)s\""
-msgstr "Добавить регистрацию в \"%(title) s\""
+msgstr "Добавить регистрацию в \"%(title)\""
 
 #: indico/modules/events/registration/templates/display/regform_display.html:31
 #: indico/modules/events/registration/templates/display/regform_list.html:17
@@ -10282,7 +10282,7 @@ msgstr "Нет регистрационных форм доступно для �
 #: indico/modules/events/registration/templates/display/registration_modify.html:41
 #: indico/modules/events/registration/templates/display/registration_summary.html:57
 msgid "The modification period is over"
-msgstr "Срок изменения истек "
+msgstr "Срок изменения истек"
 
 #: indico/modules/events/registration/templates/display/registration_modify.html:43
 msgid "Modification is not allowed after payment."
@@ -10380,7 +10380,8 @@ msgid ""
 "Use this link to come back to this page.<br> Make sure to keep it private as you do not need to be logged in to "
 "access it."
 msgstr ""
-"Воспользуйтесь этой ссылкой, чтобы вернуться на эту страницу.<br> Убедитесь, что он закрыт, поскольку вам не нужно входить в систему, чтобы "получить к нему доступ"
+"Воспользуйтесь этой ссылкой, чтобы вернуться на эту страницу.<br> Убедитесь, что он закрыт, поскольку вам не нужно входить в систему, чтобы "
+"получить к нему доступ."
 
 #: indico/modules/events/registration/templates/management/_invitation_list.html:6
 msgid "Pending invitations"
@@ -10396,24 +10397,24 @@ msgstr "Отклоненные приглашения"
 
 #: indico/modules/events/registration/templates/management/_invitation_list.html:12
 msgid "Nobody has been invited yet."
-msgstr "Никто не был приглашены еще. "
+msgstr "Еще никого не пригласили."
 
 #: indico/modules/events/registration/templates/management/_invitation_list.html:41
 msgid "Mark as declined"
-msgstr "Отметить как отклоненное "
+msgstr "Отметить как отклоненное"
 
 #: indico/modules/events/registration/templates/management/_invitation_list.html:44
 msgid "Mark invitation as declined"
-msgstr "Отметить приглашение как отклоненное "
+msgstr "Отметить приглашение как отклоненное"
 
 #: indico/modules/events/registration/templates/management/_invitation_list.html:45
 msgid "Do you really want to mark this invitation as declined by the invitee?"
-msgstr "Вы действительно хотите отметить это приглашение как отклоненное приглашенным? "
+msgstr "Вы действительно хотите отметить это приглашение как отклоненное приглашенным?"
 
 #: indico/modules/events/registration/templates/management/_invitation_list.html:48
 #: indico/modules/events/registration/templates/management/_invitation_list.html:51
 msgid "Delete invitation"
-msgstr "Удалить приглашение "
+msgstr "Удалить приглашение"
 
 #: indico/modules/events/registration/templates/management/_invitation_list.html:52
 msgid "Do you really want to delete this invitation?"
@@ -10421,11 +10422,11 @@ msgstr "Вы действительно хотите удалить это пр�
 
 #: indico/modules/events/registration/templates/management/_regform_base.html:8
 msgid "Manage form \"%(title)s\""
-msgstr "Управление формой \"%(title) s\""
+msgstr "Управление формой \"%(title)\""
 
 #: indico/modules/events/registration/templates/management/_registration_details.html:38
-msgid "Last updated by %(updated_by)s on %(timestamp)s."
-msgstr "Последнее обновление%(updated_by) s на%(timestamp) s"
+msgid "Last updated by %(updated_by) on %(timestamp)."
+msgstr "Последнее обновление %(updated_by) в %(timestamp)"
 
 #: indico/modules/events/registration/templates/management/_registration_details.html:53
 #: indico/modules/events/registration/templates/management/_registration_details.html:142
@@ -10446,23 +10447,23 @@ msgstr "Регистрация ожидает утверждения менед�
 
 #: indico/modules/events/registration/templates/management/_registration_details.html:90
 msgid "You can validate or reject this registration and the user will receive a notification."
-msgstr "Вы можете подтвердить или отклонить эту регистрацию, и пользователь получит уведомление."] , ["Вы уверены, что хотите одобрить эту регистрацию? При этом будет отправлено уведомление по электронной почте. "
+msgstr "Вы можете подтвердить или отклонить эту регистрацию, и пользователь получит уведомление."
 
 #: indico/modules/events/registration/templates/management/_registration_details.html:100
 msgid "Are you sure you want to approve this registration? This will trigger a notification email."
-msgstr "Подтвердить регистрацию "
+msgstr "Вы уверены, что хотите одобрить эту регистрацию? При этом будет отправлено уведомление по электронной почте. "
 
 #: indico/modules/events/registration/templates/management/_registration_details.html:101
 msgid "Approve registration"
-msgstr "Подтвердить "
+msgstr "Подтвердить регистрацию"
 
 #: indico/modules/events/registration/templates/management/_registration_details.html:102
 msgid "Approve"
-msgstr "Отклонить регистрацию "
+msgstr "Подтвердить"
 
 #: indico/modules/events/registration/templates/management/_registration_details.html:109
 msgid "Reject registration"
-msgstrundefined
+msgstr "Отклонить регистрацию"
 
 #: indico/modules/events/registration/templates/management/_registration_details.html:121
 msgid "Registration not paid yet"
@@ -10474,7 +10475,7 @@ msgstr "Текущая транзакция еще не завершена."
 
 #: indico/modules/events/registration/templates/management/_registration_details.html:126
 msgid "You can mark the registration as paid manually."
-msgstr "Вы можете пометить регистрацию как оплаченную вручную"
+msgstr "Вы можете пометить регистрацию как оплаченную вручную."
 
 #: indico/modules/events/registration/templates/management/_registration_details.html:146
 #: indico/modules/events/registration/templates/management/_registration_details.html:167
@@ -10487,27 +10488,27 @@ msgstr "Эта регистрация завершена"
 
 #: indico/modules/events/registration/templates/management/_registration_details.html:158
 msgid "Submitted: %(submitted)s"
-msgstr "Отправлено:%(отправлено) s"
+msgstr "Отправлено:%(submitted)"
 
 #: indico/modules/events/registration/templates/management/_registration_details.html:182
 msgid "This registration is %(state)s"
-msgstr "Это регистрация%(состояние) s"
+msgstr "Это регистрация%(state)"
 
 #: indico/modules/events/registration/templates/management/_registration_details.html:187
 msgid "Reason: %(reason)s"
-msgstr "Причина:%(причина ) s "
+msgstr "Причина:%(reason)"
 
 #: indico/modules/events/registration/templates/management/_registration_details.html:191
 msgid "Reset rejection"
-msgstr "Сбросить отказ "
+msgstr "Сбросить отказ"
 
 #: indico/modules/events/registration/templates/management/_registration_details.html:191
 msgid "Reset withdrawal"
-msgstr "Сбросить снятие средств "
+msgstr "Сбросить снятие средств"
 
 #: indico/modules/events/registration/templates/management/_registration_details.html:200
 msgid "This will trigger a notification email."
-msgstr "Будет отправлено уведомление по электронной почте ."
+msgstr "Будет отправлено уведомление по электронной почте."
 
 #: indico/modules/events/registration/templates/management/_registration_details.html:202
 msgid "This action will not be notified to the registrant."
@@ -10574,7 +10575,7 @@ msgstr "Вы уверены, что хотите отозвать эту рег�
 #: indico/modules/events/registration/templates/management/_reglist.html:11
 msgid "Filtering is enabled. Displaying %(filtered_registrations)s out of %(total_registrations)s registrants."
 msgstr "Фильтрация включена. Отображение%(filter_registrations) s из%(total_registrations) s."
-"
+
 
 #: indico/modules/events/registration/templates/management/_reglist.html:24
 msgid "Full name"
@@ -10591,14 +10592,15 @@ msgstr ""
 #: indico/modules/events/registration/templates/management/email.html:21
 #: indico/modules/events/reminders/templates/edit_reminder.html:26
 msgid "Preview email"
-msgstr "Предварительный просмотр электронного письма"
+msgstr "Предварительный просмотр письма"
 
 #: indico/modules/events/registration/templates/management/email_preview.html:4
 msgid ""
 "This preview is only shown for a single registration.<br> When sending the emails, each registrant will receive an "
 "email customized with the data of their registration."
 msgstr ""
-"Этот предварительный просмотр отображается только при однократной регистрации.<br> При отправке электронных писем каждый регистрант получит ""электронное письмо с данными о его регистрации. "
+"Этот предварительный просмотр отображается только при однократной регистрации.<br> При отправке электронных писем каждый регистрант получит "
+"электронное письмо с данными о его регистрации. "
 
 #: indico/modules/events/registration/templates/management/import_registrations.html:5
 msgid "You should upload a CSV (comma-separated values) file with exactly 6 columns in the following order:"
@@ -10610,7 +10612,7 @@ msgstr "Номер телефона"
 
 #: indico/modules/events/registration/templates/management/import_registrations.html:29
 msgid "The fields \"First Name\", \"Last Name\"and \"E-mail\"are mandatory."
-msgstr "Поля \"Имя\", \"Фамилия\"и \"Электронная почта\"являются обязательными"
+msgstr "Поля \"Имя\", \"Фамилия\"и \"Электронная почта\"являются обязательными."
 
 #: indico/modules/events/registration/templates/management/participants.html:24
 msgid "The registration feature is disabled"
@@ -10619,24 +10621,24 @@ msgstr "Функция регистрации отключена"
 #: indico/modules/events/registration/templates/management/participants.html:26
 #: indico/modules/events/registration/templates/management/participants.html:45
 msgid "Participants are now handled through a registration form."
-msgstr "Обработка участников теперь осуществляется через регистрационную форму. "
+msgstr "Обработка участников теперь осуществляется через регистрационную форму."
 
 #: indico/modules/events/registration/templates/management/participants.html:43
 msgid "There is no registration form for participants"
-msgstr "Для участников нет регистрационной формы "
+msgstr "Для участников нет регистрационной формы"
 
 #: indico/modules/events/registration/templates/management/participants.html:53
 #: indico/modules/vc/templates/manage_event_select.html:11
 msgid "Create"
-msgstr "Создать "
+msgstr "Создать"
 
 #: indico/modules/events/registration/templates/management/print_badges.html:20
 msgid "Page configuration"
-msgstr "Конфигурация страницы "
+msgstr "Конфигурация страницы"
 
 #: indico/modules/events/registration/templates/management/print_badges.html:41
 msgid "<strong>Tip</strong>: if your printer does not align the badges correctly, you can tweak the margins."
-msgstr "<strong>Совет</strong> : если ваш принтер неправильно выравнивает значки , вы можете настроить поля. "
+msgstr "<strong>Совет</strong> : если ваш принтер неправильно выравнивает значки , вы можете настроить поля."
 
 #: indico/modules/events/registration/templates/management/print_badges.html:46
 msgid ""
@@ -10645,55 +10647,58 @@ msgid ""
 "do not forget to decrease the opposing one to avoid Indico thinking there is less space for printing badges, and the"
 "number of rows / columns will change."
 msgstr ""
-"<strong>Пример</strong> : если ваше левое и правое поля составляют 1,5 см каждое, но ваш принтер печатает все, что от 1 мм до ""левого "", вы можете использовать левое поле 1,6 см и правое поле 1,4 см для компенсации. Если вы увеличиваете поле, ""не забывайте уменьшать противоположное, чтобы ""Индика не подумал, что для печати значков меньше места, и ""количество строк / столбцов изменится. "
+"<strong>Пример</strong> : если ваше левое и правое поля составляют 1,5 см каждое, но ваш принтер печатает все, что от 1 мм до ""левого "
+", вы можете использовать левое поле 1,6 см и правое поле 1,4 см для компенсации. Если вы увеличиваете поле, "
+"не забывайте уменьшать противоположное, чтобы ""Система не подумала, что для печати значков меньше места, и "
+"количество строк / столбцов изменится."
 
 #: indico/modules/events/registration/templates/management/regform.html:19
 msgid "Edit settings for this form."
-msgstr "Изменить настройки для этой формы . "
+msgstr "Изменить настройки для этой формы ."
 
 #: indico/modules/events/registration/templates/management/regform.html:32
 msgid "Registration Form"
-msgstr "Регистрационная форма "
+msgstr "Регистрационная форма"
 
 #: indico/modules/events/registration/templates/management/regform.html:34
 msgid "Add, remove or modify information registrants may fill out."
-msgstr "Добавить, удалить или изменить информацию, которую могут заполнить регистранты. "
+msgstr "Добавить, удалить или изменить информацию, которую могут заполнить регистранты."
 
 #: indico/modules/events/registration/templates/management/regform.html:49
 msgid "List of registrations"
-msgstr "Список регистраций "
+msgstr "Список регистраций"
 
 #: indico/modules/events/registration/templates/management/regform.html:51
 msgid "Add, remove or modify registrations."
-msgstr "Добавить, удалить или изменить регистрации. "
+msgstr "Добавить, удалить или изменить регистрации."
 
 #: indico/modules/events/registration/templates/management/regform.html:74
 msgid "Invitations"
-msgstr "Приглашения "
+msgstr "Приглашения"
 
 #: indico/modules/events/registration/templates/management/regform.html:76
 msgid "Manage invitations to register for your event."
-msgstr "Управление приглашениями для регистрации на ваше мероприятие. "
+msgstr "Управление приглашениями для регистрации на ваше мероприятие."
 
 #: indico/modules/events/registration/templates/management/regform.html:88
 msgid "Tickets"
-msgstr "Билеты "
+msgstr "Билеты"
 
 #: indico/modules/events/registration/templates/management/regform.html:90
 msgid "Configure ticketing system"
-msgstr "Настроить систему продажи билетов "
+msgstr "Настроить систему продажи билетов"
 
 #: indico/modules/events/registration/templates/management/regform.html:99
 msgid "QR Code"
-msgstr "QR-код "
+msgstr "QR-код"
 
 #: indico/modules/events/registration/templates/management/regform.html:103
 msgid "Configure tickets"
-msgstr "Настроить билеты "
+msgstr "Настроить билеты"
 
 #: indico/modules/events/registration/templates/management/regform.html:114
 msgid "Stats"
-msgstr "Статистика "
+msgstr "Статистика"
 
 #: indico/modules/events/registration/templates/management/regform_display.html:8
 msgid "Participants display"
@@ -10701,15 +10706,15 @@ msgstr "Отображение участников"
 
 #: indico/modules/events/registration/templates/management/regform_display.html:12
 msgid "Customize how the registrations are shown on the participant list page."
-msgstr "Настройте способ отображения регистраций на странице списка участников"
+msgstr "Настройте способ отображения регистраций на странице списка участников."
 
 #: indico/modules/events/registration/templates/management/regform_display.html:26
 msgid "There are no registration forms for this event."
-msgstr "Для этого события нет регистрационных форм"
+msgstr "Для этого события нет регистрационных форм."
 
 #: indico/modules/events/registration/templates/management/regform_display.html:28
 msgid "Start by creating a registration form."
-msgstr "Начните с создания регистрационной формы"
+msgstr "Начните с создания регистрационной формы."
 
 #: indico/modules/events/registration/templates/management/regform_display.html:32
 #: indico/modules/events/registration/templates/management/regform_edit.html:8
@@ -10744,25 +10749,26 @@ msgid ""
 "By dragging the column titles, you can choose which fields to display and reorder them. Custom fields added to "
 "registration forms can only be shown if the registration forms are not merged."
 msgstr ""
-"Перетаскивая заголовки столбцов, вы можете выбрать поля для отображения и изменить их порядок. Пользовательские поля, добавленные в ""формы регистрации, могут отображаться только в том случае, если формы регистрации не объединены. "
+"Перетаскивая заголовки столбцов, вы можете выбрать поля для отображения и изменить их порядок. Пользовательские поля, добавленные в "
+"формы регистрации, могут отображаться только в том случае, если формы регистрации не объединены."
 
 #: indico/modules/events/registration/templates/management/regform_display.html:71
 #: indico/modules/events/registration/templates/management/regform_display_form_columns.html:8
 msgid "Shown columns"
-msgstr "Показанные столбцы "
+msgstr "Показанные столбцы"
 
 #: indico/modules/events/registration/templates/management/regform_display.html:72
 #: indico/modules/events/registration/templates/management/regform_display_form_columns.html:9
 msgid "Hidden columns"
-msgstr "Скрытые столбцы "
+msgstr "Скрытые столбцы"
 
 #: indico/modules/events/registration/templates/management/regform_display.html:78
 msgid "By dragging the form titles, you can choose which to display and reorder them."
-msgstr "Перетаскивая заголовки форм, вы можете выбрать, какие из отобразить и изменить их порядок. "
+msgstr "Перетаскивая заголовки форм, вы можете выбрать, какие из отобразить и изменить их порядок."
 
 #: indico/modules/events/registration/templates/management/regform_display.html:87
 msgid "Customize columns for %(title)s"
-msgstr "Настроить столбцы для%(title) s "
+msgstr "Настроить столбцы для%(title)"
 
 #: indico/modules/events/registration/templates/management/regform_display.html:88
 msgid "Choose which columns of this form are displayed"
@@ -10771,11 +10777,10 @@ msgstr "Выбрать, какие столбцы этой формы будут
 #: indico/modules/events/registration/templates/management/regform_edit.html:6
 msgid "Edit form \"%(title)s\""
 msgstr "Изменить форму\"%(title) s \"
-"
 
 #: indico/modules/events/registration/templates/management/regform_edit.html:16
 msgid "Price options"
-msgstr "Варианты цен"
+msgstr "Настройка цены"
 
 #: indico/modules/events/registration/templates/management/regform_edit.html:19
 msgid "Notifications for registrants"
@@ -10787,7 +10792,7 @@ msgstr "Уведомления для менеджеров"
 
 #: indico/modules/events/registration/templates/management/regform_invitations.html:5
 msgid "Invitations for \"%(title)s\""
-msgstr "Приглашения для \"%(title) s\""
+msgstr "Приглашения для \"%(title)\""
 
 #: indico/modules/events/registration/templates/management/regform_invitations.html:17
 msgid "Invite people"
@@ -10832,7 +10837,7 @@ msgid ""
 "Features menu entry."
 msgstr ""
 "Это позволит осуществлять платежи для всех регистрационных форм. Если вам понадобится отключить это позже, вы можете сделать это из"
-"пункта меню"Функции."
+"пункта меню \"Функции\"."
 
 #: indico/modules/events/registration/templates/management/regform_list.html:31
 msgid "Enable payments"
@@ -10856,35 +10861,35 @@ msgstr "Определить, как список участников буде�
 
 #: indico/modules/events/registration/templates/management/regform_list.html:65
 msgid "Customize"
-msgstr "Настроить "
+msgstr "Настроить"
 
 #: indico/modules/events/registration/templates/management/regform_list.html:73
 msgid "List of registration forms"
-msgstr "Список регистрационных форм "
+msgstr "Список регистрационных форм"
 
 #: indico/modules/events/registration/templates/management/regform_list.html:100
 msgid "Delete this registration form"
-msgstr "Удалить эту регистрационную форму "
+msgstr "Удалить эту регистрационную форму"
 
 #: indico/modules/events/registration/templates/management/regform_list.html:104
 msgid "Delete registration form?"
-msgstr "Удалить регистрационную форму? "
+msgstr "Удалить регистрационную форму?"
 
 #: indico/modules/events/registration/templates/management/regform_list.html:105
 msgid "Do you really want to delete the registration form &quot;%(title)s&quot;?"
-msgstr "Вы действительно хотите удалить регистрационную форму"%(title) s "?"
+msgstr "Вы действительно хотите удалить регистрационную форму&quot;%(title)&quot;?"
 
 #: indico/modules/events/registration/templates/management/regform_list.html:112
 msgid "There are no registration forms yet."
-msgstr "Еще нет регистрационных форм"
+msgstr "Еще нет регистрационных форм."
 
 #: indico/modules/events/registration/templates/management/regform_modify.html:4
 msgid "Configure questions in form \"%(title)s\""
-msgstr "Настроить вопросы в форме \"%(title) s\""
+msgstr "Настроить вопросы в форме \"%(title)\""
 
 #: indico/modules/events/registration/templates/management/regform_reglist.html:9
 msgid "List of registrations for \"%(title)s\""
-msgstr "Список регистраций для \"%(title) s\""
+msgstr "Список регистраций для \"%(title)\""
 
 #: indico/modules/events/registration/templates/management/regform_reglist.html:27
 msgid "Registration list configuration"
@@ -10892,27 +10897,27 @@ msgstr "Конфигурация списка регистрации"
 
 #: indico/modules/events/registration/templates/management/regform_reglist.html:42
 msgid "Register a user that doesn't exist in Indico"
-msgstr "Зарегистрируйте пользователь, которого нет в Indico "
+msgstr "Зарегистрируйте пользователья, которого нет в Conference System"
 
 #: indico/modules/events/registration/templates/management/regform_reglist.html:49
 msgid "Register a Indico user"
-msgstr "Зарегистрировать пользователя Indico "
+msgstr "Зарегистрировать пользователя Conference System"
 
 #: indico/modules/events/registration/templates/management/regform_reglist.html:50
 msgid "Indico user"
-msgstr "Пользователь Indico "
+msgstr "Пользователь CS"
 
 #: indico/modules/events/registration/templates/management/regform_reglist.html:56
 msgid "Register multiple Indico users"
-msgstr "Зарегистрировать несколько пользователей Indico "
+msgstr "Зарегистрировать несколько пользователей CS"
 
 #: indico/modules/events/registration/templates/management/regform_reglist.html:57
 msgid "Multiple Indico users"
-msgstr "Несколько пользователей Indico "
+msgstr "Несколько пользователей CS"
 
 #: indico/modules/events/registration/templates/management/regform_reglist.html:75
 msgid "PDF (table style)"
-msgstr "PDF (стиль таблицы ) "
+msgstr "PDF (стиль таблицы)"
 
 #: indico/modules/events/registration/templates/management/regform_reglist.html:81
 msgid "PDF (book style)"
@@ -10920,21 +10925,21 @@ msgstr "PDF (книжный стиль) "
 
 #: indico/modules/events/registration/templates/management/regform_reglist.html:95
 msgid "Import registrants from CSV File"
-msgstr "Импортировать регистрацию из файла CSV "
+msgstr "Импортировать регистрацию из файла CSV"
 
 #: indico/modules/events/registration/templates/management/regform_reglist.html:117
 #: indico/modules/events/registration/templates/management/regform_reglist.html:121
 msgid "Print Badges"
-msgstr "Распечатать значки "
+msgstr "Распечатать значки"
 
 #: indico/modules/events/registration/templates/management/regform_reglist.html:129
 #: indico/modules/events/registration/templates/management/regform_reglist.html:133
 msgid "Print Tickets"
-msgstr "Распечатать билеты "
+msgstr "Распечатать билеты"
 
 #: indico/modules/events/registration/templates/management/regform_reglist.html:148
 msgid "Moderation"
-msgstr "Модерация "
+msgstr "Модерация"
 
 #: indico/modules/events/registration/templates/management/regform_reglist.html:155
 msgid "Do you really want to approve the selected registrations? This will trigger a notification email for each registrant."
@@ -10960,7 +10965,7 @@ msgstr "Сбросить отметку"
 
 #: indico/modules/events/registration/templates/management/regform_stats.html:5
 msgid "Stats for \"%(title)s\""
-msgstr "Статистика для \"%(title) s\""
+msgstr "Статистика для \"%(title)\""
 
 #: indico/modules/events/registration/templates/management/regform_stats.html:18
 msgid "Currency: {}"
@@ -10968,27 +10973,27 @@ msgstr "Валюта: {}"
 
 #: indico/modules/events/registration/templates/management/regform_stats.html:38
 msgid "Days left<br>to register"
-msgstr "Осталось дней<br> для регистрации "
+msgstr "Осталось дней<br> для регистрации"
 
 #: indico/modules/events/registration/templates/management/regform_stats.html:39
 msgid "Countries"
-msgstr "Страны "
+msgstr "Страны"
 
 #: indico/modules/events/registration/templates/management/regform_stats.html:47
 msgid "Availability"
-msgstr "Доступность "
+msgstr "Доступность"
 
 #: indico/modules/events/registration/templates/management/regform_stats.html:53
 msgid "event full"
-msgstr "Мероприятие заполнено "
+msgstr "Мероприятие заполнено"
 
 #: indico/modules/events/registration/templates/management/regform_stats.html:55
 msgid "%(places)s places available"
-msgstr "%(мест) s мест доступно "
+msgstr "%(мест) s мест доступно"
 
 #: indico/modules/events/registration/templates/management/regform_stats.html:64
 msgid "Registrants per country"
-msgstr "Количество зарегистрированных участников по стране "
+msgstr "Количество зарегистрированных участников по стране"
 
 #: indico/modules/events/registration/templates/management/registration_create_multiple.html:8
 msgid "The registrations will be filled with personal data only. Additional fields will be left blank."
@@ -10996,80 +11001,79 @@ msgstr "Регистрации будут заполняется только л
 
 #: indico/modules/events/registration/templates/management/registration_create_multiple.html:10
 msgid "Add registrations"
-msgstr "Добавить регистрации "
+msgstr "Добавить регистрации"
 
 #: indico/modules/events/registration/templates/management/registration_details.html:13
 msgid ""
 "Give this link to the user to manage their registration.<br> Make sure to keep it private as anybody with this link "
 "will be able to manage it."
 msgstr ""
-"Дайте эту ссылку пользователю для управления своей регистрацией.<br> Убедитесь, что он закрыт, так как любой, у кого есть эта ссылка ""сможет им управлять. "
+"Дайте эту ссылку пользователю для управления своей регистрацией.<br> Убедитесь, что он закрыт, так как любой, у кого есть эта ссылка "
+"сможет им управлять. "
 
 #: indico/modules/events/registration/templates/management/registration_modify.html:4
 msgid "Modify #%(id)s: %(name)s in \"%(regform_title)s\""
 msgstr "Измените #%(id) s:%(name) s в\"%(regform_title) s \"
-"] , [""
-"Измените конфигурацию списка регистрации, включив / отключив столбцы, перечисленные ниже, или применив"
-"параметры фильтрации (%(filter_icon) s)"
 
 #: indico/modules/events/registration/templates/management/reglist_filter.html:52
 msgid ""
 "Change the configuration of the registration list by enabling/disabling the columns listed below, or by applying "
 "filtering (%(filter_icon)s) options."
-msgstr "Общая информация о регистрации"
+msgstr "Измените конфигурацию списка регистрации, включив / отключив столбцы, перечисленные ниже, или применив"
+"параметры фильтрации (%(filter_icon) s)"
 
 #: indico/modules/events/registration/templates/management/reglist_filter.html:80
 msgid "General registration info"
-msgstr "Отключено разделы "
+msgstr "Общая информация о регистрации"
 
 #: indico/modules/events/registration/templates/management/reglist_filter.html:95
 msgid "Disabled sections"
-msgstr "Регистрация уже завершена. Вы хотите открыть их снова? "
+msgstr "Отключеные разделы"
 
 #: indico/modules/events/registration/templates/management/regform_actions/ended.html:19
 msgid "Registrations finished already. Do you want to open them again?"
-msgstr "Регистрация еще не открыта "
+msgstr "Регистрация уже завершена. Вы хотите открыть их снова? "
 
 #: indico/modules/events/registration/templates/management/regform_actions/not_started.html:4
 msgid "Registrations are not open yet"
-msgstr "Запланировать регистрацию "
+msgstr "Регистрация еще не открыта"
 
 #: indico/modules/events/registration/templates/management/regform_actions/not_started.html:24
 msgid "Schedule registrations"
-msgstr "Регистрация открыта "
+msgstr "Запланировать регистрацию"
 
 #: indico/modules/events/registration/templates/management/regform_actions/open.html:4
 msgid "Registrations are open"
-msgstr "Перенести регистрацию "
+msgstr "Регистрация открыта"
 
 #: indico/modules/events/registration/templates/management/regform_actions/open.html:24
 msgid "Reschedule registrations"
-msgstr "Напоминания "
+msgstr "Перенести регистрацию"
 
 #: indico/modules/events/reminders/__init__.py:36 indico/modules/events/reminders/__init__.py:63
 #: indico/modules/events/reminders/templates/reminders.html:8
 msgid "Reminders"
-msgstr "Отправленные напоминания не могут быть удалены."
+msgstr "Напоминания"
 
 #: indico/modules/events/reminders/controllers.py:58
 msgid "Sent reminders cannot be deleted."
-msgstr "Напоминание в {} было удалено."
+msgstr "Отправленные напоминания не могут быть удалены."
 
 #: indico/modules/events/reminders/controllers.py:62
 msgid "The reminder at {} has been deleted."
-msgstr "Напоминание было отправлено."
+msgstr "Напоминание в {} было удалено."
 
 #: indico/modules/events/reminders/controllers.py:71
 msgid "The reminder has been sent."
-msgstr "Это напоминание уже было отправлено и больше не может быть изменено."
+msgstr "Напоминание было отправлено."
 
 #: indico/modules/events/reminders/controllers.py:92
 msgid "This reminder has already been sent and cannot be modified anymore."
-msgstr "Напоминание в {} было изменено"
+msgstr "Это напоминание уже было отправлено и больше не может быть изменено."
 
 #: indico/modules/events/reminders/controllers.py:99
 msgid "The reminder at {} has been modified."
-msgstrundefined
+msgstr "Напоминание в {} было изменено."
 
 #: indico/modules/events/reminders/controllers.py:121
 msgid "A reminder at {} has been created."
@@ -11730,168 +11734,168 @@ msgstr "Момент, когда опрос будет закрыт"
 
 #: indico/modules/events/surveys/forms.py:84
 msgid "Resend start notification"
-msgstr "Повторно отправить уведомление о начале"] , ["Повторно отправить уведомление о начале опроса."
+msgstr "Повторно отправить уведомление о начале"
 
 #: indico/modules/events/surveys/forms.py:85
 msgid "Resend the survey start notification."
-msgstr "Отображать как раздел"
+msgstr "Повторно отправить уведомление о начале опроса."
 
 #: indico/modules/events/surveys/forms.py:97
 msgid "Display as section"
-msgstr "Будет ли это отображаться как раздел или отдельно"
+msgstr "Отображать как раздел"
 
 #: indico/modules/events/surveys/forms.py:98
 msgid "Whether this is going to be displayed as a section or standalone"
-msgstr "Название раздела."
+msgstr "Будет ли это отображаться как раздел или отдельно"
 
 #: indico/modules/events/surveys/forms.py:100
 msgid "The title of the section."
-msgstr "Текст описания раздела."
+msgstr "Название раздела."
 
 #: indico/modules/events/surveys/forms.py:102
 msgid "The description text of the section."
-msgstr "Текст"
+msgstr "Текст описания раздела."
 
 #: indico/modules/events/surveys/forms.py:106 indico/modules/legal/forms.py:24 indico/modules/legal/forms.py:28
 #: indico/web/fields/simple.py:30
 msgid "Text"
-msgstr "Текст, который должен отображаться."
+msgstr "Текст"
 
 #: indico/modules/events/surveys/forms.py:107
 msgid "The text that should be displayed."
-msgstr "Выберите ранее экспортированный контент опроса для импорта. Существующие разделы будут сохранены."
+msgstr "Текст, который должен отображаться."
 
 #: indico/modules/events/surveys/forms.py:112
 msgid "Choose a previously exported survey content to import. Existing sections will be preserved."
-msgstr "Ссылка на опрос"
+msgstr "Выберите ранее экспортированный контент опроса для импорта. Существующие разделы будут сохранены."
 
 #: indico/modules/events/surveys/placeholders.py:37
 msgid "Link to the survey"
-msgstr "Вы пытаетесь ответить на опрос, который требует, чтобы вы вошли в систему"
+msgstr "Ссылка на опрос"
 
 #: indico/modules/events/surveys/controllers/display.py:65
 msgid "You are trying to answer a survey that requires you to be logged in"
-msgstr "Этот опрос неактивен"
+msgstr "Вы пытаетесь ответить на опрос, который требует, чтобы вы вошли в систему"
 
 #: indico/modules/events/surveys/controllers/display.py:81
 msgid "This survey is not active"
-msgstr "Вы уже ответили на этот опрос"] , ["Опрос отправлен"
+msgstr "Этот опрос неактивен"
 
 #: indico/modules/events/surveys/controllers/display.py:84
 msgid "You have already answered this survey"
-msgstr "Выбран недопустимый файл."
+msgstr "Вы уже ответили на этот опрос"
 
 #: indico/modules/events/surveys/controllers/display.py:101
 msgid "The survey has been submitted"
-msgstr "Анкета импортирована."
+msgstr "Опрос отправлен"
 
 #: indico/modules/events/surveys/controllers/management/questionnaire.py:113
 msgid "Invalid file selected."
-msgstr "Раздел \"{title}\"добавлен"
+msgstr "Выбран недопустимый файл."
 
 #: indico/modules/events/surveys/controllers/management/questionnaire.py:115
 msgid "The questionnaire has been imported."
-msgstr "Отдельный раздел добавлен"
+msgstr "Анкета импортирована."
 
 #: indico/modules/events/surveys/controllers/management/questionnaire.py:179
 msgid "Section \"{title}\"added"
-msgstr "Раздел \"{title}\"обновлен"
+msgstr "Раздел \"{title}\"добавлен"
 
 #: indico/modules/events/surveys/controllers/management/questionnaire.py:181
 msgid "Standalone section added"
-msgstr "Автономный раздел обновлен"
+msgstr "Отдельный раздел добавлен"
 
 #: indico/modules/events/surveys/controllers/management/questionnaire.py:197
 msgid "Section \"{title}\"updated"
-msgstr "Раздел\"{заголовок} \"удален "
+msgstr "Раздел \"{title}\"обновлен"
 
 #: indico/modules/events/surveys/controllers/management/questionnaire.py:199
 msgid "Standalone section updated"
-msgstr "Отдельный раздел удален "
+msgstr "Автономный раздел обновлен"
 
 #: indico/modules/events/surveys/controllers/management/questionnaire.py:213
 msgid "Section \"{title}\"deleted"
-msgstr "Текстовый элемент добавлен "
+msgstr "Раздел\"{title} \"удален"
 
 #: indico/modules/events/surveys/controllers/management/questionnaire.py:215
 msgid "Standalone section deleted"
-msgstr "Текстовый элемент обновлен "
+msgstr "Отдельный раздел удален"
 
 #: indico/modules/events/surveys/controllers/management/questionnaire.py:228
 msgid "Text item added"
-msgstr "Текстовый элемент удален "
+msgstr "Текстовый элемент добавлен"
 
 #: indico/modules/events/surveys/controllers/management/questionnaire.py:241
 msgid "Text item updated"
-msgstr "Вопрос\"{заголовок}\"добавлен"
+msgstr "Текстовый элемент обновлен"
 
 #: indico/modules/events/surveys/controllers/management/questionnaire.py:253
 msgid "Text item deleted"
-msgstr "Вопрос \"{заголовок}\"обновлен"
+msgstr "Текстовый элемент удален"
 
 #: indico/modules/events/surveys/controllers/management/questionnaire.py:282
 msgid "Question \"{title}\"added"
-msgstr "Вопрос \"{заголовок}\"удален"
+msgstr "Вопрос\"{title}\"добавлен"
 
 #: indico/modules/events/surveys/controllers/management/questionnaire.py:296
 msgid "Question \"{title}\"updated"
-msgstr "В этом опросе нет материалов"
+msgstr "Вопрос \"{title}\"обновлен"
 
 #: indico/modules/events/surveys/controllers/management/questionnaire.py:308
 msgid "Question \"{title}\"deleted"
-msgstr "Опрос изменен "
+msgstr "Вопрос \"{title}\"удален"
 
 #: indico/modules/events/surveys/controllers/management/results.py:49
 msgid "There are no submissions in this survey"
-msgstr "Опрос удален "
+msgstr "В этом опросе нет материалов"
 
 #: indico/modules/events/surveys/controllers/management/survey.py:59
 msgid "Survey modified"
-msgstr "Опрос создан "
+msgstr "Опрос изменен"
 
 #: indico/modules/events/surveys/controllers/management/survey.py:71
 msgid "Survey deleted"
-msgstr "Опрос был запланирован "
+msgstr "Опрос удален"
 
 #: indico/modules/events/surveys/controllers/management/survey.py:88
 msgid "Survey created"
-msgstr "Опрос закрыт "
+msgstr "Опрос создан"
 
 #: indico/modules/events/surveys/controllers/management/survey.py:112
 msgid "Survey was scheduled"
-msgstr "Опрос открыт "
+msgstr "Опрос был запланирован"
 
 #: indico/modules/events/surveys/controllers/management/survey.py:124
 msgid "Survey is now closed"
-msgstr "Название вопроса "
+msgstr "Опрос закрыт"
 
 #: indico/modules/events/surveys/controllers/management/survey.py:139
 msgid "Survey is now open"
-msgstr "Описание (отображается под полем вопроса.) "
+msgstr "Опрос открыт"
 
 #: indico/modules/events/surveys/fields/base.py:20
 msgid "The title of the question"
-msgstr "Если пользователь должен ответить на вопрос. "
+msgstr "Название вопроса"
 
 #: indico/modules/events/surveys/fields/base.py:21
 msgid "The description (shown below the question's field.)"
-msgstr "Не выбрано"
+msgstr "Описание (отображается под полем вопроса.)"
 
 #: indico/modules/events/surveys/fields/base.py:23
 msgid "If the user has to answer the question."
-msgstr "Показать опросы"
+msgstr "Если пользователь должен ответить на вопрос."
 
 #: indico/modules/events/surveys/fields/choices.py:39 indico/web/fields/choices.py:79
 msgid "No selection"
-msgstr "Вы уже отправили этот опрос."
+msgstr "Не выбрано"
 
 #: indico/modules/events/surveys/templates/display/conference_home.html:18
 msgid "Show the surveys"
-msgstr "Заполнить"
+msgstr "Показать опросы"
 
 #: indico/modules/events/surveys/templates/display/event_header.html:18
 msgid "You already submitted this survey."
-msgstr "Опрос"
+msgstr "Вы уже отправили этот опрос."
 
 #: indico/modules/events/surveys/templates/display/event_header.html:19
 #: indico/modules/events/surveys/templates/display/event_header.html:24
@@ -11899,63 +11903,63 @@ msgstr "Опрос"
 #: indico/modules/events/surveys/templates/display/survey_list.html:38
 #: indico/modules/events/surveys/templates/display/survey_list.html:47
 msgid "Fill out"
-msgstr "Доступен с"
+msgstr "Заполнить"
 
 #: indico/modules/events/surveys/templates/display/survey_list.html:11
 #: indico/modules/events/surveys/templates/display/survey_questionnaire.html:6
 #: indico/modules/events/surveys/templates/management/_survey_base.html:4
 msgid "Survey"
-msgstr "Опрос уже заполнен"
+msgstr "Опрос"
 
 #: indico/modules/events/surveys/templates/display/survey_list.html:12
 msgid "Available from"
-msgstr "Опрос закрыт"
+msgstr "Доступен с"
 
 #: indico/modules/events/surveys/templates/display/survey_list.html:32
 msgid "Survey already filled out"
-msgstr "Продолжить"
+msgstr "Опрос уже заполнен"
 
 #: indico/modules/events/surveys/templates/display/survey_list.html:37
 msgid "Survey is closed"
-msgstr "Нет доступных опросов для этого события "
+msgstr "Опрос закрыт"
 
 #: indico/modules/events/surveys/templates/display/survey_list.html:43
 msgid "Continue"
-msgstr "Сохранить ответы "
+msgstr "Продолжить"
 
 #: indico/modules/events/surveys/templates/display/survey_list.html:55
 msgid "No surveys available for this event"
-msgstr "Ваши ответы будут отправлены анонимно ."
+msgstr "Нет доступных опросов для этого события"
 
 #: indico/modules/events/surveys/templates/display/survey_questionnaire.html:44
 msgid "Save answers"
-msgstr "Ваши ответы будут связаны с вашей учетной записью."
+msgstr "Сохранить ответы"
 
 #: indico/modules/events/surveys/templates/display/survey_questionnaire.html:55
 msgid "Your answers will be submitted anonymously."
-msgstr "Автономный раздел"
+msgstr "Ваши ответы будут отправлены анонимно."
 
 #: indico/modules/events/surveys/templates/display/survey_questionnaire.html:57
 msgid "Your answers will be associated with your account."
-msgstr "Этот раздел не будет отображаться как раздел, но его содержимое будет отображаться отдельно."
+msgstr "Ваши ответы будут связаны с вашей учетной записью."
 
 #: indico/modules/events/surveys/templates/management/_questionnaire_preview.html:13
 msgid "Standalone section"
-msgstr "Изменить раздел"
+msgstr "Автономный раздел"
 
 #: indico/modules/events/surveys/templates/management/_questionnaire_preview.html:16
 msgid "This section will not be displayed as a section but its contents will show up standalone."
-msgstr "Удалить раздел"
+msgstr "Этот раздел не будет отображаться как раздел, но его содержимое будет отображаться отдельно."
 
 #: indico/modules/events/surveys/templates/management/_questionnaire_preview.html:22
 #: indico/modules/events/surveys/templates/management/_questionnaire_preview.html:24
 msgid "Edit section"
-msgstrundefined
+msgstr "Изменить раздел"
 
 #: indico/modules/events/surveys/templates/management/_questionnaire_preview.html:26
 #: indico/modules/events/surveys/templates/management/_questionnaire_preview.html:31
 msgid "Delete section"
-msgstrundefined
+msgstr "Удалить раздел"
 
 #: indico/modules/events/surveys/templates/management/_questionnaire_preview.html:30
 msgid "Are you sure you want to delete this section and all questions inside it?"
@@ -12010,7 +12014,7 @@ msgstr "Вы действительно хотите удалить этот т�
 
 #: indico/modules/events/surveys/templates/management/_survey_base.html:8
 msgid "Manage \"%(title)s\""
-msgstr "Управление \"%(title) s\""
+msgstr "Управление \"%(title)\""
 
 #: indico/modules/events/surveys/templates/management/survey.html:12
 msgid "The survey is private"
@@ -12102,11 +12106,11 @@ msgstr "Удалить опрос?"
 
 #: indico/modules/events/surveys/templates/management/survey_list.html:52
 msgid "Do you really want to delete the survey &quot;%(title)s&quot;?"
-msgstr "Вы действительно хотите удалить опрос"%(title) s "?"
+msgstr "Вы действительно хотите удалить опрос &quot;%(title)&quot;?"
 
 #: indico/modules/events/surveys/templates/management/survey_list.html:59
 msgid "There are no surveys yet."
-msgstr "Пока нет опросов"
+msgstr "Пока нет опросов."
 
 #: indico/modules/events/surveys/templates/management/survey_list.html:65
 #: indico/modules/events/surveys/templates/management/survey_list.html:68
@@ -12115,7 +12119,7 @@ msgstr "Создать опрос"
 
 #: indico/modules/events/surveys/templates/management/survey_questionnaire.html:5
 msgid "Questionnaire for \"%(title)s\""
-msgstr "Анкета для \"%(title) s\""
+msgstr "Анкета для \"%(title)\""
 
 #: indico/modules/events/surveys/templates/management/survey_questionnaire.html:15
 msgid "Download a file containing all the questions of this survey. The file can later be imported into another survey."
@@ -12140,7 +12144,7 @@ msgstr "Добавить раздел"
 
 #: indico/modules/events/surveys/templates/management/survey_results.html:4
 msgid "Results for \"%(title)s\""
-msgstr "Результаты для \"%(title) s\""
+msgstr "Результаты для \"%(title)\""
 
 #: indico/modules/events/surveys/templates/management/survey_results.html:27
 msgid "Answered:"
@@ -12148,7 +12152,7 @@ msgstr "Ответили:"
 
 #: indico/modules/events/surveys/templates/management/survey_results.html:51
 msgid "No answer has been recorded for this question."
-msgstr "На этот вопрос не было записано ни одного ответа"
+msgstr "На этот вопрос не было записано ни одного ответа."
 
 #: indico/modules/events/surveys/templates/management/survey_results.html:73
 msgid "Average:"
@@ -12156,11 +12160,11 @@ msgstr "Среднее:"
 
 #: indico/modules/events/surveys/templates/management/survey_results.html:76
 msgid "Min:"
-msgstr "Мин .:"
+msgstr "Мин.:"
 
 #: indico/modules/events/surveys/templates/management/survey_results.html:79
 msgid "Max:"
-msgstr "Макс:"
+msgstr "Макс.:"
 
 #: indico/modules/events/surveys/templates/management/survey_results.html:112
 msgid "Answers"
@@ -12172,11 +12176,11 @@ msgstr "Выбрано количество раз"
 
 #: indico/modules/events/surveys/templates/management/survey_submission.html:4
 msgid "Submission #%(id)s"
-msgstr "№%(id) s отправки"
+msgstr "#%(id) отправки"
 
 #: indico/modules/events/surveys/templates/management/survey_submission.html:9
 msgid "Submitter: %(submitter_name)s (%(submitter_email)s)"
-msgstr "Отправитель:%(submitter_name) s (%(submitter_email) s)"
+msgstr "Отправитель: %(submitter_name) (%(submitter_email))"
 
 #: indico/modules/events/surveys/templates/management/survey_submission.html:13
 msgid "Submitter: <em>Anonymous</em>"
@@ -12184,11 +12188,11 @@ msgstr "Отправитель: <em>Анонимный</em> "
 
 #: indico/modules/events/surveys/templates/management/survey_submission.html:18
 msgid "Date of submission: %(submission_dt)s"
-msgstr "Дата отправки:%(submission_dt) s"
+msgstr "Дата отправки:%(submission_dt)"
 
 #: indico/modules/events/surveys/templates/management/survey_submission.html:65
 msgid "N/A"
-msgstr "Н / Д"
+msgstr "Н/Д"
 
 #: indico/modules/events/surveys/templates/management/survey_actions/active.html:4
 msgid "Survey is live"
@@ -12200,7 +12204,7 @@ msgstr "Закрыть сейчас или назначить крайний с�
 
 #: indico/modules/events/surveys/templates/management/survey_actions/active.html:16
 msgid "Scheduled to close on <strong>%(date)s</strong> at <strong>%(time)s</strong> (%(tz)s)"
-msgstr "Запланировано закрыть <strong>%(дата) s</strong> в <strong>%(время) s</strong> (%(tz) s)"
+msgstr "Запланировано закрыть <strong>%(date) s</strong> в <strong>%(time) s</strong> (%(tz) s)"
 
 #: indico/modules/events/surveys/templates/management/survey_actions/active.html:26
 #: indico/modules/events/surveys/templates/management/survey_actions/ready_to_open.html:22
@@ -12217,7 +12221,7 @@ msgstr "Опрос уже завершен. Хотите снова открыт
 
 #: indico/modules/events/surveys/templates/management/survey_actions/finished.html:23
 msgid "This will result in resending the survey start notification."
-msgstr "Это приведет к повторной отправке уведомления о начале опроса"
+msgstr "Это приведет к повторной отправке уведомления о начале опроса."
 
 #: indico/modules/events/surveys/templates/management/survey_actions/limit_reached.html:4
 msgid "Submission limit reached"
@@ -12241,7 +12245,7 @@ msgstr "Опрос готов к запуску"
 
 #: indico/modules/events/surveys/templates/management/survey_actions/ready_to_open.html:9
 msgid "Open now or schedule opening for later"
-msgstr "Открыть сейчас или запланировать открытие на потом "
+msgstr "Открыть сейчас или запланировать открытие на потом"
 
 #: indico/modules/events/surveys/templates/management/survey_actions/ready_to_open.html:12
 msgid "Scheduled to open on <strong>%(date)s</strong> at <strong>%(time)s</strong> (%(tz)s)"
@@ -12273,7 +12277,7 @@ msgstr "Социальные сети"
 
 #: indico/modules/events/templates/footer.html:20
 msgid "Loading..."
-msgstr "Загрузка ..."
+msgstr "Загрузка..."
 
 #: indico/modules/events/templates/footer.html:39
 msgid "Tweet"
@@ -12289,7 +12293,7 @@ msgstr "Социальные сети"
 
 #: indico/modules/events/templates/header.html:8
 msgid "Go to the Indico Home Page"
-msgstr "Перейти на главную страницу Indico"
+msgstr "Перейти на главную страницу Conference System"
 
 #: indico/modules/events/templates/header.html:14
 msgid "Oldest event"
@@ -12333,208 +12337,208 @@ msgstr "Все дни"
 
 #: indico/modules/events/templates/header.html:102
 msgid "All sessions"
-msgstr "Все сеансы"] , ["Скрыть вклад"
+msgstr "Все сеансы"
 
 #: indico/modules/events/templates/header.html:116
 msgid "Hide Contributions"
-msgstr "Версия для печати"
+msgstr "Скрыть контрибуторов"
 
 #: indico/modules/events/templates/header.html:197
 msgid "Printable version"
-msgstr "Экспорт в iCal"
+msgstr "Версия для печати"
 
 #: indico/modules/events/templates/header.html:205
 msgid "Export to iCal"
-msgstr "Загрузить материал"
+msgstr "Экспорт в iCal"
 
 #: indico/modules/events/templates/header.html:215
 msgid "Download material"
-msgstr "Перейти в область управления этим событием"
+msgstr "Загрузить материал"
 
 #: indico/modules/events/templates/header.html:225
 msgid "Switch to the management area of this event"
-msgstr "Вернуться к просмотру конференции"
+msgstr "Перейти в область управления этим событием"
 
 #: indico/modules/events/templates/header.html:230
 msgid "Back to Conference View"
-msgstr "Добавить новый вопрос"
+msgstr "Вернуться к просмотру конференции"
 
 #: indico/modules/events/templates/reviewing_questions_management.html:7
 msgid "Add new question"
-msgstr "Добавить собственный вопрос для проверки"
+msgstr "Добавить новый вопрос"
 
 #: indico/modules/events/templates/reviewing_questions_management.html:14
 msgid "Add custom reviewing question"
-msgstr "Изменить вопрос для проверки"
+msgstr "Добавить собственный вопрос для проверки"
 
 #: indico/modules/events/templates/reviewing_questions_management.html:28
 msgid "Edit the reviewing question"
-msgstr "Вы действительно хотите удалить вопрос для проверки?"
+msgstr "Изменить вопрос для проверки"
 
 #: indico/modules/events/templates/reviewing_questions_management.html:36
 msgid "Are you sure you want to delete the reviewing question?"
-msgstr "Еще нет вопросов для проверки."
+msgstr "Вы действительно хотите удалить вопрос для проверки?"
 
 #: indico/modules/events/templates/reviewing_questions_management.html:42
 msgid "There are no reviewing questions yet."
-msgstr "Изменить метку события '%(name) s'"
+msgstr "Еще нет вопросов для проверки."
 
 #: indico/modules/events/templates/admin/_event_label_list.html:21
 msgid "Edit event label '%(name)s'"
-msgstr "Удалить метку события '%(name) s'?"
+msgstr "Изменить метку события '%(name)'"
 
 #: indico/modules/events/templates/admin/_event_label_list.html:27
 msgid "Delete event label '%(name)s'?"
-msgstr ""
-"Вы уверены, что хотите навсегда удалить метку события '%(name) s'? Это действие удалит ее из всех событий"
-", в которых она используется"
+msgstr "Удалить метку события '%(name)'?"
 
 #: indico/modules/events/templates/admin/_event_label_list.html:28
 msgid ""
 "Are you sure you want to permanently delete the event label '%(name)s'? This action will remove it from all events "
 "that use it."
-msgstr "Еще нет ярлыков событий"
+msgstr ""
+"Вы уверены, что хотите навсегда удалить метку события '%(name) s'? Это действие удалит ее из всех событий"
+", в которых она используется"
 
 #: indico/modules/events/templates/admin/_event_label_list.html:38
 msgid "There are no event labels yet."
-msgstr "Изменить тип внешнего идентификатора%(name) s"
+msgstr "Нет ярлыков событий"
 
 #: indico/modules/events/templates/admin/_reference_type_list.html:21
 msgid "Edit %(name)s external ID type"
-msgstr "Удалить тип внешнего идентификатора%(name) s?"
+msgstr "Изменить тип внешнего идентификатора%(name)"
 
 #: indico/modules/events/templates/admin/_reference_type_list.html:27
 msgid "Delete external ID type %(name)s?"
-msgstr ""
-"Вы уверены, что хотите навсегда удалить тип внешнего идентификатора '%(name) s'? Это действие удалит его из всех"
-"событий, которые его используют"
+msgstr "Удалить тип внешнего идентификатора%(name)?"
 
 #: indico/modules/events/templates/admin/_reference_type_list.html:28
 msgid ""
 "Are you sure you want to permanently delete the external ID type '%(name)s'? This action will remove it from all "
 "events that use it."
-msgstr "Типов внешних идентификаторов пока нет"
+msgstr ""
+"Вы уверены, что хотите навсегда удалить тип внешнего идентификатора '%(name)'? Это действие удалит его из всех"
+"событий, которые его используют"
 
 #: indico/modules/events/templates/admin/_reference_type_list.html:38
 msgid "There are no external ID types yet."
-msgstr "Существующие метки событий"
+msgstr "Типов внешних идентификаторов пока нет"
 
 #: indico/modules/events/templates/admin/event_labels.html:7
 msgid "Existing event labels"
-msgstr "Создать новую метку события"
+msgstr "Существующие метки событий"
 
 #: indico/modules/events/templates/admin/event_labels.html:12 indico/modules/events/templates/admin/event_labels.html:14
 msgid "Create new event label"
-msgstr "Существующие типы внешних идентификаторов"
+msgstr "Создать новую метку события"
 
 #: indico/modules/events/templates/admin/reference_types.html:7
 msgid "Existing external ID types"
-msgstr "Создать новый тип внешнего идентификатора"
+msgstr "Существующие типы внешних идентификаторов"
 
 #: indico/modules/events/templates/admin/reference_types.html:12
 msgid "Create new external ID type"
-msgstr "Создать новый тип"
+msgstr "Создать новый тип внешнего идентификатора"
 
 #: indico/modules/events/templates/admin/reference_types.html:14
 msgid "Create new type"
-msgstr "Доступ запрещен "
+msgstr "Создать новый тип"
 
 #: indico/modules/events/templates/display/access_key.html:3 indico/web/flask/errors.py:37
 msgid "Access Denied"
-msgstr "Это событие защищено ключом доступа. "
+msgstr "Доступ запрещен"
 
 #: indico/modules/events/templates/display/access_key.html:6
 msgid "This event is protected with an access key."
-msgstr "Пожалуйста, введите это ниже"
+msgstr "Это событие защищено ключом доступа."
 
 #: indico/modules/events/templates/display/access_key.html:9
 msgid "Please enter it below."
-msgstr "Пожалуйста,%(link_start) усложняйте%(link_end) s или введите ключ ниже"
+msgstr "Пожалуйста, введите это ниже"
 
 #: indico/modules/events/templates/display/access_key.html:15
 msgid "Please %(link_start)slog in%(link_end)s or enter the key below."
-msgstr "Перейти на главную страницу"
+msgstr "Пожалуйста,%(link_start) усложняйте %(link_end) или введите ключ ниже"
 
 #: indico/modules/events/templates/display/access_key.html:26 indico/web/templates/error.html:19
 msgid "Go to the main page"
-msgstr "Дата / время"
+msgstr "Перейти на главную страницу"
 
 #: indico/modules/events/templates/display/conference.html:13
 msgid "Date/Time"
-msgstr "Начало"
+msgstr "Дата / время"
 
 #: indico/modules/events/templates/display/conference.html:16
 msgid "Starts"
-msgstr "Конец"
+msgstr "Начало"
 
 #: indico/modules/events/templates/display/conference.html:22
 msgid "Ends"
-msgstr "Перейти на карту"
+msgstr "Конец"
 
 #: indico/modules/events/templates/display/conference.html:51
 msgid "Go to map"
-msgstr "Войдите, чтобы увидеть их адрес электронной почты"
+msgstr "Перейти на карту"
 
 #: indico/modules/events/templates/display/conference.html:70
 msgid "Log in to see their email address"
-msgstr "Дополнительная информация"
+msgstr "Войдите, чтобы увидеть их адрес электронной почты"
 
 #: indico/modules/events/templates/display/conference.html:103
 msgid "Extra information"
-msgstr "Загрузить текущее событие:"
+msgstr "Дополнительная информация"
 
 #: indico/modules/events/templates/display/event_ical_export.html:4
 msgid "Download current event:"
-msgstr "Файл с подробным расписанием"
+msgstr "Загрузить текущее событие:"
 
 #: indico/modules/events/templates/display/event_ical_export.html:11
 msgid "Detailed timetable calendar file"
-msgstr "Подробное расписание"
+msgstr "Файл с подробным расписанием"
 
 #: indico/modules/events/templates/display/event_ical_export.html:19
 msgid "Detailed timetable"
-msgstr "Сейчас происходит:"
+msgstr "Подробное расписание"
 
 #: indico/modules/events/templates/display/now_happening.html:4
 msgid "Now happening:"
-msgstr "Презентационные материалы"
+msgstr "Сейчас происходит:"
 
 #: indico/modules/events/templates/display/common/_conferences.html:8
 msgid "Presentation Materials"
-msgstr "от <strong>%(start_date) s (%(start_time) s)</strong> до <strong>%(end_date) s (%(end_time) s)</strong> "
+msgstr "Презентационные материалы"
 
 #: indico/modules/events/templates/display/common/_legacy.html:8
 msgid "from <strong>%(start_date)s (%(start_time)s)</strong> to <strong>%(end_date)s (%(end_time)s)</strong>"
-msgstr "Добавить минуты"
+msgstr "от <strong>%(start_date) (%(start_time))</strong> до <strong>%(end_date) (%(end_time))</strong> "
 
 #: indico/modules/events/templates/display/common/_manage_button.html:8
 msgid "Add minutes"
-msgstr "Изменить событие"
+msgstr "Добавить минуты"
 
 #: indico/modules/events/templates/display/common/_manage_button.html:25
 msgid "Edit Event"
-msgstr "Компилировать минуты"] , ["Редактор материалов"
+msgstr "Изменить событие"
 
 #: indico/modules/events/templates/display/common/_manage_button.html:46
 msgid "Compile Minutes"
-msgstr "Редактировать блок сеанса '%(title) s'"
+msgstr "Компилировать минуты"
 
 #: indico/modules/events/templates/display/common/_manage_button.html:64
 msgid "Material Editor"
-msgstr "Редактировать блок сеанса"
+msgstr "Редактор материалов"
 
 #: indico/modules/events/templates/display/common/_manage_button.html:72
 msgid "Edit session block '%(title)s'"
-msgstr "Редактировать расписание для этого сеанса"
+msgstr "Редактировать блок сеанса '%(title)'"
 
 #: indico/modules/events/templates/display/common/_manage_button.html:77
 #: indico/modules/events/timetable/templates/balloons/block.html:24
 msgid "Edit session block"
-msgstrundefined
+msgstr "Редактировать блок сеанса"
 
 #: indico/modules/events/templates/display/common/_manage_button.html:85
 msgid "Edit the timetable for this session"
-msgstrundefined
+msgstr "Редактировать расписание для этого сеанса"
 
 #: indico/modules/events/templates/display/common/_manage_button.html:86
 msgid "Edit session timetable"
@@ -12555,19 +12559,19 @@ msgstr "Редактор материалов"
 
 #: indico/modules/events/templates/display/conference/_util.html:9
 msgid "%(start)s to %(end)s"
-msgstr "%(начало) s до%(конец) s"
+msgstr "%(start) до %(end)"
 
 #: indico/modules/events/templates/display/conference/base.html:38
 msgid "%(tz)s timezone"
-msgstr "%( tz) s timezone "
+msgstr "%(tz) часовой пояс"
 
 #: indico/modules/events/templates/display/indico/_common.html:22
 msgid "Show room on map"
-msgstr "Показать комнату на карте "
+msgstr "Показать комнату на карте"
 
 #: indico/modules/events/templates/display/indico/_common.html:119
 msgid "Start/end date/time of the event"
-msgstr "Дата начала / окончания / время события "
+msgstr "Дата начала/окончания/время события "
 
 #: indico/modules/events/templates/display/indico/_details.html:16
 msgid "External references"
@@ -12575,15 +12579,15 @@ msgstr "Внешние ссылки "
 
 #: indico/modules/events/templates/display/indico/_details.html:30
 msgid "From the same series"
-msgstr "Из той же серии "
+msgstr "Из той же серии"
 
 #: indico/modules/events/templates/display/indico/_details.html:40
 msgid "Organized by"
-msgstr "Организовано "
+msgstr "Организовано"
 
 #: indico/modules/events/templates/display/indico/lecture.html:35
 msgid "by"
-msgstr "by "
+msgstr ""
 
 #: indico/modules/events/templates/forms/event_creation_form.html:33
 msgid "The event will be publicly accessible since it is set as public."
@@ -12595,237 +12599,239 @@ msgid ""
 "categories</strong> and users you give access to."
 msgstr ""
 "Это событие будет доступно <strong>только</strong> <strong>менеджерами</strong> <strong>родителей"
-"категориями</strong> и пользователями , которые вы даете доступ к."
+"категориями</strong> и пользователями, которым вы дали доступ."
 
 #: indico/modules/events/templates/forms/event_creation_form.html:66
 msgid ""
 "This event will not be publicly accessible since the category <strong class=\"js-category-title\"></strong> is "
 "protected."
 msgstr ""
-"Это событие не будет общедоступным, поскольку категория<strong class=\"js-category-title\"></strong> ""защищено. "
+"Это событие не будет общедоступным, поскольку категория<strong class=\"js-category-title\"></strong> "
+"защищено."
 
 #: indico/modules/events/templates/forms/event_creation_form.html:82
 msgid ""
 "This event will be publicly accessible since the category <strong class=\"js-category-title\"></strong> is not "
 "protected."
 msgstr ""
-"Это событие будет общедоступным, поскольку категория<strong class=\"js-category-title\"></strong> не ""защищен. "
+"Это событие будет общедоступным, поскольку категория<strong class=\"js-category-title\"></strong> не "
+"защищен."
 
 #: indico/modules/events/templates/forms/event_person_link_widget.html:7
 msgid "There are no chairpersons"
-msgstr "Нет председателей "
+msgstr "Нет председателей"
 
 #: indico/modules/events/templates/forms/session_block_form.html:5
 msgid "Session properties"
-msgstr "Свойства сеанса "
+msgstr "Свойства сеанса"
 
 #: indico/modules/events/templates/forms/session_block_form.html:8
 msgid "Block properties"
-msgstr "Свойства блока "
+msgstr "Свойства блока"
 
 #: indico/modules/events/templates/management/_create_event_button.html:16
 msgid "Create new lecture"
-msgstr "Создать новую лекцию "
+msgstr "Создать новую лекцию"
 
 #: indico/modules/events/templates/management/_create_event_button.html:17
 msgid "Create new meeting"
-msgstr "Создать новую встречу "
+msgstr "Создать новую встречу"
 
 #: indico/modules/events/templates/management/_create_event_button.html:18
 msgid "Create new conference"
-msgstr "Создать новую конференцию "
+msgstr "Создать новую конференцию"
 
 #: indico/modules/events/templates/management/_lists.html:3
 msgid "%(displayed_num)s out of %(total_num)s displayed"
-msgstr "%(отображается_num) s из%(total_num) s отображается "
+msgstr "%(displayed_num) из %(total_num) отображается "
 
 #: indico/modules/events/templates/management/_lists.html:11
 msgid "%(total)s total duration of which %(scheduled)s are scheduled"
-msgstr "%(total) s общая продолжительность, из которых запланировано%(запланировано) "
+msgstr "%(total) общая продолжительность, из которых запланировано%(scheduled)"
 
 #: indico/modules/events/templates/management/_lists.html:19
 msgid "Reviews"
-msgstr "Обзоры "] , ["На%(dt) s от%(name) s"
+msgstr "Обзоры"
 
 #: indico/modules/events/templates/reviews/_common.html:8
 msgid "On %(dt)s by %(name)s"
-msgstr "отредактировано"
+msgstr "На %(dt) от%(name)"
 
 #: indico/modules/events/templates/reviews/_common.html:9 indico/modules/events/templates/reviews/_common.html:13
 msgid "edited"
-msgstr "Оценка:%(оценка) s /%(max_score) s"
+msgstr "отредактировано"
 
 #: indico/modules/events/templates/reviews/_common.html:51
 msgid "Score: %(score)s / %(max_score)s"
-msgstr "Инструкции по вынесению суждения"
+msgstr "Оценка: %(оценка) / %(max_score)"
 
 #: indico/modules/events/templates/reviews/_common.html:91
 msgid "Judgment instructions"
-msgstr "Пожалуйста, не забудьте прочитать инструкции по оценке%(link)%(endlink) s, прежде чем принимать решение."
+msgstr "Инструкции по вынесению суждения"
 
 #: indico/modules/events/templates/reviews/_common.html:92
 msgid "Please don't forget to read the %(link)sjudgment instructions%(endlink)s before taking your decision."
-msgstr "День открытия"
+msgstr "Пожалуйста, не забудьте прочитать %(link)инструкции по оценке%(endlink), прежде чем принимать решение."
 
 #: indico/modules/events/templates/reviews/_common.html:129
 msgid "Opening day"
-msgstr "Срок подачи"
+msgstr "День открытия"
 
 #: indico/modules/events/templates/reviews/_common.html:130
 msgid "Submission deadline"
-msgstr "Изменить обзор"
+msgstr "Срок подачи"
 
 #: indico/modules/events/templates/reviews/_omnibox.html:48 indico/modules/events/templates/reviews/forms.html:64
 msgid "Change review"
-msgstr "Изменить отзывы"
+msgstr "Изменить обзор"
 
 #: indico/modules/events/templates/reviews/_omnibox.html:64
 msgid "Change reviews"
-msgstr "Инструкции по просмотру"
+msgstr "Изменить отзывы"
 
 #: indico/modules/events/templates/reviews/forms.html:23
 msgid "Reviewing instructions"
-msgstr "Не забудьте прочитать инструкции по просмотру%(link) s%(endlink) s перед отправкой отзыва."
+msgstr "Инструкции по просмотру"
 
 #: indico/modules/events/templates/reviews/forms.html:24
 msgid "Please don't forget to read the %(link)sreviewing instructions%(endlink)s before submitting a review."
-msgstr "Просмотр в%(group_title) s "
+msgstr "Не забудьте прочитать %(link)инструкции по просмотру%(endlink) перед отправкой отзыва."
 
 #: indico/modules/events/templates/reviews/forms.html:36
 msgid "Reviewing in %(group_title)s"
-msgstr "Рейтинги "
+msgstr "Просмотр в%(group_title)"
 
 #: indico/modules/events/templates/reviews/forms.html:42
 msgid "Ratings"
-msgstr "Предложение "
+msgstr "Рейтинги"
 
 #: indico/modules/events/templates/reviews/forms.html:54
 msgid "Proposal"
-msgstr "Отправить обзор "
+msgstr "Предложение"
 
 #: indico/modules/events/templates/reviews/forms.html:60
 msgid "Submit review"
-msgstr "Обновить комментарий "
+msgstr "Закончить обзор"
 
 #: indico/modules/events/templates/reviews/forms.html:95
 msgid "Update comment"
-msgstr "Оценка этого вопроса является обязательной "
+msgstr "Обновить комментарий"
 
 #: indico/modules/events/templates/reviews/forms.html:118
 msgid "Rating this question is mandatory"
-msgstr "<strong>%(name) s</strong> оставил комментарий "
+msgstr "Оценка этого вопроса является обязательной"
 
 #: indico/modules/events/templates/reviews/timeline.html:68
 msgid "<strong>%(name)s</strong> left a comment"
-msgstr "Изменить комментарий "
+msgstr "<strong>%(name)</strong> оставил комментарий"
 
 #: indico/modules/events/templates/reviews/timeline.html:82
 msgid "Edit comment"
-msgstr "Удалить комментарий "
+msgstr "Изменить комментарий"
 
 #: indico/modules/events/templates/reviews/timeline.html:90 indico/modules/events/templates/reviews/timeline.html:93
 msgid "Remove comment"
-msgstr "Вы уверены, что хотите удалить этот комментарий? "
+msgstr "Удалить комментарий"
 
 #: indico/modules/events/templates/reviews/timeline.html:94
 msgid "Are you sure you want to remove this comment?"
-msgstr "<strong>%(name) s</strong> оставил отзыв "
+msgstr "Вы уверены, что хотите удалить этот комментарий?"
 
 #: indico/modules/events/templates/reviews/timeline.html:120
 msgid "<strong>%(name)s</strong> left a review"
-msgstr "score%(pretty_score) s "
+msgstr "<strong>%(name)</strong> оставил отзыв"
 
 #: indico/modules/events/templates/reviews/timeline.html:148
 msgid "score %(pretty_score)s"
-msgstr "показать оценки "
+msgstr "балл %(pretty_score)"
 
 #: indico/modules/events/templates/reviews/timeline.html:151
 msgid "show ratings"
-msgstr "скрыть оценки "
+msgstr "показать оценки"
 
 #: indico/modules/events/templates/reviews/timeline.html:152
 msgid "hide ratings"
-msgstr "Изменить отзыв "
+msgstr "скрыть оценки"
 
 #: indico/modules/events/templates/reviews/timeline.html:159
 msgid "Edit review"
-msgstr "Время начала"
+msgstr "Изменить отзыв"
 
 #: indico/modules/events/timetable/forms.py:38
 msgid "Start time"
-msgstr "{} превышает текущий день. Отрегулируйте время начала или продолжительность. "
+msgstr "Время начала"
 
 #: indico/modules/events/timetable/forms.py:74
 msgid "{} exceeds current day. Adjust start time or duration."
-msgstr "Эта продолжительность слишком мала, чтобы вместить записи. "
+msgstr "{} превышает текущий день. Отрегулируйте время начала или продолжительность."
 
 #: indico/modules/events/timetable/forms.py:126
 msgid "This duration is too short to fit the entries within."
-msgstr "Сдвинуть вниз "
+msgstr "Продолжительность слишком мала, чтобы вместить записи."
 
 #: indico/modules/events/timetable/forms.py:135
 msgid "Shift down"
-msgstr "Сдвинуть вниз все остальное, что начинается после этого "
+msgstr "Сдвинуть вниз"
 
 #: indico/modules/events/timetable/forms.py:136
 msgid "Shift down everything else that starts after this"
-msgstr "Включить титульную страницу "
+msgstr "Сдвинуть вниз все остальное, что начинается после"
 
 #: indico/modules/events/timetable/forms.py:149
 msgid "Include cover page"
-msgstr "Включить оглавление "
+msgstr "Включить титульную страницу"
 
 #: indico/modules/events/timetable/forms.py:150
 msgid "Include table of contents"
-msgstr "Показать список сеансов в оглавлении "
+msgstr "Включить оглавление"
 
 #: indico/modules/events/timetable/forms.py:151
 msgid "Show list of sessions in the table of contents"
-msgstr "Распечатать идентификатор каждого вклада "
+msgstr "Показать список сеансов в оглавлении"
 
 #: indico/modules/events/timetable/forms.py:152
 msgid "Print the ID of each contribution"
-msgstr "Распечатать абстрактное содержание всех вкладов "
+msgstr "Распечатать идентификатор каждого вклада"
 
 #: indico/modules/events/timetable/forms.py:153
 msgid "Print abstract content of all contributions"
-msgstr "Не печатайте абстрактное содержание для стендовых сессий "
+msgstr "Распечатать абстрактное содержание всех вкладов"
 
 #: indico/modules/events/timetable/forms.py:154
 msgid "Do not print the abstract content for poster sessions"
-msgstr "Укажите длину вкладов "
+msgstr "Не печатайте абстрактное содержание для стендовых сессий"
 
 #: indico/modules/events/timetable/forms.py:155
 msgid "Include length of the contributions"
-msgstr "Печатайте каждую сессию на отдельной странице "
+msgstr "Укажите количество контрибюторов"
 
 #: indico/modules/events/timetable/forms.py:156
 msgid "Print each session on a separate page"
-msgstr "Используйте цветовые коды сеанса "
+msgstr "Распечатать каждую сессию на отдельной странице"
 
 #: indico/modules/events/timetable/forms.py:157
 msgid "Use session color codes"
-msgstr "Включите описание сеанса "] , ["Распечатать дату начала рядом с названием сеанса"
+msgstr "Используйте цветовые коды сеанса"
 
 #: indico/modules/events/timetable/forms.py:158
 msgid "Include session description"
-msgstr "Включить вклады верхнего уровня"
+msgstr "Включите описание сеанса "
 
 #: indico/modules/events/timetable/forms.py:159
 msgid "Print the start date close to session title"
-msgstr "Включить перерывы верхнего уровня"
+msgstr "Распечатать дату начала рядом с названием сеанса"
 
 #: indico/modules/events/timetable/forms.py:160
 msgid "Include top-level contributions"
-msgstr "Показать название докладчика"
+msgstr "Включить вклады верхнего уровня"
 
 #: indico/modules/events/timetable/forms.py:161
 msgid "Include top-level breaks"
-msgstrundefined
+msgstr "Включить перерывы верхнего уровня"
 
 #: indico/modules/events/timetable/forms.py:162
 msgid "Show speaker title"
-msgstrundefined
+msgstr "Показать название докладчика"
 
 #: indico/modules/events/timetable/forms.py:163
 msgid "Show speaker affiliation"
@@ -12853,26 +12859,27 @@ msgstr "Информация, связанная с сеансами"
 
 #: indico/modules/events/timetable/forms.py:178
 msgid "Breaks and contributions"
-msgstr "Перерывы и вклады "
+msgstr "Перерывы и вклады"
 
 #: indico/modules/events/timetable/forms.py:181
 msgid "Miscellaneous"
-msgstr "Разное "
+msgstr "Разное"
 
 #: indico/modules/events/timetable/forms.py:184
 msgid "Number for the first page"
-msgstr "Число для первой страницы "
+msgstr "Число для первой страницы"
 
 #: indico/modules/events/timetable/controllers/legacy.py:503 indico/modules/events/timetable/operations.py:160
 msgid "Session block cannot span more than one day"
-msgstr "Блок сеанса не может занимать более одного дня "
+msgstr "Блок сеанса не может занимать более одного дня"
 
 #: indico/modules/events/timetable/reschedule.py:104
 msgid ""
 "The chosen time gap would result in an entry with a duration of less than a minute. Please choose a smaller gap "
 "between entries."
 msgstr ""
-"Выбранный временной интервал приведет к записи с продолжительностью меньше минуты. Выберите меньший промежуток ""между записями."
+"Выбранный временной интервал приведет к записи с продолжительностью меньше минуты. Выберите меньший промежуток "
+"между записями."
 
 #: indico/modules/events/timetable/reschedule.py:130
 msgid "This action cannot be completed because the event dates have changed. Please reload the page and try again."
@@ -12939,7 +12946,7 @@ msgstr "Переместить сюда"
 
 #: indico/modules/events/timetable/templates/session_management.html:4
 msgid "Session: %(title)s"
-msgstr "Сессия:%(title) s"
+msgstr "Сессия:%(title)"
 
 #: indico/modules/events/timetable/templates/timetable_pdf_export.html:4
 msgid "Generate"
@@ -12956,23 +12963,23 @@ msgstr "Изменить время"
 
 #: indico/modules/events/timetable/templates/balloons/block.html:19
 msgid "Block"
-msgstr "Блок "
+msgstr "Блок"
 
 #: indico/modules/events/timetable/templates/balloons/block.html:25
 msgid "Edit session block %(title)s"
-msgstr "Изменить блок сеанса%(заголовок) s "
+msgstr "Изменить блок сеанса %(title)"
 
 #: indico/modules/events/timetable/templates/balloons/block.html:27
 msgid "Delete session block"
-msgstr "Удалить блок сеанса "
+msgstr "Удалить блок сеанса"
 
 #: indico/modules/events/timetable/templates/balloons/block.html:28
 msgid "Delete session block %(title)s?"
-msgstr "Удалить блок сеанса%(заголовок) s? "
+msgstr "Удалить блок сеанса %(title)? "
 
 #: indico/modules/events/timetable/templates/balloons/block.html:29
 msgid "Are you sure you want to delete the session block %(title)s?"
-msgstr "Вы уверены, что хотите удалить блок сеанса%(title) s?"
+msgstr "Вы уверены, что хотите удалить блок сеанса %(title)?"
 
 #: indico/modules/events/timetable/templates/balloons/block.html:55
 msgid "View session details"
@@ -12988,7 +12995,7 @@ msgstr "Изменить перерыв"
 
 #: indico/modules/events/timetable/templates/balloons/break.html:11
 msgid "Edit break '%(title)s'"
-msgstr "Изменить перерыв '%(title) s'"
+msgstr "Изменить перерыв '%(title)'"
 
 #: indico/modules/events/timetable/templates/balloons/break.html:14
 msgid "Move break"
@@ -12996,15 +13003,15 @@ msgstr "Переместить перерыв"
 
 #: indico/modules/events/timetable/templates/balloons/break.html:18
 msgid "Delete break"
-msgstr "Удалить разрыв "
+msgstr "Удалить разрыв"
 
 #: indico/modules/events/timetable/templates/balloons/break.html:19
 msgid "Delete break '%(title)s'?"
-msgstr "Удалить разрыв '%(title) s'? "
+msgstr "Удалить разрыв '%(title)'?"
 
 #: indico/modules/events/timetable/templates/balloons/break.html:20
 msgid "Are you sure you want to delete the break '%(title)s'?"
-msgstr "Вы уверены, что хотите удалить разрыв '%(title) s'?"
+msgstr "Вы уверены, что хотите удалить разрыв '%(title)'?"
 
 #: indico/modules/events/timetable/templates/balloons/contribution.html:21
 msgid "Move contribution"
@@ -13012,7 +13019,7 @@ msgstr "Переместить взнос"
 
 #: indico/modules/events/timetable/templates/balloons/contribution.html:30
 msgid "Unschedule contribution '%(title)s'?"
-msgstr "Внеплановый взнос '%(title) s'?"
+msgstr "Внеплановый взнос '%(title)'?"
 
 #: indico/modules/events/timetable/templates/balloons/contribution.html:31
 msgid "Unschedule contribution"
@@ -13020,7 +13027,7 @@ msgstr "Незапланированный взнос"
 
 #: indico/modules/events/timetable/templates/balloons/contribution.html:32
 msgid "Are you sure you want to unschedule the contribution '%(title)s'?"
-msgstr "Вы уверены, что хотите отменить график взноса '%(title) s'?"
+msgstr "Вы уверены, что хотите отменить график взноса '%(title)'?"
 
 #: indico/modules/events/timetable/templates/balloons/contribution.html:36
 msgid "Delete contribution"
@@ -13028,7 +13035,7 @@ msgstr "Удалить вклад"
 
 #: indico/modules/events/timetable/templates/balloons/contribution.html:37
 msgid "Are you sure you want to delete the contribution '%(title)s'?"
-msgstr "Вы уверены, что хотите удалить вклад '%(title) s'?"
+msgstr "Вы уверены, что хотите удалить вклад '%(title)'?"
 
 #: indico/modules/events/timetable/templates/balloons/contribution.html:40
 msgid "View contribution details"
@@ -13036,7 +13043,7 @@ msgstr "Просмотреть подробности вклада"
 
 #: indico/modules/events/timetable/templates/balloons/contribution.html:84
 msgid "Subcontributions of contribution '%(title)s'"
-msgstr "Дополнительные материалы вклада '%(title) s'"
+msgstr "Дополнительные материалы вклада '%(title)'"
 
 #: indico/modules/events/timetable/templates/display/_weeks.html:209
 msgid "Direct link to this day"
@@ -13064,7 +13071,7 @@ msgstr "Созвать"
 
 #: indico/modules/events/tracks/__init__.py:70
 msgid "Grants track convener rights in a track."
-msgstr "Предоставляет права организатора трека в треке"
+msgstr "Предоставляет права организатора трека в треке."
 
 #: indico/modules/events/tracks/__init__.py:77
 msgid "Convene all tracks"
@@ -13084,19 +13091,19 @@ msgstr "Предоставляет права организатора трек�
 
 #: indico/modules/events/tracks/controllers.py:83
 msgid "The program has been updated."
-msgstr "Программа обновлена"
+msgstr "Программа обновлена."
 
 #: indico/modules/events/tracks/controllers.py:96
 msgid "Track \"{}\"has been created."
-msgstr "Трек \"{}\"создан"
+msgstr "Трек \"{}\"создан."
 
 #: indico/modules/events/tracks/controllers.py:107
 msgid "Track \"{}\"has been modified."
-msgstr "Трек \"{}\"был изменен"
+msgstr "Трек \"{}\"был изменен."
 
 #: indico/modules/events/tracks/controllers.py:132
 msgid "Track \"{}\"has been deleted."
-msgstr "Дорожка \"{}\"удалена"
+msgstr "Трек \"{}\"удален."
 
 #: indico/modules/events/tracks/controllers.py:176
 msgid "Track Group \"{}\"has been deleted."
@@ -13108,7 +13115,7 @@ msgstr "Группа дорожек"
 
 #: indico/modules/events/tracks/forms.py:26
 msgid "Select a track group to which this track should belong"
-msgstr "Выберите группу дорожек, к которой должна принадлежать эта дорожка"
+msgstr "Выберите группу треков, к которым должн принадлежать этот трек"
 
 #: indico/modules/events/tracks/forms.py:27
 msgid "Default session"
@@ -13116,7 +13123,7 @@ msgstr "Сеанс по умолчанию"
 
 #: indico/modules/events/tracks/forms.py:28
 msgid "Indico will preselect this session whenever an abstract is accepted for the track"
-msgstr "Indico будет предварительно выбирать этот сеанс всякий раз, когда для трека принимается реферат"
+msgstr "Conference System будет предварительно выбирать этот сеанс всякий раз, когда для трека принимается реферат."
 
 #: indico/modules/events/tracks/templates/_track_list.html:12
 msgid "Edit track"
@@ -13124,7 +13131,7 @@ msgstr "Редактировать трек"
 
 #: indico/modules/events/tracks/templates/_track_list.html:14
 msgid "Edit track \"%(title)s\""
-msgstr "Редактировать трек \"%(title) s\""
+msgstr "Редактировать трек \"%(title)\""
 
 #: indico/modules/events/tracks/templates/_track_list.html:21
 msgid "Delete track"
@@ -13132,11 +13139,11 @@ msgstr "Удалить трек"
 
 #: indico/modules/events/tracks/templates/_track_list.html:23
 msgid "Are you sure you want to delete this track?"
-msgstr "Вы уверены, что хотите удалить этот трек? "
+msgstr "Вы уверены, что хотите удалить этот трек?"
 
 #: indico/modules/events/tracks/templates/_track_list.html:24 indico/modules/events/tracks/templates/_track_list.html:81
 msgid "Delete track \"%(title)s\""
-msgstr "Удалить трек \"%(title) s\""
+msgstr "Удалить трек \"%(title)\""
 
 #: indico/modules/events/tracks/templates/_track_list.html:29
 msgid "This track cannot be deleted because it contains accepted abstracts"
@@ -13144,7 +13151,7 @@ msgstr "Этот трек нельзя удалить, потому что он 
 
 #: indico/modules/events/tracks/templates/_track_list.html:41
 msgid "Indico will preselect the session \"%(title)s\"whenever an abstract is accepted for this track."
-msgstr "Indico будет предварительно выбирать сеанс \"%(title) s\"всякий раз, когда на трек принимается реферат ."
+msgstr "Conference System будет предварительно выбирать сеанс \"%(title)\"всякий раз, когда на трек принимается реферат."
 
 #: indico/modules/events/tracks/templates/_track_list.html:70
 msgid "Edit track group"
@@ -13152,7 +13159,7 @@ msgstr "Изменить группу дорожек"
 
 #: indico/modules/events/tracks/templates/_track_list.html:72
 msgid "Edit track group \"%(title)s\""
-msgstr "Изменить группу дорожек \"%(название) s\""
+msgstr "Изменить группу дорожек \"%(title)\""
 
 #: indico/modules/events/tracks/templates/_track_list.html:78
 msgid "Delete track group"
@@ -13164,7 +13171,7 @@ msgstr "Вы уверены, что хотите удалить эту груп�
 
 #: indico/modules/events/tracks/templates/_track_list.html:96 indico/modules/events/tracks/templates/_track_list.html:112
 msgid "No tracks have been added yet."
-msgstr "Пока не добавлено ни одной дорожки."
+msgstr "Пока не добавлено ни одного трека."
 
 #: indico/modules/events/tracks/templates/_track_list.html:98
 msgid "You can drag and drop tracks here to add them to the group."
@@ -13180,7 +13187,7 @@ msgid ""
 "a taxonomy that can be used to classify submissions during the Call for Abstracts process."
 msgstr ""
 "Треки представляют собой тему конференции. Они представляют собой как основу научной программы, так и"
-"таксономия, которая может использоваться для классификации представленных материалов в процессе конкурса тезисов."
+"систематику, которая может использоваться для классификации представленных материалов в процессе конкурса тезисов."
 
 #: indico/modules/events/tracks/templates/management.html:25
 msgid "Configure the conference page displaying the scientific programme."
@@ -13228,11 +13235,11 @@ msgstr "Группа '{имя}' создана."
 
 #: indico/modules/groups/controllers.py:121
 msgid "The group '{name}' has been updated."
-msgstr "Группа"{имя} "обновлена."
+msgstr "Группа '{name}' обновлена."
 
 #: indico/modules/groups/controllers.py:142
 msgid "The group '{name}' has been deleted."
-msgstr "Группа"{имя} "удалена."
+msgstr "Группа '{name}' удалена."
 
 #: indico/modules/groups/forms.py:21 indico/modules/groups/templates/groups.html:15
 msgid "Provider"
@@ -13295,8 +13302,8 @@ msgid ""
 "Group functionality is not available as local groups are disabled and there are no providers for remote groups "
 "configured."
 msgstr ""
-"Групповая функциональность недоступна, так как локальные группы отключены и нет провайдеров для удаленных групп"
-"настроен."
+"Групповая функциональность недоступна, так как локальные группы отключены и нет настроенных провайдеров для удаленных групп"
+""
 
 #: indico/modules/groups/templates/groups.html:49
 msgid "Local groups"
@@ -13312,7 +13319,7 @@ msgstr "Поисковые группы"
 
 #: indico/modules/groups/templates/groups.html:74
 msgid "This Indico instance also supports external groups from identity providers (%(providers)s)."
-msgstr "Этот экземпляр Indico также поддерживает внешние группы от поставщиков удостоверений (%(provider) s)."
+msgstr "Этот экземпляр Conference System также поддерживает внешние группы от поставщиков удостоверений (%(provider))."
 
 #: indico/modules/groups/templates/groups.html:78
 msgid "The search form below will search both local groups and external groups, unless specified otherwise."
@@ -13324,7 +13331,7 @@ msgstr "Группы не найдены."
 
 #: indico/modules/legal/__init__.py:41
 msgid "Legal/Disclaimers"
-msgstr "Юридическая информация / Заявление об ограничении ответственности"
+msgstr "Юридическая информация/Заявление об ограничении ответственности"
 
 #: indico/modules/legal/forms.py:20
 msgid "Network-protected information disclaimer"
@@ -13340,28 +13347,28 @@ msgstr "URL-адрес внешней страницы с условиями"
 
 #: indico/modules/legal/forms.py:25 indico/modules/legal/forms.py:29
 msgid "Only used if no URL is provided"
-msgstr "Используется только при отсутствии URL-адреса. предоставляется "
+msgstr "Используется только при отсутствии URL-адреса. предоставляется"
 
 #: indico/modules/legal/forms.py:27
 msgid "The URL to an external page with the privacy policy"
-msgstr "URL-адрес внешней страницы с политикой конфиденциальности "
+msgstr "URL-адрес внешней страницы с политикой конфиденциальности"
 
 #: indico/modules/legal/templates/tos.html:5 indico/modules/legal/views.py:26
 msgid "Terms and Conditions"
-msgstr "Положения и условия "
+msgstr "Положения и условия"
 
 #: indico/modules/legal/templates/privacy.html:5 indico/modules/legal/templates/privacy_footer.html:5
 #: indico/modules/legal/views.py:34
 msgid "Privacy Policy"
-msgstr "Политика конфиденциальности "
+msgstr "Политика конфиденциальности"
 
 #: indico/modules/legal/templates/manage_messages.html:5
 msgid "Legal and disclaimer messages"
-msgstr "Юридические сообщения и сообщения об отказе от ответственности "
+msgstr "Юридические сообщения и сообщения об отказе от ответственности"
 
 #: indico/modules/legal/templates/privacy_footer.html:2 indico/modules/legal/templates/privacy_footer.html:10
 msgid "Privacy"
-msgstr "Конфиденциальность "
+msgstr "Конфиденциальность"
 
 #: indico/modules/networks/__init__.py:27 indico/modules/networks/templates/networks.html:74
 msgid "IP Networks"
@@ -13377,7 +13384,7 @@ msgid ""
 "attachments/materials in Indico?"
 msgstr ""
 "Вы действительно хотите предоставить всем в указанных сетях неаутентифицированный доступ для всех"
-"вложения / материалы в Indico?"
+"вложений / материалов в Conference System?"
 
 #: indico/modules/networks/forms.py:30
 msgid "Subnets"
@@ -13492,8 +13499,8 @@ msgid ""
 "The maximum age in days for news to show up on the Indico home page. Setting it to 0 will show news no matter how old"
 "they are."
 msgstr ""
-"Максимальный возраст в днях, в течение которого новости должны отображаться на домашней странице Indico. Если установить значение 0, новости будут отображаться независимо от того,"
-"какого возраста"они.
+"Максимальный возраст в днях, в течение которого новости должны отображаться на домашней странице Conference System. Если установить значение 0, новости будут отображаться независимо от того,"
+"какого они были созданы."
 
 #: indico/modules/news/forms.py:27
 msgid "\"New\"threshold"
@@ -13521,7 +13528,7 @@ msgstr "Удалить новость"
 
 #: indico/modules/news/templates/admin/news.html:65
 msgid "Do you really want to delete the news '%(title)s'?"
-msgstr "Вы действительно хотите удалить новость '%(title) s'?"
+msgstr "Вы действительно хотите удалить новость '%(title)'?"
 
 #: indico/modules/oauth/__init__.py:39 indico/modules/oauth/__init__.py:44 indico/modules/oauth/templates/apps.html:9
 #: indico/modules/oauth/templates/apps_base.html:4
@@ -13546,174 +13553,177 @@ msgstr "Новый секрет клиента, созданный для при
 
 #: indico/modules/oauth/controllers.py:151
 msgid "All user tokens for this application were revoked successfully"
-msgstr "Все пользовательские токены для этого приложения были успешно отозваны "
+msgstr "Все пользовательские токены для этого приложения были успешно отозваны"
 
 #: indico/modules/oauth/controllers.py:175
 msgid "Token for {} has been revoked successfully"
-msgstr "Токен для {} был успешно отозван "
+msgstr "Токен для {} был успешно отозван"
 
 #: indico/modules/oauth/forms.py:29
 msgid "Invalid URI: {}.<br>It must use http or https and may not contain a query string."
-msgstr "Неверный URI: {}.<br> Он должен использовать http или https и не может содержать строку запроса. "
+msgstr "Неверный URI: {}.<br> Он должен использовать http или https и не может содержать строку запроса."
 
 #: indico/modules/oauth/forms.py:37
 msgid "Allowed authorization callback URLs"
-msgstr "Разрешенные URL-адреса обратного вызова авторизации "
+msgstr "Разрешенные URL-адреса обратного вызова авторизации"
 
 #: indico/modules/oauth/forms.py:38
 msgid ""
 "More than one URL can be specified adding new lines. The redirect_uri sent by the OAuth client must use the same "
 "protocol and host/port. If an entry contains a path, the redirect_uri's path must start with this path."
 msgstr ""
-"Можно указать более одного URL-адреса, добавляя новые строки. ""Redirect_uri, отправленный клиентом OAuth, должен использовать тот же протокол и хост / порт. Если запись содержит путь, путь redirect_uri должен начинаться с этого пути. "
+"Можно указать более одного URL-адреса, добавляя новые строки. Redirect_uri, отправленный клиентом OAuth, должен использовать тот же"
+"протокол и хост/порт. Если запись содержит путь, путь redirect_uri должен начинаться с этого пути."
 
 #: indico/modules/oauth/forms.py:45
 msgid ""
 "If an application is not enabled, its OAuth tokens cannot be used and user cannot be prompted to authorize the "
 "application."
 msgstr ""
-"Если приложение не включено, его токены OAuth нельзя использовать, и пользователю не может быть предложено авторизовать ""приложение. "] , ["Доверенные"
+"Если приложение не включено, его токены OAuth нельзя использовать, и пользователю не может быть предложено авторизовать "
+"приложение."
 
 #: indico/modules/oauth/forms.py:47
 msgid "Trusted"
-msgstr ""
-"Доверенные приложения получат авторизацию автоматически, и во время"
-"процесса авторизации не будет отображаться промежуточная страница"
+msgstr "Доверенные"
 
 #: indico/modules/oauth/forms.py:48
 msgid ""
 "Trusted applications will be granted authorization automatically and no intermediate page will be displayed during "
 "the authorization process."
-msgstr "Уже существует приложение с таким именем"
+msgstr ""
+"Доверенные приложения получат авторизацию автоматически, и во время"
+"процесса авторизации не будет отображаться промежуточная страница"
 
 #: indico/modules/oauth/forms.py:64
 msgid "There is already an application with this name"
-msgstr "Информация о пользователе (только для чтения) "
+msgstr "Уже существует приложение с таким именем"
 
 #: indico/modules/oauth/models/applications.py:24
 msgid "User information (read only)"
-msgstr "Устаревший API (только для чтения) "
+msgstr "Информация о пользователе (только для чтения)"
 
 #: indico/modules/oauth/models/applications.py:25
 msgid "Legacy API (read only)"
-msgstr "Устаревший API (только для записи) "
+msgstr "Устаревший API (только для чтения)"
 
 #: indico/modules/oauth/models/applications.py:26
 msgid "Legacy API (write only)"
-msgstr "Участники регистрации "
+msgstr "Устаревший API (только для записи)"
 
 #: indico/modules/oauth/models/applications.py:27
 msgid "Event registrants"
-msgstr "Вы действительно хотите отозвать все%( num_tokens) s пользовательских токенов? "
+msgstr "Участники регистрации"
 
 #: indico/modules/oauth/templates/app_details.html:24
 msgid "Are you sure you want to revoke all %(num_tokens)s user tokens?"
-msgstr "Отменить пользовательские токены "
+msgstr "Вы действительно хотите отозвать все %(num_tokens) пользовательских токенов?"
 
 #: indico/modules/oauth/templates/app_details.html:26
 msgid "Revoke user tokens"
-msgstr "Вы уверены, что хотите сбросить секрет клиента? "
+msgstr "Отменить пользовательские токены"
 
 #: indico/modules/oauth/templates/app_details.html:30
 msgid "Are you sure you want to reset the client secret?"
-msgstr "Сбросить секрет клиента "
+msgstr "Вы уверены, что хотите сбросить секрет клиента?"
 
 #: indico/modules/oauth/templates/app_details.html:31
 msgid "Reset client secret"
-msgstr "Вы действительно хотите удалить это приложение? "
+msgstr "Сбросить секрет клиента"
 
 #: indico/modules/oauth/templates/app_details.html:38
 msgid "Are you sure you want to remove this application?"
-msgstr "Пользователи: "
+msgstr "Вы действительно хотите удалить это приложение?"
 
 #: indico/modules/oauth/templates/app_details.html:47
 msgid "Users:"
-msgstr "Это системное приложение. Его нельзя удалить, и некоторые атрибуты нельзя изменить. "
+msgstr "Пользователи:"
 
 #: indico/modules/oauth/templates/app_details.html:57
 msgid "This is a system application. It cannot be deleted and certain attributes cannot be changed."
-msgstr "Обновить приложение "
+msgstr "Это системное приложение. Его нельзя удалить, и некоторые атрибуты нельзя изменить."
 
 #: indico/modules/oauth/templates/app_details.html:80
 msgid "Update application"
-msgstr "Зарегистрировать новое приложение "
+msgstr "Обновить приложение"
 
 #: indico/modules/oauth/templates/app_new.html:5 indico/modules/oauth/templates/apps.html:13
 msgid "Register new application"
-msgstr ""
-"Это список приложений, которым разрешен доступ к Indico. Щелкните имя приложения, чтобы просмотреть ""дополнительную информацию. "
+msgstr "Зарегистрировать новое приложение"
 
 #: indico/modules/oauth/templates/apps.html:18
 msgid ""
 "This is the list of applications authorized to access Indico. Click on the name of an application to see more "
 "information."
-msgstr "Нет авторизованных приложений. "
+msgstr ""
+"Это список приложений, которым разрешен доступ к Conference System. Щелкните имя приложения, чтобы просмотреть "
+"дополнительную информацию."
 
 #: indico/modules/oauth/templates/apps.html:22
 msgid "There aren't any authorized applications."
-msgstr "Запрашивает следующие разрешения: "
+msgstr "Нет авторизованных приложений."
 
 #: indico/modules/oauth/templates/authorize.html:27
 msgid "is requesting the following permissions:"
-msgstr "Разрешение уже предоставлено "
+msgstr "запрашивает следующие разрешения:"
 
 #: indico/modules/oauth/templates/authorize.html:30
 msgid "Permission already granted"
-msgstr "Авторизовать"
+msgstr "Разрешение уже предоставлено"
 
 #: indico/modules/oauth/templates/authorize.html:42
 msgid "Authorize"
-msgstr "Произошла ошибка во время процесса авторизации OAuth:"
+msgstr "Авторизовать"
 
 #: indico/modules/oauth/templates/authorize_errors.html:7
 msgid "There was an error during the OAuth authorization process:"
-msgstr "Авторизованные приложения"
+msgstr "Произошла ошибка во время процесса авторизации OAuth:"
 
 #: indico/modules/oauth/templates/user_profile.html:8
 msgid "Authorized applications"
-msgstr "Это список приложений, которым вы разрешили доступ к своим данным Indico."
+msgstr "Авторизованные приложения"
 
 #: indico/modules/oauth/templates/user_profile.html:12
 msgid "This is the list of applications you authorized to access your Indico data."
-msgstr "Третье не требуется. сторонние приложения были авторизованы. "
+msgstr "Это список приложений, которым вы разрешили доступ к своим данным Conference System."
 
 #: indico/modules/oauth/templates/user_profile.html:16
 msgid "No third party applications have been authorized."
-msgstr "Последнее использование: "
+msgstr "Сторонние приложения не были авторизованы."
 
 #: indico/modules/oauth/templates/user_profile.html:24
 msgid "Last used:"
-msgstr "%(app_name) s больше не будет иметь доступа к вашим данным Indico.<br> Вы уверены, что хотите отозвать его доступ? "
+msgstr "Последнее использование:"
 
 #: indico/modules/oauth/templates/user_profile.html:36
 msgid "%(app_name)s will no longer have access to your Indico data.<br> Are you sure you want to revoke its access?"
-msgstr "Отозвать "
+msgstr "%(app_name) больше не будет иметь доступа к вашим данным Conference System.<br> Вы уверены, что хотите отозвать его доступ?"
 
 #: indico/modules/oauth/templates/user_profile.html:38
 msgid "Revoke"
-msgstr "Бронирование номера "
+msgstr "Отозвать"
 
 #: indico/modules/rb/__init__.py:66 indico/modules/rb/__init__.py:78 indico/modules/rb/views.py:17
 msgid "Room Booking"
-msgstr "Бронирование номера "
+msgstr "Бронирование номера"
 
 #: indico/modules/rb/__init__.py:72
 msgid "Room booking"
-msgstr "Забронировать "
+msgstr "Бронирование номера"
 
 #: indico/modules/rb/__init__.py:110 indico/modules/rb/templates/booking_list.html:26
 #: indico/modules/rb/templates/booking_list.html:43 indico/modules/rb/templates/booking_list.html:59
 #: indico/modules/rb/templates/booking_list.html:75
 msgid "Book"
-msgstr "Разрешить бронирование номера "
+msgstr "Забронировать"
 
 #: indico/modules/rb/__init__.py:111
 msgid "Allows booking the room"
-msgstr "Предбук "
+msgstr "Разрешить бронирование номера"
 
 #: indico/modules/rb/__init__.py:118
 msgid "Prebook"
-msgstrundefined
+msgstr "Предворительное бронирование"
 
 #: indico/modules/rb/__init__.py:119
 msgid "Allows prebooking the room"
@@ -13729,31 +13739,31 @@ msgstr "Разрешить отмену ограничений при брони
 
 #: indico/modules/rb/__init__.py:135
 msgid "Moderate"
-msgstr "Умеренно"
+msgstr "Модерирование"
 
 #: indico/modules/rb/__init__.py:136
 msgid "Allows moderating bookings (approving/rejecting/editing)"
-msgstr "Разрешить модерирование бронирований (утверждение / отклонение / редактирование)"
+msgstr "Разрешить модерирование бронирований (утверждение/отклонение/редактирование)"
 
 #: indico/modules/rb/schemas.py:348
 msgid "Booking cannot end before it starts"
-msgstr "Бронирование не может закончиться до его начала "
+msgstr "Бронирование не может закончиться до его начала"
 
 #: indico/modules/rb/settings.py:17
 msgid "Rooms I own"
-msgstr "Комнаты, которыми я владею "
+msgstr "Комнаты, которыми я владею"
 
 #: indico/modules/rb/settings.py:17
 msgid "Rooms I manage"
-msgstr "Комнаты, которыми я управляю "
+msgstr "Комнаты, которыми я управляю"
 
 #: indico/modules/rb/settings.py:17
 msgid "Rooms I own or manage"
-msgstr "Комнаты, которыми я владею или управляю "
+msgstr "Комнаты, которыми я владею или управляю"
 
 #: indico/modules/rb/user_prefs.py:28
 msgid "Room notifications"
-msgstr "Уведомления о комнатах "
+msgstr "Уведомления о комнатах"
 
 #: indico/modules/rb/user_prefs.py:29
 msgid "If you own or manage any rooms, you can choose whether to receive notifications about activity related to them."
@@ -13793,7 +13803,7 @@ msgstr "Вы не можете загрузить этот файл в каче�
 
 #: indico/modules/rb/controllers/backend/admin.py:384 indico/modules/users/controllers.py:270
 msgid "The file has an invalid format ({format})."
-msgstr "Файл имеет недопустимый формат ({формат})"
+msgstr "Файл имеет недопустимый формат ({format})"
 
 #: indico/modules/rb/controllers/backend/bookings.py:164
 msgid "You cannot create a booking which starts in the past"
@@ -13862,39 +13872,39 @@ msgstr "Предварительное бронирование"
 
 #: indico/modules/rb/templates/booking_list.html:115
 msgid "recurring"
-msgstr "повторяющееся "
+msgstr "повторяющееся"
 
 #: indico/modules/users/__init__.py:57 indico/modules/users/forms.py:129 indico/modules/users/templates/admins.html:5
 msgid "Admins"
-msgstr "Администраторы "
+msgstr "Администраторы"
 
 #: indico/modules/users/__init__.py:63 indico/modules/users/templates/dashboard.html:27
 msgid "Dashboard"
-msgstr "Панель управления "
+msgstr "Панель управления"
 
 #: indico/modules/users/__init__.py:64
 msgid "Personal data"
-msgstr "Личные данные "
+msgstr "Личные данные"
 
 #: indico/modules/users/__init__.py:65 indico/modules/users/templates/profile_picture.html:8
 msgid "Profile picture"
-msgstr "Изображение профиля "
+msgstr "Изображение профиля"
 
 #: indico/modules/users/__init__.py:68 indico/modules/users/templates/preferences.html:9
 msgid "Preferences"
-msgstr "Настройки "
+msgstr "Настройки"
 
 #: indico/modules/users/__init__.py:69
 msgid "Favourites"
-msgstr "Избранное "
+msgstr "Избранное"
 
 #: indico/modules/users/__init__.py:75 indico/web/templates/_session_bar.html:124
 msgid "My profile"
-msgstr "Мой профиль "
+msgstr "Мой профиль"
 
 #: indico/modules/users/controllers.py:106
 msgid "This user has been merged into <a href=\"{url}\">another user</a>."
-msgstr "Этот пользователь был объединен с <a href=\"{url}\">другим пользователем</a>."
+msgstr "Этот пользователь был объединен с <a href=\"{url}\">другим пользователем</a> ."
 
 #: indico/modules/users/controllers.py:109
 msgid "This user is marked as deleted."
@@ -14254,11 +14264,11 @@ msgstr "Удалено"
 
 #: indico/modules/users/templates/admins.html:9
 msgid "Admins have unrestricted access to everything in Indico."
-msgstr "Администраторы имеют неограниченный доступ ко всему в Indico."
+msgstr "Администраторы имеют неограниченный доступ ко всему в Conference System."
 
 #: indico/modules/users/templates/base.html:10
 msgid "Profile of %(name)s"
-msgstr "Профиль%(name) s"
+msgstr "Профиль%(name)"
 
 #: indico/modules/users/templates/base.html:23
 msgid "This is the system user. Most user features are not available."
@@ -14335,7 +14345,7 @@ msgstr "Вы не отметили ни одного пользователя к
 
 #: indico/modules/users/templates/favorites.html:28
 msgid "Add Indico user"
-msgstr "Добавить пользователя Indico"
+msgstr "Добавить пользователя"
 
 #: indico/modules/users/templates/favorites.html:35
 msgid "Favourite Categories"
@@ -14355,7 +14365,7 @@ msgstr "Заблокировать пользователя "
 
 #: indico/modules/users/templates/personal_data.html:30
 msgid "This user will regain access to Indico.<br> Are you sure you want to restore their access?"
-msgstr "Этот пользователь восстановит доступ к Indico.<br> Вы уверены, что хотите восстановить их доступ? "
+msgstr "Этот пользователь восстановит доступ к CS.<br> Вы уверены, что хотите восстановить их доступ? "
 
 #: indico/modules/users/templates/personal_data.html:33
 msgid "Unblock User"
@@ -14375,205 +14385,207 @@ msgstr "Нет ожидающих запросов "
 
 #: indico/modules/users/templates/users_admin.html:12 indico/modules/users/templates/users_admin.html:16
 msgid "User settings"
-msgstr "Настройки пользователя "] , ["Управление пользователями"
+msgstr "Настройки пользователя "
 
 #: indico/modules/users/templates/users_admin.html:27
 msgid "Manage users"
-msgstr "Объединить пользователей"
+msgstr "Управление пользователями"
 
 #: indico/modules/users/templates/users_admin.html:33 indico/modules/users/templates/users_merge.html:4
 msgid "Merge users"
-msgstr "Создать новую учетную запись"
+msgstr "Объединить пользователей"
 
 #: indico/modules/users/templates/users_admin.html:40 indico/modules/users/templates/users_admin.html:42
 msgid "Create new account"
-msgstr "Всего пользователей%(num_of_users) s, из которых%(num_deleted_users) s удалены"
+msgstr "Создать новую учетную запись"
 
 #: indico/modules/users/templates/users_admin.html:58
 msgid "There are %(num_of_users)s users, %(num_deleted_users)s of which are deleted"
-msgstr "Поиск пользователей "
+msgstr "Всего пользователей%(num_of_users), из которых %(num_deleted_users) удалены"
 
 #: indico/modules/users/templates/users_admin.html:63
 msgid "Search users"
-msgstr "Не удалось найти пользователей. "
+msgstr "Поиск пользователей"
 
 #: indico/modules/users/templates/users_admin.html:71
 msgid "No users could be found."
-msgstr ""
-"Вы недавно добавили адрес электронной почты%(email) s в свою учетную запись Indico. Щелкните следующую ссылку, чтобы подтвердить ""это действие. "
+msgstr "Не удалось найти пользователей."
 
 #: indico/modules/users/templates/emails/verify_email.txt:13
 msgid ""
 "You recently added the e-mail address %(email)s to your Indico account. Please click the following link to confirm "
 "this action."
-msgstr "Комнаты для видеоконференций "
+msgstr ""
+"Вы недавно добавили адрес электронной почты%(email) s в свою учетную запись Indico. Щелкните следующую ссылку, чтобы подтвердить "
+"это действие. "
 
 #: indico/modules/vc/__init__.py:59 indico/modules/vc/templates/event_header.html:4
 msgid "Videoconference Rooms"
-msgstr "Комнаты для видеоконференций "
+msgstr "Комнаты для видеоконференций"
 
 #: indico/modules/vc/clone.py:20
 msgid "Videoconference rooms"
-msgstr "К '{link_object_title}' уже подключена комната VC. "
+msgstr "Комнаты для видеоконференций"
 
 #: indico/modules/vc/controllers.py:60
 msgid "There is already a VC room attached to '{link_object_title}'."
-msgstr "Эта комната {plugin_name} уже привязана к мероприятию. "
+msgstr "К '{link_object_title}' уже подключена комната VC."
 
 #: indico/modules/vc/controllers.py:65
 msgid "This {plugin_name} room is already attached to the event."
-msgstr "Вам не разрешено создавать комнаты {plugin_name} для этого мероприятия. "
+msgstr "Эта комната {plugin_name} уже привязана к мероприятию."
 
 #: indico/modules/vc/controllers.py:126
 msgid "You are not allowed to create {plugin_name} rooms for this event."
-msgstr "{Plugin_name} room '{room.name}' created "] , ["Вам не разрешено изменять {} комнаты для этого мероприятия"
+msgstr "Вам не разрешено создавать комнаты {plugin_name} для этого мероприятия."
 
 #: indico/modules/vc/controllers.py:158
 msgid "{plugin_name} room '{room.name}' created"
-msgstr "{Plugin_name} room '{room.name}' обновлено"
+msgstr "{Plugin_name} для '{room.name}' созданно"
 
 #: indico/modules/vc/controllers.py:182
 msgid "You are not allowed to modify {} rooms for this event."
-msgstr "Вы не можете обновлять {plugin_name} комнаты для этого событие. "
+msgstr "Вам не разрешено изменять {} комнаты для этого мероприятия"
 
 #: indico/modules/vc/controllers.py:218
 msgid "{plugin_name} room '{room.name}' updated"
-msgstr "{plugin_name} room '{room.name}' обновлено "
+msgstr "{Plugin_name} для '{room.name}' обновлено"
 
 #: indico/modules/vc/controllers.py:234
 msgid "You are not allowed to refresh {plugin_name} rooms for this event."
-msgstr "Вам не разрешено удалять {} переговорных комнат из этого мероприятия. "
+msgstr "Вы не можете обновлять {plugin_name} комнаты для этого событие. "
 
 #: indico/modules/vc/controllers.py:248
 msgid "{plugin_name} room '{room.name}' refreshed"
-msgstr "{plugin_name} room '{room. name} 'удалено "
+msgstr "{plugin_name} для '{room.name}' обновлено"
 
 #: indico/modules/vc/controllers.py:258
 msgid "You are not allowed to remove {} rooms from this event."
-msgstr "Вам не разрешено присоединять комнаты {plugin_name} к этому событию. "
+msgstr "Вам не разрешено удалять {} комнаиы из этого мероприятия. "
 
 #: indico/modules/vc/controllers.py:264
 msgid "{plugin_name} room '{room.name}' removed"
-msgstr "У вас нет прав присоединить комнату' {room.name} '"
+msgstr "{plugin_name} для '{room. name} 'удалено"
 
 #: indico/modules/vc/controllers.py:296
 msgid "You are not allowed to attach {plugin_name} rooms to this event."
-msgstr "Комнату был прикреплен к событию. "
+msgstr "Вам не разрешено присоединять комнаты {plugin_name} к этому событию."
 
 #: indico/modules/vc/controllers.py:299
 msgid "You are not authorized to attach the room '{room.name}'"
-msgstr "Менеджеры служб "
+msgstr "У вас нет прав присоединить комнату '{room.name}'"
 
 #: indico/modules/vc/controllers.py:303
 msgid "The room has been attached to the event."
-msgstr "ACL "
+msgstr "Комнату был прикреплен к событию."
 
 #: indico/modules/vc/forms.py:57
 msgid "Service managers"
-msgstr "Пользователи и группы, которым разрешено создавать комнаты для видеоконференций "
+msgstr "Менеджеры служб"
 
 #: indico/modules/vc/forms.py:58
 msgid "ACL"
-msgstr "Notificati на адресах электронной почты "
+msgstr "ACL"
 
 #: indico/modules/vc/forms.py:59
 msgid "Users and Groups authorised to create videoconference rooms"
-msgstr "Уведомления о комнатах для видеоконференций отправляются на эти адреса электронной почты (по одному в каждой строке). "
+msgstr "Пользователи и группы, которым разрешено создавать комнаты для видеоконференций"
 
 #: indico/modules/vc/forms.py:60
 msgid "Notification email addresses"
-msgstr "Ссылка на "
+msgstr "Электронной почты для уведомлений"
 
 #: indico/modules/vc/forms.py:61
 msgid "Notifications about videoconference rooms are sent to these email addresses (one per line)."
-msgstr "Показать комнату "
+msgstr "Уведомления о комнатах для видеоконференций отправляются на эти адреса электронной почты (по одному в каждой строке). "
 
 #: indico/modules/vc/forms.py:68
 msgid "Link to"
-msgstr "Отображать эту комнату на странице мероприятия "
+msgstr "Ссылка на"
 
 #: indico/modules/vc/forms.py:80
 msgid "Show room"
-msgstr "Пожалуйста, выберите вклад "
+msgstr "Показать комнату"
 
 #: indico/modules/vc/forms.py:82
 msgid "Display this room on the event page"
-msgstr "Пожалуйста, выберите блок сеанса "
+msgstr "Отображать эту комнату на странице мероприятия"
 
 #: indico/modules/vc/forms.py:100
 msgid "Please select a contribution"
-msgstr "Комната для связи "
+msgstr "Пожалуйста, выберите контрибютора"
 
 #: indico/modules/vc/forms.py:101
 msgid "Please select a session block"
-msgstr ""
-"Пожалуйста, начните писать название комнаты, которую вы хотите прикрепить. Indico предложит существующие комнаты. Могут быть присоединены только комнаты "", созданные с помощью Indico. "
+msgstr "Пожалуйста, выберите блок сеанса "
 
 #: indico/modules/vc/forms.py:106
 msgid "Room to link"
-msgstr "Название комнаты. "
+msgstr "Комната для связи"
 
 #: indico/modules/vc/forms.py:107
 msgid ""
 "Please start writing the name of the room you would like to attach. Indico will suggest existing rooms. Only rooms "
 "created through Indico can be attached."
-msgstr "Уже существует комната с таким названием "
+msgstr ""
+"Пожалуйста, начните писать название комнаты, которую вы хотите прикрепить. Conference System предложит существующие комнаты. Могут быть присоединены только комнаты,"
+"созданные с помощью CS."
 
 #: indico/modules/vc/forms.py:119
 msgid "The name of the room."
-msgstr "Направление сортировки "
+msgstr "Название комнаты."
 
 #: indico/modules/vc/forms.py:126
 msgid "There is already a room with this name"
-msgstr "По возрастанию "] , ["По убыванию"
+msgstr "Уже существует комната с таким названием"
 
 #: indico/modules/vc/forms.py:135
 msgid "Sort direction"
-msgstr "Дата начала"
+msgstr "Направление сортировки "
 
 #: indico/modules/vc/forms.py:136
 msgid "Ascending"
-msgstr "Дата окончания"
+msgstr "По возрастанию "
 
 #: indico/modules/vc/forms.py:136
 msgid "Descending"
-msgstr "Дни в прошлом"
+msgstr "По убыванию"
 
 #: indico/modules/vc/forms.py:137
 msgid "Start Date"
-msgstr "Дни в будущем"
+msgstr "Дата начала"
 
 #: indico/modules/vc/forms.py:138
 msgid "End Date"
-msgstr "{} (событие)"
+msgstr "Дата окончания"
 
 #: indico/modules/vc/forms.py:139
 msgid "Days in the past"
-msgstr "{} (вклад)"
+msgstr "Дни в прошлом"
 
 #: indico/modules/vc/forms.py:141
 msgid "Days in the future"
-msgstr "{} (блок сеанса)"
+msgstr "Дни в будущем"
 
 #: indico/modules/vc/util.py:30
 msgid "{} (event)"
-msgstr "С этим событием не связаны бронирования"
+msgstr "{} (событие)"
 
 #: indico/modules/vc/util.py:31
 msgid "{} (contribution)"
-msgstr "Подробнее"
+msgstr "{} (контрибьютор)"
 
 #: indico/modules/vc/util.py:32
 msgid "{} (session block)"
-msgstrundefined
+msgstr "{} (блок сеанса)"
 
 #: indico/modules/vc/templates/event_vc.html:14
 msgid "There are no bookings associated with this event."
-msgstrundefined
+msgstr "С этим событием не связаны бронирования"
 
 #: indico/modules/vc/templates/list_vc_rooms.html:15
 msgid "More info"
-msgstrundefined
+msgstr "Подробнее"
 
 #: indico/modules/vc/templates/manage_event.html:5
 msgid "Current videoconference rooms"
@@ -14597,7 +14609,7 @@ msgstr "Залы для видеоконференций еще не добав�
 
 #: indico/modules/vc/templates/manage_event.html:84 indico/modules/vc/templates/manage_event.html:88
 msgid "Create %(plugin_name)s room"
-msgstr "Создать комнату%(plugin_name) s"
+msgstr "Создать %(plugin_name) комнату "
 
 #: indico/modules/vc/templates/manage_event.html:93
 msgid "Create videoconference room"
@@ -14609,7 +14621,7 @@ msgstr "Создать новую комнату"
 
 #: indico/modules/vc/templates/manage_event.html:104
 msgid "Attach %(plugin_name)s room"
-msgstr "Присоединить комнату%(plugin_name) s"
+msgstr "Присоединить комнату%(plugin_name)"
 
 #: indico/modules/vc/templates/manage_event.html:107
 msgid "Attach videoconference room"
@@ -14669,19 +14681,19 @@ msgstr "'Сегодня' "
 
 #: indico/util/date_time.py:270
 msgid "'Tomorrow'"
-msgstr "'Завтра' "
+msgstr "'Завтра'"
 
 #: indico/util/date_time.py:271
 msgid "'Last' EEEE"
-msgstr "'Последний' EEEE "
+msgstr "'Последний' EEEE"
 
 #: indico/util/date_time.py:272
 msgid "EEEE"
-msgstr "EEEE "
+msgstr "EEEE"
 
 #: indico/util/date_time.py:273
 msgid "{date_fmt}"
-msgstr "{date_fmt} "
+msgstr "{date_fmt}"
 
 #: indico/util/date_time.py:288
 msgid "'Yesterday' 'at' {time_fmt}"
@@ -14701,7 +14713,7 @@ msgstr "'Последний' EEEE 'в' {time_fmt} "
 
 #: indico/util/date_time.py:292
 msgid "EEEE 'at' {time_fmt}"
-msgstr "EEEE"в '{time_fmt} "
+msgstr "EEEE 'в' {time_fmt}"
 
 #: indico/util/date_time.py:293
 msgid "{date_fmt} 'at' {time_fmt}"
@@ -14709,15 +14721,15 @@ msgstr "{date_fmt}' в '{time_fmt} "
 
 #: indico/util/i18n_test.py:70 indico/util/i18n_test.py:80 indico/util/i18n_test.py:105
 msgid "Fetch the cow"
-msgstr "Привести корову "
+msgstr "Получить"
 
 #: indico/util/i18n_test.py:71 indico/util/i18n_test.py:81 indico/util/i18n_test.py:106
 msgid "The wheels"
-msgstr "Колеса "
+msgstr "Колеса"
 
 #: indico/util/i18n_test.py:114
 msgid "I need a drink."
-msgstr "Мне нужно выпить. "
+msgstr "Мне нужно выпить."
 
 #: indico/util/i18n_test.py:159 indico/util/i18n_test.py:166
 msgid "This is not a string"
@@ -14797,19 +14809,19 @@ msgstr "Укажите параметры, пользователь может �
 
 #: indico/web/fields/choices.py:64
 msgid "Single Choice"
-msgstr "Единый выбор "
+msgstr "Единый выбор"
 
 #: indico/web/fields/choices.py:93
 msgid "Specify the answers the user can select"
-msgstr "Укажите ответы, которые пользователь может выбрать "
+msgstr "Укажите ответы, которые пользователь может выбрать"
 
 #: indico/web/fields/choices.py:94
 msgid "Minimum choices"
-msgstr "Минимальный выбор "
+msgstr "Минимальный выбор"
 
 #: indico/web/fields/choices.py:95
 msgid "The minimum amount of options the user has to choose."
-msgstr "Минимальное количество вариантов, которые пользователь должен выбрать ."
+msgstr "Минимальное количество вариантов, которые пользователь должен выбрать."
 
 #: indico/web/fields/choices.py:96
 msgid "Maximum choices"
@@ -14865,11 +14877,11 @@ msgstr "Число"
 
 #: indico/web/fields/simple.py:87
 msgid "Yes/No"
-msgstr "Да / Нет"
+msgstr "Да/Нет"
 
 #: indico/web/flask/app.py:127
 msgid "Login failed: {error}"
-msgstr "Ошибка входа: {ошибка}"
+msgstr "Ошибка входа: {error}"
 
 #: indico/web/flask/errors.py:36
 msgid "Please log in to access this page."
@@ -14925,223 +14937,223 @@ msgstr "'{}' не может быть в прошлом"
 
 #: indico/web/forms/validators.py:139
 msgid "'{}' can't be before {}"
-msgstr "'{}' не может быть до {}"] , ["'{}' не может быть в будущем"
+msgstr "'{}' не может быть до {}"
 
 #: indico/web/forms/validators.py:143
 msgid "'{}' can't be in the future"
-msgstr "'{}' не может быть после {}"
+msgstr "'{}' не может быть в будущем"
 
 #: indico/web/forms/validators.py:145
 msgid "'{}' can't be after {}"
-msgstr "'{}' не может быть в прошлом ({}) "
+msgstr "'{}' не может быть после {}"
 
 #: indico/web/forms/validators.py:184
 msgid "'{}' can't be in the past ({})"
-msgstr "'{}' не может быть до {} ({}) "
+msgstr "'{}' не может быть в прошлом ({}) "
 
 #: indico/web/forms/validators.py:187
 msgid "'{}' can't be before {} ({})"
-msgstr "'{}' не может быть в будущем ({}) "
+msgstr "'{}' не может быть до {} ({}) "
 
 #: indico/web/forms/validators.py:191
 msgid "'{}' can't be in the future ({})"
-msgstr "'{}' может 'не должно быть после {} ({}) "
+msgstr "'{}' не может быть в будущем ({}) "
 
 #: indico/web/forms/validators.py:194
 msgid "'{}' can't be after {} ({})"
-msgstr "{} не может быть до {} "
+msgstr "'{}' может 'не должно быть после {} ({}) "
 
 #: indico/web/forms/validators.py:238 indico/web/forms/validators.py:271
 msgid "{} can't be before {}"
-msgstr "{} не может быть после {} "
+msgstr "{} не может быть до {} "
 
 #: indico/web/forms/validators.py:240 indico/web/forms/validators.py:273
 msgid "{} can't be after {}"
-msgstr "{} не может быть равно до {} "
+msgstr "{} не может быть после {} "
 
 #: indico/web/forms/validators.py:242 indico/web/forms/validators.py:275
 msgid "{} can't be equal to {}"
-msgstr "Продолжительность не может превышать {} "
+msgstr "{} не может быть равно до {} "
 
 #: indico/web/forms/validators.py:307
 msgid "Duration cannot exceed {}"
-msgstr "Должно быть между {наиболее ранним} и {последним}. "
+msgstr "Продолжительность не может превышать {} "
 
 #: indico/web/forms/validators.py:325
 msgid "Must be between {earliest} and {latest}."
-msgstr "Должно быть позже, чем {самое раннее}"
+msgstr "Должно быть между {earliest} и {latest}. "
 
 #: indico/web/forms/validators.py:327
 msgid "Must be later than {earliest}."
-msgstr "Должно быть раньше, чем {последнее}"
+msgstr "Должно быть позже, чем {earliest}"
 
 #: indico/web/forms/validators.py:329
 msgid "Must be earlier than {latest}."
-msgstr "Поле должно содержать от {min} до {max} слов"
+msgstr "Должно быть раньше, чем {latest}"
 
 #: indico/web/forms/validators.py:358
 msgid "Field must contain between {min} and {max} words."
-msgstr "Выбраны недопустимые цвета"
+msgstr "Поле должно содержать от {min} до {max} слов"
 
 #: indico/web/forms/fields/colors.py:28
 msgid "Invalid colors selected"
-msgstr "Выбран недопустимый цвет"
+msgstr "Выбраны недопустимые цвета"
 
 #: indico/web/forms/fields/colors.py:57
 msgid "Invalid color selected"
-msgstr "Выберите допустимую единицу измерения."
+msgstr "Выбран недопустимый цвет"
 
 #: indico/web/forms/fields/datetime.py:94 indico/web/forms/fields/datetime.py:171
 msgid "Please choose a valid unit."
-msgstr "Пожалуйста, выберите другую единицу или оставьте предыдущее значение."
+msgstr "Выберите допустимую единицу измерения."
 
 #: indico/web/forms/fields/datetime.py:96
 msgid "Please choose a different unit or keep the previous value."
-msgstr "Необходимо указать дату"
+msgstr "Пожалуйста, выберите другую единицу или оставьте предыдущее значение."
 
 #: indico/web/forms/fields/datetime.py:243
 msgid "Date must be specified"
-msgstr "Необходимо указать время"
+msgstr "Необходимо указать дату"
 
 #: indico/web/forms/fields/datetime.py:245
 msgid "Time must be specified"
-msgstr "первый"
+msgstr "Необходимо указать время"
 
 #: indico/web/forms/fields/datetime.py:381
 msgid "first"
-msgstr "второй"
+msgstr "первый"
 
 #: indico/web/forms/fields/datetime.py:382
 msgid "second"
-msgstr "третий"
+msgstr "второй"
 
 #: indico/web/forms/fields/datetime.py:383
 msgid "third"
-msgstr "четвертый"
+msgstr "третий"
 
 #: indico/web/forms/fields/datetime.py:384
 msgid "fourth"
-msgstr "последний"
+msgstr "четвертый"
 
 #: indico/web/forms/fields/datetime.py:385
 msgid "last"
-msgstr "Неправильный выбор"
+msgstr "последний"
 
 #: indico/web/forms/fields/enums.py:29 indico/web/forms/fields/enums.py:81
 msgid "Not a valid choice"
-msgstr "Вы можете использовать Markdown или базовые теги форматирования HTML."
+msgstr "Неправильный выбор"
 
 #: indico/web/forms/fields/markdown.py:37
 msgid "You can use Markdown or basic HTML formatting tags."
-msgstr ""
-"Пользователи с <strong>доступом</strong> на изменение этого ресурса и любых родительских ресурсов <strong>также будут иметь"
-"доступ</strong> "
+msgstr "Вы можете использовать Markdown или базовые теги форматирования HTML."
 
 #: indico/web/templates/_access_list.html:24
 msgid ""
 "Users with <strong>modification access</strong> to this resource and any parent resources <strong>will also have "
 "access</strong>"
-msgstr "Копировать URL-адрес в буфер обмена"
+msgstr ""
+"Пользователи с <strong>доступом</strong> на изменение этого ресурса и любых родительских ресурсов <strong>также будут иметь"
+"доступ</strong> "
 
 #: indico/web/templates/_clipboard_input.html:7
 msgid "Copy URL to clipboard"
-msgstr "Файл календаря"
+msgstr "Копировать URL-адрес в буфер обмена"
 
 #: indico/web/templates/_ical_export.html:5
 msgid "Calendar file"
-msgstr "Я прочитал и понял над"
+msgstr "Файл календаря"
 
 #: indico/web/templates/_ical_export.html:18 indico/web/templates/_ical_export.html:34
 msgid "I have read and understood the above."
-msgstr "Принять и создать"
+msgstr "Я прочитал и понял"
 
 #: indico/web/templates/_ical_export.html:21 indico/web/templates/_ical_export.html:39
 msgid "Accept & Create"
-msgstr "Постоянная ссылка только для общедоступной информации:"
+msgstr "Принять и создать"
 
 #: indico/web/templates/_ical_export.html:50
 msgid "Permanent link for public information only:"
-msgstr "Постоянная ссылка для всей общедоступной и защищенной информации:"
+msgstr "Постоянная ссылка только для общедоступной информации:"
 
 #: indico/web/templates/_ical_export.html:55
 msgid "Permanent link for all public and protected information:"
-msgstr "Щелкните, чтобы показать / скрыть пароль"
+msgstr "Постоянная ссылка для всей общедоступной и защищенной информации:"
 
 #: indico/web/templates/_password.html:6
 msgid "Click to show/hide the password"
-msgstr "Этот объект общедоступен, так как он установлен как общедоступный."
+msgstr "Щелкните, чтобы показать / скрыть пароль"
 
 #: indico/web/templates/_protection_messages.html:10
 msgid "This object is publicly accessible since it is set as public."
-msgstr ""
-"Этот объект доступен <strong>только</strong> <strong>для указанных</strong> выше пользователей и"
-"<strong>менеджеров</strong> <strong>родительских ресурсов</strong> "
+msgstr "Этот объект общедоступен, так как он установлен как общедоступный ."
 
 #: indico/web/templates/_protection_messages.html:28
 msgid ""
 "This object is <strong>only</strong> accessible by the <strong>users specified</strong> above and the "
 "<strong>managers</strong> of <strong>parent resources</strong>."
-msgstr "Этот объект не является общедоступным, поскольку <strong>%(parent_title) s</strong> (%(parent_type) s) защищен"
+msgstr ""
+"Этот объект доступен <strong>только</strong> <strong>для указанных</strong> выше пользователей и"
+"<strong>менеджеров</strong> <strong>родительских ресурсов</strong> "
 
 #: indico/web/templates/_protection_messages.html:47
 msgid "This object is not publicly accessible since <strong>%(parent_title)s</strong> (%(parent_type)s) is protected."
-msgstr "Этот объект общедоступен, поскольку <strong>%(parent_title) s</strong> (%(parent_type) s) не защищен"
+msgstr "Этот объект не является общедоступным, поскольку <strong>%(parent_title) s</strong> (%(parent_type) s) защищен"
 
 #: indico/web/templates/_protection_messages.html:56
 msgid "This object is publicly accessible since <strong>%(parent_title)s</strong> (%(parent_type)s) is not protected."
-msgstr "Дети с разной защитой"
+msgstr "Этот объект общедоступен, поскольку <strong>%(parent_title) s</strong> (%(parent_type) s) не защищен"
 
 #: indico/web/templates/_protection_messages.html:73
 msgid "Children with different protection"
-msgstr "Некоторые элементы внутри этого объекта имеют разные настройки защиты."
+msgstr "Дети с разной защитой"
 
 #: indico/web/templates/_protection_messages.html:76
 msgid "Some elements inside this object have different protection settings."
-msgstr "Детали защиты"
+msgstr "Некоторые элементы внутри этого объекта имеют разные настройки защиты."
 
 #: indico/web/templates/_protection_messages.html:81
 msgid "Protection details"
-msgstr "Показать их"
+msgstr "Детали защиты"
 
 #: indico/web/templates/_protection_messages.html:83
 msgid "Show them."
-msgstr "Информация на этой странице видна всем"
+msgstr "Показать их"
 
 #: indico/web/templates/_session_bar.html:12
 msgid "The information on this page is visible to anyone"
-msgstr "Информация на этой странице может отображаться только для определенных лиц или определенных групп."
+msgstr "Информация на этой странице видна всем"
 
 #: indico/web/templates/_session_bar.html:20
 msgid "The information on this page is restricted for display to named individuals or specific groups."
-msgstr "Выбрать часовой пояс"
+msgstr "Информация на этой странице может отображаться только для определенных лиц или определенных групп."
 
 #: indico/web/templates/_session_bar.html:58
 msgid "Choose Timezone"
-msgstr "Использовать часовой пояс для события / категории"
+msgstr "Выбрать часовой пояс"
 
 #: indico/web/templates/_session_bar.html:65
 msgid "Use the event/category timezone"
-msgstr "Часовой пояс по умолчанию"
+msgstr "Использовать часовой пояс для события/категории"
 
 #: indico/web/templates/_session_bar.html:72
 msgid "Your default timezone"
-msgstr "Указать часовой пояс"
+msgstr "Часовой пояс по умолчанию"
 
 #: indico/web/templates/_session_bar.html:80
 msgid "Specify a timezone"
-msgstr "Запомнить эти настройки"
+msgstr "Указать часовой пояс"
 
 #: indico/web/templates/_session_bar.html:92
 msgid "Remember these settings"
-msgstr "Мои предпочтения"] , ["Войти как .."
+msgstr "Запомнить эти настройки"
 
 #: indico/web/templates/_session_bar.html:129
 msgid "My preferences"
-msgstrundefined
+msgstr "Мои предпочтения"
 
 #: indico/web/templates/_session_bar.html:138
 msgid "Login as..."
-msgstrundefined
+msgstr "Войти как .."
 
 #: indico/web/templates/_session_bar.html:145
 msgid "Switch back to %(name)s"
@@ -15221,11 +15233,11 @@ msgstr "Разбивка результатов на страницы"
 
 #: indico/web/templates/pagination.html:26
 msgid "Show all (%(count)s)"
-msgstr "Показать все (%(количество) s) "
+msgstr "Показать все (%(количество)) "
 
 #: indico/web/templates/pagination.html:37
 msgid "%(num)s out of %(total)s displayed"
-msgstr "%(num) s из%(total) s отображается "
+msgstr "%(num) из %(total) отображается "
 
 #: indico/web/templates/placeholder_info.html:18
 msgid "Available placeholders"
@@ -15241,15 +15253,15 @@ msgstr "toggle "
 
 #: indico/web/templates/forms/_form.html:79
 msgid "This field is required"
-msgstr "Это поле является обязательным "
+msgstr "Это поле является обязательным"
 
 #: indico/web/templates/forms/_person_link_widget_base.html:28
 msgid "You have to log in in order to be able to search for Indico users"
-msgstr "Вы должны войти в систему, чтобы иметь возможность искать пользователей Indico"
+msgstr "Вы должны войти в систему, чтобы иметь возможность искать пользователей Conference System"
 
 #: indico/web/templates/forms/_person_link_widget_base.html:30
 msgid "Search among Indico users"
-msgstr "Поиск среди пользователей Indico"
+msgstr "Поиск среди пользователей Conference System"
 
 #: indico/web/templates/forms/_person_link_widget_base.html:34
 msgid "Add yourself to the list"
@@ -15415,11 +15427,11 @@ msgstr "Просмотреть список"
 
 #: indico/web/templates/forms/synced_input_widget.html:17
 msgid "Click to toggle synchronisation (%(provider_name)s)."
-msgstr "Щелкните, чтобы переключить синхронизацию (%(provider_name) s)."],[ "Результатов не найдено"
+msgstr "Щелкните, чтобы переключить синхронизацию (%(provider_name) s)."
 
 #: indico/web/templates/overview/base.html:31
 msgid "No results found"
-msgstrundefined
+msgstr "Результатов не найдено"
 
 #: indico/modules/events/abstracts/settings.py:66 indico/modules/events/timetable/templates/balloons/contribution.html:54
 msgid "Presenter"
