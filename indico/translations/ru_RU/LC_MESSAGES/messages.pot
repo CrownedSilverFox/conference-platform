@@ -6734,75 +6734,75 @@ msgstr "Код тега должен быть уникальным"
 #: indico/modules/events/editing/schemas.py:315 indico/modules/rb/schemas.py:395 indico/modules/rb/schemas.py:420
 #: indico/modules/rb/schemas.py:437 indico/modules/rb/schemas.py:455
 msgid "Name must be unique"
-msgstr "Имя должно быть уникальным"] , ["Шаблон имени файла не может содержать точки"
+msgstr "Имя должно быть уникальным"
 
 #: indico/modules/events/editing/schemas.py:320
 msgid "Filename template cannot include dots"
-msgstr "Расширения не могут содержать начальные точки"
+msgstr "Шаблон имени файла не может содержать точки"
 
 #: indico/modules/events/editing/schemas.py:326
 msgid "Extensions cannot have leading dots"
-msgstr "Невозможно отменить установку единственного публикуемого типа файла"
+msgstr "Расширения не могут содержать начальные точки"
 
 #: indico/modules/events/editing/schemas.py:341
 msgid "Cannot unset the only publishable file type"
-msgstr "Использован недопустимый тип файла"
+msgstr "Невозможно отменить установку единственного публикуемого типа файла"
 
 #: indico/modules/events/editing/schemas.py:358
 msgid "Invalid file type used"
-msgstr "Условия должны быть уникальными"
+msgstr "Использован недопустимый тип файла"
 
 #: indico/modules/events/editing/schemas.py:362
 msgid "Conditions have to be unique"
-msgstr "Ошибка подключения"
+msgstr "Условия должны быть уникальными"
 
 #: indico/modules/events/editing/service.py:52 indico/modules/events/editing/service.py:131
 msgid "Connection failed"
-msgstr "Недействительный ответ"
+msgstr "Ошибка подключения"
 
 #: indico/modules/events/editing/service.py:56
 msgid "Invalid response"
-msgstr "Этот пользователь не является редактором типа {}"
+msgstr "Недействительный ответ"
 
 #: indico/modules/events/editing/controllers/backend/editable_list.py:77
 msgid "This user is not an editor of the {} type"
-msgstr "Вы не являетесь редактором типа {}"
+msgstr "Этот пользователь не является редактором типа {}"
 
 #: indico/modules/events/editing/controllers/backend/editable_list.py:93
 msgid "You are not an editor of the {} type"
-msgstr "Невозможно удалить тип файла, в котором уже есть файлы "
+msgstr "Вы не являетесь редактором типа {}"
 
 #: indico/modules/events/editing/controllers/backend/management.py:106
 msgid "Cannot delete file type which already has files"
-msgstr "Невозможно удалить тип файла, который используется в условии проверки "
+msgstr "Невозможно удалить тип файла, в котором уже есть файлы "
 
 #: indico/modules/events/editing/controllers/backend/management.py:109
 msgid "Cannot delete file type which is used in a review condition"
-msgstr "Невозможно удалить единственный доступный для публикации тип файла "
+msgstr "Невозможно удалить тип файла, который используется в условии проверки "
 
 #: indico/modules/events/editing/controllers/backend/management.py:116
 msgid "Cannot delete the only publishable file type"
-msgstr "Не удалось зарегистрировать событие с помощью службы: {} "
+msgstr "Невозможно удалить единственный доступный для публикации тип файла "
 
 #: indico/modules/events/editing/controllers/backend/service.py:68
 msgid "Could not register event with service: {}"
-msgstr "Не удалось отключить событие от службы: {}"
+msgstr "Не удалось зарегистрировать событие с помощью службы: {} "
 
 #: indico/modules/events/editing/controllers/backend/service.py:99
 msgid "Could not disconnect event from service: {}"
-msgstr "В документе не найден такой файл"
+msgstr "Не удалось отключить событие от службы: {}"
 
 #: indico/modules/events/editing/controllers/backend/timeline.py:66
 msgid "No such file was found within the paper"
-msgstr "Вы не можете выполнить это действие с этой версией"
+msgstr "В документе не найден такой файл"
 
 #: indico/modules/events/editing/controllers/backend/timeline.py:97
 msgid "You cannot perform this action on this revision"
-msgstr "Редактируемый файл уже существует"
+msgstr "Вы не можете выполнить это действие с этой версией"
 
 #: indico/modules/events/editing/controllers/backend/timeline.py:167
 msgid "Editable already exists"
-msgstrundefined
+msgstr "Редактируемый файл уже существует"
 
 #: indico/modules/events/editing/controllers/backend/timeline.py:180
 msgid "Submission failed, please try again later."
@@ -6927,7 +6927,7 @@ msgstr "Включить поиск"
 
 #: indico/modules/events/layout/forms.py:68
 msgid "Enable search within the event"
-msgstr "Включить поиск"внутри события "
+msgstr "Включить поиск внутри события"
 
 #: indico/modules/events/layout/forms.py:69
 msgid "Show navigation bar"
@@ -6939,8 +6939,7 @@ msgstr "Показать панель навигации вверху "
 
 #: indico/modules/events/layout/forms.py:71
 msgid "\"Now happening\""
-msgstr "\ "Сейчас происходит \"
-"
+msgstr "\"Сейчас происходит\""
 
 #: indico/modules/events/layout/forms.py:72
 msgid "Show a banner with the current entries from the timetable"
@@ -6968,158 +6967,159 @@ msgstr "Цвет текста"
 
 #: indico/modules/events/layout/forms.py:79
 msgid "Background colour"
-msgstr "Цвет фона"] , ["Короткое сообщение, показанное под заголовком"
+msgstr "Цвет фона"
 
 #: indico/modules/events/layout/forms.py:84
 msgid "Short message shown below the title"
-msgstr "Показать объявление"
+msgstr "Короткое сообщение, показанное под заголовком"
 
 #: indico/modules/events/layout/forms.py:85
 msgid "Show announcement"
-msgstr "Показать сообщение с объявлением"
+msgstr "Показать объявление"
 
 #: indico/modules/events/layout/forms.py:86
 msgid "Show the announcement message"
-msgstr "Группировать по комнатам"
+msgstr "Показать сообщение с объявлением"
 
 #: indico/modules/events/layout/forms.py:89
 msgid "Group by room"
-msgstr "Сгруппировать записи расписания по комнатам по умолчанию"] , ["Показать подробный вид"
+msgstr "Группировать по комнатам"
 
 #: indico/modules/events/layout/forms.py:90
 msgid "Group the entries of the timetable by room by default"
-msgstr "По умолчанию показывать подробный вид расписания."
+msgstr "Сгруппировать записи расписания по комнатам по умолчанию"
 
 #: indico/modules/events/layout/forms.py:91
 msgid "Show detailed view"
-msgstr "Использовать собственный CSS"
+msgstr "Показать подробный вид"
 
 #: indico/modules/events/layout/forms.py:92
 msgid "Show the detailed view of the timetable by default."
-msgstr ""
-"Использовать собственный файл CSS в качестве темы для страницы конференции. Деактивируйте этот параметр, чтобы"
-"отобразить доступные темы Indico"
+msgstr "По умолчанию показывать подробный вид расписания."
 
 #: indico/modules/events/layout/forms.py:95
 msgid "Use custom CSS"
-msgstr "Текущая выбранная тема страницы конференции. Нажмите кнопку"Предварительный просмотр ", чтобы просмотреть и выбрать другую."
+msgstr "Использовать собственный CSS"
 
 #: indico/modules/events/layout/forms.py:96
 msgid ""
 "Use a custom CSS file as a theme for the conference page. Deactivate this option to reveal the available Indico "
 "themes."
-msgstr "По умолчанию"
+msgstr ""
+"Использовать собственный файл CSS в качестве темы для страницы конференции. Деактивируйте этот параметр, чтобы"
+"отобразить доступные темы Indico"
 
 #: indico/modules/events/layout/forms.py:100
 msgid "Currently selected theme of the conference page. Click on the Preview button to preview and select a different one."
-msgstr "Невозможно включить настраиваемую таблицу стилей, если она не существует."
+msgstr "Текущая выбранная тема страницы конференции. Нажмите кнопку \"Предварительный просмотр\", чтобы просмотреть и выбрать другую."
 
 #: indico/modules/events/layout/forms.py:106
 msgid "Default"
-msgstr "Тема расписания"
+msgstr "По умолчанию"
 
 #: indico/modules/events/layout/forms.py:111
 msgid "Cannot enable custom stylesheet unless there is one."
-msgstr "Логотип, который будет отображаться рядом с названием мероприятия"
+msgstr "Невозможно включить настраиваемую таблицу стилей, если она не существует."
 
 #: indico/modules/events/layout/forms.py:117
 msgid "Timetable theme"
-msgstr "Пользовательский файл CSS"
+msgstr "Тема расписания"
 
 #: indico/modules/events/layout/forms.py:128
 msgid "Logo to be displayed next to the event's title"
-msgstr ""
-"Если вы хотите полностью настроить страницу конференции, вы можете создать свою собственную таблицу стилей и загрузите его. Пример ""таблицы стилей можно скачать <a href='{base_url}/standard.css' target='_blank'>здесь</a> . "
+msgstr "Логотип, который будет отображаться рядом с названием мероприятия"
 
 #: indico/modules/events/layout/forms.py:132
 msgid "Custom CSS file"
-msgstr "Пользовательский заголовок"
+msgstr "Пользовательский файл CSS"
 
 #: indico/modules/events/layout/forms.py:140
 msgid ""
 "If you want to fully customize your conference page you can create your own stylesheet and upload it. An example "
 "stylesheet can be downloaded <a href='{base_url}/standard.css' target='_blank'>here</a>."
 msgstr ""
-"Если вы настраиваете заголовок, этот заголовок будет использоваться независимо от языковых предпочтений пользователя. Заголовок по умолчанию"
-"<strong>{заголовок}</strong> отображается на языке пользователя"
+"Если вы хотите полностью настроить страницу конференции, вы можете создать свою собственную таблицу стилей и загрузите его. Пример ""таблицы стилей можно скачать <a href='{base_url}/standard.css' target='_blank'>здесь</a> . "
+
 
 #: indico/modules/events/layout/forms.py:144
 msgid "Custom title"
-msgstr "Открыть в новой материалке"
+msgstr "Пользовательский заголовок"
 
 #: indico/modules/events/layout/forms.py:151
 msgid ""
 "If you customize the title, that title is used regardless of the user's language preference.  The default title "
 "<strong>{title}</strong> is displayed in the user's language."
-msgstr "Ограничено"
+msgstr ""
+"Если вы настраиваете заголовок, этот заголовок будет использоваться независимо от языковых предпочтений пользователя. Заголовок по умолчанию"
+"<strong>{заголовок}</strong> отображается на языке пользователя"
 
 #: indico/modules/events/layout/forms.py:163
 msgid "Open in a new tab"
-msgstr "Доступно только зарегистрированным пользователям."
+msgstr "Открыть в новой вкладке"
 
 #: indico/modules/events/layout/forms.py:164 indico/web/templates/_session_bar.html:44
 msgid "Restricted"
-msgstr "Пользовательский файл CSS ({name})"
+msgstr "Ограничено"
 
 #: indico/modules/events/layout/forms.py:165
 msgid "Visible to registered users only."
-msgstr "Изображение '{name}' имеет недопустимый тип ({type}); разрешены только JPG, GIF и PNG."
+msgstr "Доступно только зарегистрированным пользователям."
 
 #: indico/modules/events/layout/forms.py:188
 msgid "Custom CSS file ({name})"
-msgstr "Изображение '{}' было удалено"
+msgstr "Пользовательский файл CSS ({name})"
 
 #: indico/modules/events/layout/controllers/images.py:64
 msgid "The image '{name}' has an invalid type ({type}); only JPG, GIF and PNG are allowed."
-msgstr "Вы не можете загрузить этот файл в качестве логотипа"
+msgstr "Изображение '{name}' имеет недопустимый тип ({type}); разрешены только JPG, GIF и PNG."
 
 #: indico/modules/events/layout/controllers/images.py:89
 msgid "The image '{}' has been deleted"
-msgstr ""
-"В загруженном вами логотипе используется цветовое пространство CMYK и он был преобразован в RGB. Пожалуйста, проверьте правильность цветов"
-"и при необходимости преобразуйте его вручную"
+msgstr "Изображение '{}' было удалено"
 
 #: indico/modules/events/layout/controllers/layout.py:155
 msgid "You cannot upload this file as a logo."
-msgstr ""
-"Новый файл CSS сохранен. Не забудьте включить его (\"Использовать собственный CSS\") после проверки его правильности с помощью"
-"предварительного просмотра"
+msgstr "Вы не можете загрузить этот файл в качестве логотипа"
 
 #: indico/modules/events/layout/controllers/layout.py:161
 msgid ""
 "The logo you uploaded is using the CMYK colorspace and has been converted to RGB. Please check if the colors are "
 "correct and convert it manually if necessary."
-msgstr "Файл CSS удален"
+msgstr ""
+"В загруженном вами логотипе используется цветовое пространство CMYK и он был преобразован в RGB. Пожалуйста, проверьте правильность цветов"
+"и при необходимости преобразуйте его вручную"
 
 #: indico/modules/events/layout/controllers/layout.py:199
 msgid ""
 "New CSS file saved. Do not forget to enable it (\"Use custom CSS\") after verifying that it is correct using the "
 "preview."
-msgstr "Настройка меню включена"
+msgstr ""
+"Новый файл CSS сохранен. Не забудьте включить его (\"Использовать собственный CSS\") после проверки его правильности с помощью"
+"предварительного просмотра"
 
 #: indico/modules/events/layout/controllers/layout.py:210
 msgid "CSS file deleted"
-msgstr "Настройка меню отключена"
+msgstr "Файл CSS удален"
 
 #: indico/modules/events/layout/controllers/menu.py:65
 msgid "Menu customization has been enabled."
-msgstr "Разделитель"
+msgstr "Настройка меню включена"
 
 #: indico/modules/events/layout/controllers/menu.py:69
 msgid "Menu customization has been disabled."
-msgstr "Внутренняя ссылка"
+msgstr "Настройка меню отключена"
 
 #: indico/modules/events/layout/models/menu.py:31
 msgid "Separator"
-msgstr "Пользовательская ссылка"
+msgstr "Разделитель"
 
 #: indico/modules/events/layout/models/menu.py:31
 msgid "Internal Link"
-msgstrundefined
+msgstr "Внутренняя ссылка"
 
 #: indico/modules/events/layout/models/menu.py:31
 msgid "User Link"
-msgstrundefined
+msgstr "Пользовательская ссылка"
 
 #: indico/modules/events/layout/models/menu.py:31
 msgid "Plugin Link"
@@ -7275,143 +7275,143 @@ msgstr "Изменить страницу"
 
 #: indico/modules/events/logs/__init__.py:28 indico/modules/events/logs/templates/logs.html:4
 msgid "Logs"
-msgstr "Журналы"] , ["Руководство"
+msgstr "Журналы"
 
 #: indico/modules/events/logs/models/entries.py:21 indico/web/views.py:253 indico/web/views.py:310
 msgid "Management"
-msgstr "Участники"
+msgstr "Руководство"
 
 #: indico/modules/events/logs/models/entries.py:21 indico/modules/events/registration/__init__.py:49
 #: indico/modules/events/registration/templates/display/event_header.html:81
 #: indico/modules/events/registration/templates/management/participants.html:4 indico/modules/events/reminders/forms.py:36
 #: indico/modules/events/surveys/forms.py:50
 msgid "Participants"
-msgstr "Электронные письма"
+msgstr "Участники"
 
 #: indico/modules/events/logs/models/entries.py:21 indico/modules/events/management/forms.py:194
 #: indico/modules/users/__init__.py:67 indico/modules/users/templates/emails.html:9
 msgid "Emails"
-msgstr "Это электронное письмо находится на рассмотрении и скоро будет отправлено."
+msgstr "Электронные письма"
 
 #: indico/modules/events/logs/templates/entry_email.html:6
 msgid "This email is pending and will be sent soon."
-msgstr "Это письмо отправлено"
+msgstr "Это электронное письмо находится на рассмотрении и скоро будет отправлено."
 
 #: indico/modules/events/logs/templates/entry_email.html:10
 msgid "This email has been sent."
-msgstr "Не удалось отправить это электронное письмо"
+msgstr "Это письмо отправлено"
 
 #: indico/modules/events/logs/templates/entry_email.html:14
 msgid "Sending this email failed."
-msgstr "Кому"
+msgstr "Не удалось отправить это электронное письмо"
 
 #: indico/modules/events/logs/templates/entry_email.html:33
 msgid "To"
-msgstr "Нет данных для отображения"
+msgstr "Кому"
 
 #: indico/modules/events/logs/templates/entry_simple.html:33
 msgid "No data to display"
-msgstr "Рабочие процессы"
+msgstr "Нет данных для отображения"
 
 #: indico/modules/events/management/__init__.py:21
 msgid "Workflows"
-msgstr "Отчеты"
+msgstr "Рабочие процессы"
 
 #: indico/modules/events/management/__init__.py:23
 msgid "Reports"
-msgstr "Дополнительные параметры"
+msgstr "Отчеты"
 
 #: indico/modules/events/management/__init__.py:25
 msgid "Advanced options"
-msgstr "Программные коды"
+msgstr "Дополнительные параметры"
 
 #: indico/modules/events/management/__init__.py:36
 msgid "Programme Codes"
-msgstr "Клонировать один раз"
+msgstr "Программные коды"
 
 #: indico/modules/events/management/forms.py:54
 msgid "Clone Once"
-msgstr "Клонировать с фиксированным интервалом"
+msgstr "Клонировать один раз"
 
 #: indico/modules/events/management/forms.py:55
 msgid "Clone with fixed Interval"
-msgstr "Клонировать с повторяющимся шаблоном"
+msgstr "Клонировать с фиксированным интервалом"
 
 #: indico/modules/events/management/forms.py:56
 msgid "Clone with recurring Pattern"
-msgstr "Ярлык URL"
+msgstr "Клонировать с повторяющимся шаблоном"
 
 #: indico/modules/events/management/forms.py:63
 msgid "URL shortcut"
-msgstr "<strong>{} SHORTCUT</strong> - ярлык URL должен быть уникальным в этом экземпляре Indico и не учитывать регистр."
+msgstr "Ярлык URL"
 
 #: indico/modules/events/management/forms.py:70
 msgid "<strong>{}SHORTCUT</strong> - the URL shortcut must be unique within this Indico instance and is not case sensitive."
-msgstr "Ярлык URL-адреса должен содержать хотя бы один символ, не являющийся цифрой"
+msgstr "<strong>{} SHORTCUT</strong> - ярлык URL должен быть уникальным в этом экземпляре Indico и не учитывать регистр."
 
 #: indico/modules/events/management/forms.py:78
 msgid "The URL shortcut must contain at least one character that is not a digit."
-msgstr "Ярлык URL-адреса содержит недопустимый символ"
+msgstr "Ярлык URL-адреса должен содержать хотя бы один символ, не являющийся цифрой"
 
 #: indico/modules/events/management/forms.py:80
 msgid "The URL shortcut contains an invalid character."
-msgstr "Ярлык URL не может содержать двух последовательных косых черт"
+msgstr "Ярлык URL-адреса содержит недопустимый символ"
 
 #: indico/modules/events/management/forms.py:82
 msgid "The URL shortcut may not contain two consecutive slashes."
-msgstr "Ярлык URL не может начинаться / заканчиваться косой чертой"
+msgstr "Ярлык URL не может содержать двух последовательных косых черт"
 
 #: indico/modules/events/management/forms.py:84
 msgid "The URL shortcut may not begin/end with a slash."
-msgstr "Ярлык URL уже используется в другом событии"
+msgstr "Ярлык URL не может начинаться / заканчиваться косой чертой"
 
 #: indico/modules/events/management/forms.py:91
 msgid "The URL shortcut is already used in another event."
-msgstr "Этот ярлык URL недоступен"
+msgstr "Ярлык URL уже используется в другом событии"
 
 #: indico/modules/events/management/forms.py:95
 msgid "This URL shortcut is not available."
-msgstr "Обновить расписание"
+msgstr "Этот ярлык URL недоступен"
 
 #: indico/modules/events/management/forms.py:106
 msgid "Update timetable"
-msgstr "Перенести сеансы / материалы / перерывы в расписании в соответствии с новым временем начала мероприятия."
+msgstr "Обновить расписание"
 
 #: indico/modules/events/management/forms.py:107
 msgid "Move sessions/contributions/breaks in the timetable according to the new event start time."
-msgstr "Указание этой даты отменяет дату начала, отображаемую на главной странице конференции"
+msgstr "Перенести сеансы / материалы / перерывы в расписании в соответствии с новым временем начала мероприятия."
 
 #: indico/modules/events/management/forms.py:110
 msgid "Specifying this date overrides the start date displayed on the main conference page."
-msgstr "Указание этой даты отменяет дату окончания, отображаемую на главной странице конференции"
+msgstr "Указание этой даты отменяет дату начала, отображаемую на главной странице конференции"
 
 #: indico/modules/events/management/forms.py:114
 msgid "Specifying this date overrides the end date displayed on the main conference page."
-msgstr "Чтобы использовать эту дату начала, расписание необходимо обновить"
+msgstr "Указание этой даты отменяет дату окончания, отображаемую на главной странице конференции"
 
 #: indico/modules/events/management/forms.py:143
 msgid "To use this start date the timetable must be updated."
-msgstr "Мероприятие слишком короткое, чтобы вместить все записи расписания. Оно должно быть как минимум на {} длиннее"
+msgstr "Чтобы использовать эту дату начала, расписание необходимо обновить"
 
 #: indico/modules/events/management/forms.py:156
 msgid "The event is too short to fit all timetable entries. It must be at least {} longer."
-msgstr "Событие не может закончиться до его последней записи в расписании, которая находится в {}"
+msgstr "Мероприятие слишком короткое, чтобы вместить все записи расписания. Оно должно быть как минимум на {} длиннее"
 
 #: indico/modules/events/management/forms.py:165
 msgid "The event cannot end before its last timetable entry, which is at {}."
-msgstr "URL карты"
+msgstr "Событие не может закончиться до его последней записи в расписании, которая находится в {}"
 
 #: indico/modules/events/management/forms.py:171 indico/modules/events/management/templates/_settings.html:115
 msgid "Map URL"
-msgstr "электронная почта"
+msgstr "URL карты"
 
 #: indico/modules/events/management/forms.py:194
 msgid "email"
-msgstr "Номера телефонов"
+msgstr "электронная почта"
 
 #: indico/modules/events/management/forms.py:195
 msgid "Phone numbers"
-msgstrundefined
+msgstr "Номера телефонов"
 
 #: indico/modules/events/management/forms.py:195
 msgid "number"
@@ -7468,7 +7468,9 @@ msgid ""
 "\"Today's events\", Calendar. If the event is moved, this number will be preserved. The \"Invisible\"option will "
 "also hide the event from the category's event list except for managers."
 msgstr ""
-"Из какой точки в дереве категорий это событие будет видно из (количество категорий вверх). Применяется к ""\ "Сегодняшние события \", Календарь. Если событие перемещен, этот номер будет сохранен. Параметр "Невидимый"будет "также скрывать событие из списка событий категории, кроме менеджеров."
+"Из какой точки в дереве категорий это событие будет видно из (количество категорий вверх). Применяется к "
+"\"Сегодняшние события\", Календарь. Если событие перемещен, этот номер будет сохранен. Параметр \"Невидимый\"будет "
+"также скрывать событие из списка событий категории, кроме менеджеров."
 
 #: indico/modules/events/management/forms.py:254
 msgid "Public registration"
@@ -7554,162 +7556,160 @@ msgstr "Месяцы "
 
 #: indico/modules/events/management/forms.py:402
 msgid "Number of months between repetitions"
-msgstr "Количество месяцев между повторами "] , ["Блокировка сеанса"
+msgstr "Количество месяцев между повторами "
 
 #: indico/modules/events/management/forms.py:407 indico/modules/events/management/templates/program_codes.html:35
 #: indico/modules/events/sessions/__init__.py:35 indico/modules/events/sessions/templates/management/_session_list.html:65
 msgid "Session blocks"
-msgstr "URL-адрес события"
+msgstr "Блокировка сеанса"
 
 #: indico/modules/events/management/forms.py:413
 msgid "Event URL"
-msgstr "Идентификатор материала (необязательно дополненный нулями, например {id: 2} для \"01\"или {id} для \"1\") "
+msgstr "URL-адрес события"
 
 #: indico/modules/events/management/program_codes.py:54
 msgid "The ID of the contribution (optionally padded with zeros, e.g. {id:2} for \"01\"or {id} for \"1\")"
-msgstr "Программный код сеанса материала "
+msgstr "Идентификатор материала (необязательно дополненный нулями, например {id: 2} для \"01\"или {id} для \"1\") "
 
 #: indico/modules/events/management/program_codes.py:72
 msgid "The program code of the contribution's session"
-msgstr "Программный код сеансового блока материала "
+msgstr "Программный код сеанса материала "
 
 #: indico/modules/events/management/program_codes.py:81
 msgid "The program code of the contribution's session block"
-msgstr "Программный код дорожки материала "
+msgstr "Программный код сеансового блока материала "
 
 #: indico/modules/events/management/program_codes.py:90
 msgid "The program code of the contribution's track"
-msgstr "Год материала "] , ["Месяц взноса"
+msgstr "Программный код дорожки материала "
 
 #: indico/modules/events/management/program_codes.py:114
 msgid "The year of the contribution"
-msgstr "День взноса"
+msgstr "Год материала "
 
 #: indico/modules/events/management/program_codes.py:118
 msgid "The month of the contribution"
-msgstr "День недели взноса (например, \"TU\")"
+msgstr "Месяц взноса"
 
 #: indico/modules/events/management/program_codes.py:122
 msgid "The day of the contribution"
-msgstr "День недели взноса (например, \"ВТ\")"
+msgstr "День взноса"
 
 #: indico/modules/events/management/program_codes.py:126
 msgid "The weekday of the contribution (e.g. \"TU\")"
-msgstr "ID дополнительного материала"
+msgstr "День недели взноса (например, \"TU\")"
 
 #: indico/modules/events/management/program_codes.py:131
 msgid "The weekday of the contribution (e.g. \"TUE\")"
-msgstr "программный код материала дополнительного материала "
+msgstr "День недели взноса (например, \"ВТ\")"
 
 #: indico/modules/events/management/program_codes.py:138
 msgid "The ID of the subcontribution"
-msgstr "Идентификатор сеанса "
+msgstr "ID дополнительного материала"
 
 #: indico/modules/events/management/program_codes.py:147
 msgid "The program code of the subcontribution's contribution"
-msgstr "Программный код типа сеанса сеанса "
+msgstr "программный код материала дополнительного материала "
 
 #: indico/modules/events/management/program_codes.py:156
 msgid "The ID of the session"
-msgstr "Программный код сеанса сеанса блока "
+msgstr "Идентификатор сеанса "
 
 #: indico/modules/events/management/program_codes.py:165
 msgid "The program code of the session's session type"
-msgstr "Год блок сеанса "
+msgstr "Программный код типа сеанса сеанса "
 
 #: indico/modules/events/management/program_codes.py:174
 msgid "The program code of the session block's session"
-msgstr "Месяц блока сеанса "
+msgstr "Программный код сеанса сеанса блока "
 
 #: indico/modules/events/management/program_codes.py:183
 msgid "The year of the session block"
-msgstr "День блока сеанса "
+msgstr "Год блок сеанса "
 
 #: indico/modules/events/management/program_codes.py:187
 msgid "The month of the session block"
-msgstr "День недели блока сеанса (например,\"TU \") "
+msgstr "Месяц блока сеанса "
 
 #: indico/modules/events/management/program_codes.py:191
 msgid "The day of the session block"
-msgstr "день недели блока сеанса (например,\"TUE \") "
+msgstr "День блока сеанса "
 
 #: indico/modules/events/management/program_codes.py:195
 msgid "The weekday of the session block (e.g. \"TU\")"
-msgstr "Изменить сеанс\"{имя} \"
-"
+msgstr "День недели блока сеанса (например,\"TU \") "
 
 #: indico/modules/events/management/program_codes.py:200
 msgid "The weekday of the session block (e.g. \"TUE\")"
-msgstr "Изменить материал\"{имя} \"
-"
+msgstr "день недели блока сеанса (например,\"TUE \") "
 
 #: indico/modules/events/management/util.py:52
 msgid "Edit session \"{name}\""
-msgstr "Изменить папку\"{name}\""
+msgstr "Изменить сеанс\"{name}\""
 
 #: indico/modules/events/management/util.py:56
 msgid "Edit contribution \"{name}\""
-msgstr "Изменить вложение \"{name}\""
+msgstr "Изменить материал\"{name} \""
 
 #: indico/modules/events/management/util.py:60
 msgid "Edit folder \"{name}\""
-msgstr "Для загрузки материалов и / или управления содержимым может потребоваться учетная запись Indico."
+msgstr "Изменить папку\"{name}\""
 
 #: indico/modules/events/management/util.py:64
 msgid "Edit attachment \"{name}\""
-msgstr "Чтобы пригласить их, перейдите на {link_start} страницу ролей {link_end}"
+msgstr "Изменить вложение \"{name}\""
 
 #: indico/modules/events/management/util.py:189
 msgid "An Indico account may be needed to upload materials and/or manage contents."
-msgstr "Событие \"{}\"успешно удалено"
+msgstr "Для загрузки материалов и / или управления содержимым может потребоваться учетная запись Indico."
 
 #: indico/modules/events/management/util.py:191
 msgid "To invite them, please go to the {link_start}Roles page{link_end}"
-msgstr "Тип события изменен на {}"
+msgstr "Чтобы пригласить их, перейдите на {link_start} страницу ролей {link_end}"
 
 #: indico/modules/events/management/controllers/actions.py:30
 msgid "Event \"{}\"successfully deleted."
-msgstr "Мероприятие заблокировано"
+msgstr "Событие \"{}\"успешно удалено"
 
 #: indico/modules/events/management/controllers/actions.py:47
 msgid "The event type has been changed to {}."
-msgstr "Событие теперь разблокировано"
+msgstr "Тип события изменен на {}"
 
 #: indico/modules/events/management/controllers/actions.py:64
 msgid "The event is now locked."
-msgstr "Событие \"{}\"перемещено в категорию \"{}\""
+msgstr "Мероприятие заблокировано"
 
 #: indico/modules/events/management/controllers/actions.py:77
 msgid "The event is now unlocked."
-msgstr "У вас нет прав для управления этим событием"
+msgstr "Событие теперь разблокировано"
 
 #: indico/modules/events/management/controllers/actions.py:92
 msgid "Event \"{}\"has been moved to category \"{}\""
-msgstr "Вы можете клонировать максимум 100 раз за один раз"
+msgstr "Событие \"{}\"перемещено в категорию \"{}\""
 
 #: indico/modules/events/management/controllers/base.py:36
 msgid "You are not authorized to manage this event."
-msgstr "Добро пожаловать на ваше клонированное мероприятие!"
+msgstr "У вас нет прав для управления этим событием"
 
 #: indico/modules/events/management/controllers/cloning.py:137
 msgid "You can clone maximum of 100 times at once"
-msgstr "Создано {} новых событий"
+msgstr "Вы можете клонировать максимум 100 раз за один раз"
 
 #: indico/modules/events/management/controllers/cloning.py:186
 msgid "Welcome to your cloned event!"
-msgstr "Невозможно импортировать из одного события"
+msgstr "Добро пожаловать на ваше клонированное мероприятие!"
 
 #: indico/modules/events/management/controllers/cloning.py:194
 msgid "{} new events created."
-msgstr "Невозможно импортировать из другого типа события"
+msgstr "Создано {} новых событий"
 
 #: indico/modules/events/management/controllers/cloning.py:208
 msgid "Cannot import from the same event"
-msgstrundefined
+msgstr "Невозможно импортировать из одного события"
 
 #: indico/modules/events/management/controllers/cloning.py:210
 msgid "Cannot import from a different type of event"
-msgstrundefined
+msgstr "Невозможно импортировать из другого типа события"
 
 #: indico/modules/events/management/controllers/cloning.py:212
 msgid "You do not have management rights to this event"
