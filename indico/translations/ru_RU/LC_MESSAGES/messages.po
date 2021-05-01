@@ -1,3 +1,14 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Indico\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2020-12-15 13:59+0100\n"
+"PO-Revision-Date: 2021-01-05 16:10+0000\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.8.0\n"
+"Language: ru_RU\n"
+
 #: indico/core/errors.py:29
 msgid "You are not allowed to access this page."
 msgstr "Вам не разрешен доступ к этой странице."
