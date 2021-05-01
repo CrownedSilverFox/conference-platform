@@ -5,7 +5,7 @@
       data-static-site="{{ g.get('static_site', false)|tojson|forceescape }}">
 <head>
     <title>
-        {%- if page_title %}{{ page_title }}
+        {%- if page_title %}{{ page_title }} {% endif %}
     </title>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
