@@ -4,7 +4,7 @@
 *.py[co]
 __pycache__/
 .pytest_cache/
-
+venv/
 # configs
 *.conf
 logging.yaml
