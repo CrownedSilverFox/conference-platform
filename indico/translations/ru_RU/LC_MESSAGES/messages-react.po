@@ -61,7 +61,7 @@ msgstr "Количество пользователей"
 
 #: indico/modules/categories/client/js/components/CategoryStatistics.jsx:190
 msgid "Last updated on: {time}"
-msgstr "Последнее обновление: {время}"
+msgstr "Последнее обновление: {time}"
 
 #: indico/modules/events/abstracts/client/js/boa.jsx:54
 msgid "Manage custom PDF"
@@ -397,7 +397,7 @@ msgstr "Действия"
 
 #: indico/modules/events/editing/client/js/editing/timeline/CustomActions.jsx:77
 msgid "Confirm action: {action}"
-msgstr "Подтвердить действие: {действие}"
+msgstr "Подтвердить действие: {action}"
 
 #: indico/modules/events/editing/client/js/editing/timeline/CustomActions.jsx:79
 msgid "OK"
@@ -421,7 +421,7 @@ msgstr "Этот тип файла является обязательным"
 
 #: indico/modules/events/editing/client/js/editing/timeline/FileManager/index.jsx:174
 msgid "This file does not conform to the filename template {template}"
-msgstr "Этот файл не соответствует шаблону имени файла {шаблон}"
+msgstr "Этот файл не соответствует шаблону имени файла {template}"
 
 #: indico/modules/events/editing/client/js/editing/timeline/FileManager/index.jsx:198
 msgid "Use an existing file"
@@ -429,7 +429,7 @@ msgstr "Использовать существующий файл"
 
 #: indico/modules/events/editing/client/js/editing/timeline/FileManager/index.jsx:245
 msgid "Filename pattern: {pattern}"
-msgstr "Шаблон имени файла: {шаблон}"
+msgstr "Шаблон имени файла: {pattern}"
 
 #: indico/modules/events/editing/client/js/editing/timeline/FileManager/index.jsx:345
 #: indico/web/client/js/react/components/files/SingleFileManager.jsx:177
@@ -534,7 +534,7 @@ msgstr "Эта версия была обновлена"
 
 #: indico/modules/events/editing/client/js/editing/timeline/index.jsx:65
 msgid "{link}Click here to refresh{/link} and see the most recent version."
-msgstr "{ссылка} Нажмите здесь, чтобы обновить {/ ссылку} и увидеть самую последнюю версию." 
+msgstr "{link} Нажмите здесь, чтобы обновить {/ ссылку} и увидеть самую последнюю версию." 
 
 #: indico/modules/events/editing/client/js/editing/timeline/judgment/AcceptRejectForm.jsx:64
 #: indico/modules/events/editing/client/js/editing/timeline/judgment/UpdateFilesForm.jsx:33
@@ -653,7 +653,7 @@ msgstr "Проверка статуса пользовательского ра�
 
 #: indico/modules/events/editing/client/js/management/ManageService.jsx:54
 msgid "Workflow service unavailable: {error}"
-msgstr "Сервис рабочего процесса недоступен: {ошибка}"
+msgstr "Сервис рабочего процесса недоступен: {error}"
 
 #: indico/modules/events/editing/client/js/management/ManageService.jsx:63
 msgid "Use a custom editing workflow provided by an external service"
@@ -661,7 +661,7 @@ msgstr "Использовать пользовательский рабочий
 
 #: indico/modules/events/editing/client/js/management/ManageService.jsx:67
 msgid "Custom editing workflow: {name} ({version})"
-msgstr "Пользовательский рабочий процесс редактирования: {имя} ({версия})"
+msgstr "Пользовательский рабочий процесс редактирования: {name} ({version})"
 
 #: indico/modules/events/editing/client/js/management/ManageService.jsx:72
 msgid "Connected to a custom editing workflow service"
@@ -726,7 +726,7 @@ msgstr "Укажите URL-адрес службы, реализующей ва�
 
 #: indico/modules/events/editing/client/js/management/ManageService.jsx:211
 msgid "Your editing workflow will be managed by {service} ({version})."
-msgstr "Ваш рабочий процесс редактирования будет контролироваться {службой} ({версия})." 
+msgstr "Ваш рабочий процесс редактирования будет контролироваться {service} ({version})." 
 
 #: indico/modules/events/editing/client/js/management/ManageService.jsx:218
 msgid ""
@@ -912,7 +912,7 @@ msgstr "Разрешить редакторам самостоятельно н�
 
 #: indico/modules/events/editing/client/js/management/editable_type/EditableTypeSubPageNav.jsx:30
 msgid "Editing ({type})"
-msgstr "Редактирование ({тип})"
+msgstr "Редактирование ({type})"
 
 #: indico/modules/events/editing/client/js/management/editable_type/NextEditable.jsx:165
 msgid "has files"
@@ -1268,7 +1268,7 @@ msgstr "Оценка этого вопроса является обязател
 
 #: indico/modules/events/papers/client/js/components/GroupReviewForm.jsx:148
 msgid "Reviewing in {group}"
-msgstr "Рецензирование в {группе}"
+msgstr "Рецензирование в {group}"
 
 #: indico/modules/events/papers/client/js/components/GroupReviewForm.jsx:159
 msgid "Ratings"
@@ -1329,7 +1329,7 @@ msgstr "Оставить комментарий отправителю ..."
 
 #: indico/modules/events/papers/client/js/components/PaperMetadata.jsx:32
 msgid "Submitted on {date} by {submitter}"
-msgstr "Отправлено {date} {отправителем} " 
+msgstr "Отправлено {date} {submitter} " 
 
 #: indico/modules/events/papers/client/js/components/PaperReviewForm.jsx:63
 #: indico/modules/events/papers/client/js/components/PaperReviewForm.jsx:71
@@ -1350,7 +1350,7 @@ msgstr "{судьяName} принял эту статью."
 
 #: indico/modules/events/papers/client/js/components/RevisionJudgment.jsx:46
 msgid "{judgeName} rejected this paper."
-msgstr "{судья} отклонил эту бумагу." 
+msgstr "{judgeName} отклонил эту бумагу." 
 
 #: indico/modules/events/papers/client/js/components/RevisionJudgment.jsx:52
 msgid "{judgeName} asked for changes."
@@ -1403,7 +1403,7 @@ msgstr "· Оценка {prettyScore}"
 
 #: indico/modules/events/papers/client/js/components/RevisionReview.jsx:146
 msgid "Score: {score} / {maxScore}"
-msgstr "Оценка: {оценка} / {maxScore}"
+msgstr "Оценка: {score} / {maxScore}"
 
 #: indico/modules/events/papers/client/js/components/RevisionReview.jsx:159
 msgid "hide ratings"
@@ -1455,7 +1455,7 @@ msgstr "Все равно принять"
 
 #: indico/modules/rb/client/js/common/bookings/BookingDetails.jsx:214
 msgid "There is no occurrence on this date ({date})."
-msgstr "В эту дату ({дата}) не было событий." 
+msgstr "В эту дату ({date}) не было событий." 
 
 #: indico/modules/rb/client/js/common/bookings/BookingDetails.jsx:221
 #: indico/modules/rb/client/js/common/bookings/BookingDetails.jsx:238
@@ -1499,7 +1499,7 @@ msgstr "Причина бронирования"
 
 #: indico/modules/rb/client/js/common/bookings/BookingDetails.jsx:370
 msgid "{date} - {info} by {user}"
-msgstr "{дата} - {информация} от {пользователя}"
+msgstr "{date} - {info} от {user}"
 
 #: indico/modules/rb/client/js/common/bookings/BookingDetails.jsx:383
 msgid "Booking history"
@@ -2162,7 +2162,7 @@ msgstr "Подтвердить отказ"
 #: indico/modules/rb/client/js/common/timeline/TimelineItem.jsx:191
 #: indico/modules/rb/client/js/common/timeline/TimelineItem.jsx:196
 msgid "Space blocked: {reason}"
-msgstr "Место заблокировано: {причина}"
+msgstr "Место заблокировано: {reason}"
 
 #: indico/modules/rb/client/js/common/timeline/TimelineItem.jsx:197
 msgid "(You are allowed to make a booking)"
@@ -2179,7 +2179,7 @@ msgstr "Невозможно забронировать между:"
 #: indico/modules/rb/client/js/common/timeline/TimelineItem.jsx:222
 #: indico/modules/rb/client/js/common/timeline/TimelineItem.jsx:241
 msgid "Reason: {reason}"
-msgstr "Причина: {причина}"
+msgstr "Причина: {reason}"
 
 #: indico/modules/rb/client/js/common/timeline/TimelineItem.jsx:230
 msgid "This occurrence will be cancelled"
@@ -2196,7 +2196,7 @@ msgstr "Полное перекрытие между двумя предвари
 #: indico/modules/rb/client/js/common/timeline/TimelineItem.jsx:263
 #: indico/modules/rb/client/js/modules/bookRoom/BookRoomModal.jsx:330
 msgid "{time} by {bookedForName} ({bookingReason})"
-msgstr "{время} от {bookedForName} ({bookingReason})"
+msgstr "{time} от {bookedForName} ({bookingReason})"
 
 #: indico/modules/rb/client/js/common/timeline/TimelineItem.jsx:282
 msgid "Click to book it"
@@ -2365,7 +2365,7 @@ msgstr "{time} hours"
 
 #: indico/modules/rb/client/js/components/TimeRangePicker.jsx:31
 msgid "{time} min"
-msgstr "{время} мин"
+msgstr "{time} мин"
 
 #: indico/modules/rb/client/js/modules/admin/AdminLocationRooms.jsx:35
 msgid "This location does not exist."
@@ -2373,7 +2373,7 @@ msgstr "Это место не существует."
 
 #: indico/modules/rb/client/js/modules/admin/AdminLocationRooms.jsx:57
 msgid "Location: {location}"
-msgstr "Местоположение: {местоположение}"
+msgstr "Местоположение: {location}"
 
 #: indico/modules/rb/client/js/modules/admin/AdminLocationRooms.jsx:62
 msgid "Add room"
@@ -2430,7 +2430,7 @@ msgstr "Скрыто"
 
 #: indico/modules/rb/client/js/modules/admin/AttributesPage.jsx:91
 msgid "Are you sure you want to delete the attribute {name}?"
-msgstr "Вы действительно хотите удалить атрибут {имя}?" 
+msgstr "Вы действительно хотите удалить атрибут {name}?" 
 
 #: indico/modules/rb/client/js/modules/admin/AttributesPage.jsx:127
 msgid "Add attribute"
@@ -2452,7 +2452,7 @@ msgstr "Добавить"
 
 #: indico/modules/rb/client/js/modules/admin/EquipmentTypeList.jsx:41
 msgid "This equipment type provides the {name} feature."
-msgstr "Этот тип оборудования обеспечивает функцию {имя}." 
+msgstr "Этот тип оборудования обеспечивает функцию {name}." 
 
 #: indico/modules/rb/client/js/modules/admin/EquipmentTypeList.jsx:89
 #: indico/modules/rb/client/js/modules/admin/RoomFeatureList.jsx:138
@@ -2461,7 +2461,7 @@ msgstr "Возможности"
 
 #: indico/modules/rb/client/js/modules/admin/EquipmentTypeList.jsx:98
 msgid "Are you sure you want to delete the equipment type {name}?"
-msgstr "Вы действительно хотите удалить тип оборудования {имя}?" 
+msgstr "Вы действительно хотите удалить тип оборудования {name}?" 
 
 #: indico/modules/rb/client/js/modules/admin/EquipmentTypeList.jsx:132
 msgid "Equipment types"
@@ -2505,14 +2505,14 @@ msgid ""
 "{placeholders}"
 msgstr ""
 "Укажите настраиваемый шаблон URL-адреса, используя любой из следующих заполнителей:"
-"{заполнители}"
+"{placeholders}"
 
 #: indico/modules/rb/client/js/modules/admin/LocationPage.jsx:166
 msgid ""
 "Are you sure you want to delete the location {name} and all data associated "
 "with it?"
 msgstr ""
-"Вы действительно хотите удалить местоположение {имя} и все связанные с ним данные"
+"Вы действительно хотите удалить местоположение {name} и все связанные с ним данные"
 "с этим?" 
 
 #: indico/modules/rb/client/js/modules/admin/LocationPage.jsx:200
@@ -2565,7 +2565,7 @@ msgstr "Значок"
 
 #: indico/modules/rb/client/js/modules/admin/RoomFeatureList.jsx:102
 msgid "Are you sure you want to delete the feature {name}?"
-msgstr "Вы действительно хотите удалить функцию {имя}?" 
+msgstr "Вы действительно хотите удалить функцию {name}?" 
 
 #: indico/modules/rb/client/js/modules/admin/RoomFeatureList.jsx:139
 msgid "Add feature"
@@ -2958,7 +2958,7 @@ msgstr "Конфликт бронирования"
 
 #: indico/modules/rb/client/js/modules/bookRoom/BookRoomModal.jsx:296
 msgid "You are creating a {highlight}Pre-Booking{/highlight}"
-msgstr "Вы создаете {выделить} предварительное бронирование {/ выделить}"
+msgstr "Вы создаете {highlight} предварительное бронирование {/highlight}"
 
 #: indico/modules/rb/client/js/modules/bookRoom/BookRoomModal.jsx:303
 msgid ""
@@ -3175,7 +3175,7 @@ msgstr "Оборудование"
 
 #: indico/modules/rb/client/js/modules/roomList/RoomFilterBar.jsx:65
 msgid "Building {building}"
-msgstr "Здание {здание}"
+msgstr "Здание {building}"
 
 #: indico/modules/rb/client/js/modules/roomList/RoomFilterBar.jsx:186
 #: indico/modules/rb/client/js/modules/roomList/filters/CapacityForm.jsx:34
@@ -3426,7 +3426,7 @@ msgstr "Регистранты"
 
 #: indico/web/client/js/react/components/principals/PrincipalListField.jsx:159
 msgid "Registrants in \"{form}\""
-msgstr "Зарегистрированные лица в \" {форме} \""
+msgstr "Зарегистрированные лица в \"{form}\""
 
 #: indico/web/client/js/react/components/principals/PrincipalPermissions.jsx:98
 msgid "Add permission"
