@@ -12577,11 +12577,11 @@ msgstr "Редактор материалов"
 
 #: indico/modules/events/templates/display/conference/_util.html:9
 msgid "%(start)s to %(end)s"
-msgstr "%(start) до %(end)"
+msgstr "%(start)s до %(end)"
 
 #: indico/modules/events/templates/display/conference/base.html:38
 msgid "%(tz)s timezone"
-msgstr "%(tz) часовой пояс"
+msgstr "%(tz)s часовой пояс"
 
 #: indico/modules/events/templates/display/indico/_common.html:22
 msgid "Show room on map"
