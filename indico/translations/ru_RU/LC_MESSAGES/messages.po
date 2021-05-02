@@ -1831,7 +1831,7 @@ msgstr "См. Подробности в журналах и попробуйте
 
 #: indico/modules/bootstrap/templates/flash_messages.html:30
 msgid "An unexpected exception happened while registering the server to the Community Hub: %(error)s."
-msgstr "Произошла непредвиденная исключительная ситуация при регистрации сервера в Центре сообщества:%(ошибка) s"
+msgstr "Произошла непредвиденная исключительная ситуация при регистрации сервера в Центре сообщества:%(error)"
 
 #: indico/modules/categories/__init__.py:43 indico/modules/categories/forms.py:56
 #: indico/modules/categories/templates/management/content.html:111 indico/modules/events/abstracts/forms.py:465
@@ -2409,15 +2409,15 @@ msgstr "еще ..."
 
 #: indico/modules/categories/templates/display/sidebar.html:51
 msgid "Posted %(date)s"
-msgstr "Добавлено%(дата) s"
+msgstr "Добавлено%(date)"
 
 #: indico/modules/categories/templates/display/sidebar.html:74
 msgid "ongoing until %(time)s"
-msgstr "продолжается до%(время) s "
+msgstr "продолжается до%(time)"
 
 #: indico/modules/categories/templates/display/sidebar.html:78
 msgid "starts %(time)s"
-msgstr "начало%(время) s "
+msgstr "начало%(time)"
 
 #: indico/modules/categories/templates/display/overview/base.html:8
 msgid "Display options"
@@ -2425,19 +2425,19 @@ msgstr "Параметры отображения "
 
 #: indico/modules/categories/templates/display/overview/base.html:12
 msgid "Period:"
-msgstr "Период: "
+msgstr "Период:"
 
 #: indico/modules/categories/templates/display/overview/base.html:17 indico/modules/events/management/forms.py:378
 msgid "Day"
-msgstr "День "
+msgstr "День"
 
 #: indico/modules/categories/templates/display/overview/base.html:20
 msgid "Week"
-msgstr "Неделя "
+msgstr "Неделя"
 
 #: indico/modules/categories/templates/display/overview/base.html:23
 msgid "Month"
-msgstr "Месяц "
+msgstr "Месяц"
 
 #: indico/modules/categories/templates/display/overview/base.html:30
 msgid "Detail level:"
@@ -2609,7 +2609,7 @@ msgstr "Сортировать категории по алфавиту (по у
 
 #: indico/modules/categories/templates/management/content.html:73 indico/web/templates/pagination.html:42
 msgid "%(count)s displayed"
-msgstr "Отображается%(количество) s "
+msgstr "Отображается%(count)"
 
 #: indico/modules/categories/templates/management/content.html:106
 msgid "Categories"
@@ -4782,7 +4782,7 @@ msgstr "%(непроверенных) осталось на рассмотрен
 
 #: indico/modules/events/abstracts/templates/display/tracks.html:40
 msgid "%(reviewed)s/%(total)s already reviewed"
-msgstr "%(просмотрено) s /%(всего) s уже просмотрено"
+msgstr "%(reviewed)/%(total) уже просмотрено"
 
 #: indico/modules/events/abstracts/templates/forms/edit_review_tracks.html:3
 msgid "The abstract is being reviewed for the following tracks:"
@@ -5187,7 +5187,7 @@ msgstr "Книга тезисов"
 #: indico/modules/events/abstracts/templates/management/overview.html:100
 #: indico/modules/events/abstracts/templates/management/overview.html:121
 msgid "Customize and %(link_start)sdownload%(link_end)s the book of abstracts"
-msgstr "Настроить и загрузить%(link_start) %(link_end) s книга рефератов "
+msgstr "Настроить и %(link_start)загрузить%(link_end) книгу рефератов"
 
 #: indico/modules/events/abstracts/templates/management/overview.html:133
 msgid "Configure the book of abstracts"
@@ -5226,7 +5226,7 @@ msgstr "Запрос тезисов закрыт"
 #: indico/modules/events/registration/templates/management/regform_actions/ended.html:11
 #: indico/modules/events/surveys/templates/management/survey_actions/finished.html:13
 msgid "Closed on <strong>%(date)s</strong> at <strong>%(time)s</strong> (%(tz)s)"
-msgstr "Закрыт <strong>%(дата) s</strong> в <strong>%(время) s</strong> (%(tz) s)"
+msgstr "Закрыт <strong>%(date)</strong> в <strong>%(date)</strong> (%(tz))"
 
 #: indico/modules/events/abstracts/templates/management/cfa_actions/ended.html:16
 msgid "Modifications possible until <strong>%(date)s</strong> at <strong>%(time)s</strong>"
@@ -5354,15 +5354,15 @@ msgstr "Изменить список треков "
 
 #: indico/modules/events/abstracts/templates/reviewing/notification_log.html:7
 msgid "Template: <span class=\"template\">%(name)s</span>"
-msgstr "Шаблон: <span class=\"template\">%(имя) s</span> "
+msgstr "Шаблон: <span class=\"template\">%(name)</span> "
 
 #: indico/modules/events/abstracts/templates/reviewing/notification_log.html:22
 msgid "<strong>Recipients:</strong> <span class=\"recipients\">%(recipients)s</span>"
-msgstr "<strong>Получатели:</strong> <span class=\"recipients\">%(получатели) s</span> "
+msgstr "<strong>Получатели:</strong> <span class=\"recipients\">%(recipients) s</span> "
 
 #: indico/modules/events/abstracts/templates/reviewing/notification_log.html:27
 msgid "<strong>Template:</strong> <span class=\"template\">%(name)s</span>"
-msgstr "<strong>Шаблон:</strong> <span class=\"template\">%(имя) s</span> "
+msgstr "<strong>Шаблон:</strong> <span class=\"template\">%(name) s</span> "
 
 #: indico/modules/events/abstracts/templates/reviewing/public.html:19
 msgid "Do you really want to withdraw this abstract?"
@@ -5600,7 +5600,7 @@ msgstr "Этот реферат был отмечен как повторяющ�
 
 #: indico/modules/events/abstracts/templates/reviewing/timeline.html:13
 msgid "Proposed to %(action)saccept%(endaction)s as %(type)s"
-msgstr "Предложено%(действие) saccept%(endaction) s как%(type) s "
+msgstr "Предложено %(action)accept%(endaction) s как%(type) s "
 
 #: indico/modules/events/abstracts/templates/reviewing/timeline.html:17
 msgid "Proposed to %(action)saccept%(endaction)s"
@@ -5608,15 +5608,15 @@ msgstr "Предложено%(action) saccept%(endaction) s "
 
 #: indico/modules/events/abstracts/templates/reviewing/timeline.html:22
 msgid "Proposed to %(action)sreject%(endaction)s"
-msgstr "Предложено%(действие) sreject%(endaction) s"
+msgstr "Предложено %(action)reject%(endaction) s"
 
 #: indico/modules/events/abstracts/templates/reviewing/timeline.html:26
 msgid "Proposed to %(action)schange tracks%(endaction)s"
-msgstr "Предложено%(action) schange отслеживает%(endaction) s"
+msgstr "Предложено %(action)change отслеживает%(endaction) s"
 
 #: indico/modules/events/abstracts/templates/reviewing/timeline.html:38
 msgid "Proposed to %(action)smerge%(endaction)s into %(title)s"
-msgstr "Предлагается%(action) объединить%(endaction) s в%(title) s "
+msgstr "Предлагается%(action)объединить%(endaction) в%(title) s "
 
 #: indico/modules/events/abstracts/templates/reviewing/timeline.html:42
 msgid "Proposed as %(action)sduplicate%(endaction)s of %(title)s"
@@ -5865,7 +5865,7 @@ msgstr "Соглашения подписаны"
 
 #: indico/modules/events/agreements/templates/agreement_type_details.html:253
 msgid "Rejection reason: %(reason)s"
-msgstr "Причина отказа:%(причина) s"
+msgstr "Причина отказа:%(reason)"
 
 #: indico/modules/events/agreements/templates/agreement_type_details.html:273
 msgid "Download scanned agreement form"
@@ -6577,7 +6577,7 @@ msgstr "Вы должны загрузить файл CSV (значения, р�
 
 #: indico/modules/events/contributions/templates/management/import_contributions.html:11
 msgid "Start date/time in %(link)sISO 8601%(endlink)s format %(subitem)se.g. 2017-12-03T12:00:00%(endsubitem)s"
-msgstr "Дата / время начала в%(ссылка) sISO 8601%(конечная ссылка) s формате%(подпункт ) se.g. 2017-12-03T12: 00: 00%(endubitem) s "
+msgstr "Дата / время начала в %(link) sISO 8601%(endlink) формате %(subitem) напр. 2017-12-03T12: 00: 00%(endubitem)"
 
 #: indico/modules/events/contributions/templates/management/import_contributions.html:18
 msgid "Duration (minutes)"
@@ -8030,7 +8030,8 @@ msgid ""
 "%(count)s new events will be created. %(lastday)s<strong>All cloned events will occur on the last day of the "
 "month.</strong>%(endlastday)s %(link)sWhen?%(endlink)s"
 msgstr ""
-"%(Count) s новые события будут быть создан. %(lastday) s <strong>Все клонированные события будут происходить в последний день ""месяца.</strong> %(endlastday) s%(link) sWhen?%(endlink) s "
+"%(Count) s новые события будут быть создан. %(lastday) s <strong>Все клонированные события будут происходить в последний день"
+"месяца.</strong> %(endlastday) s%(link) When?%(endlink)"
 
 #: indico/modules/events/management/templates/clone_event.html:113
 #: indico/modules/events/management/templates/import_event.html:77
@@ -9040,7 +9041,7 @@ msgstr "Бумажные файлы:"
 
 #: indico/modules/events/papers/templates/reviewing/timeline.html:81
 msgid "Accepted on %(date_time)s by %(judge)s"
-msgstr "Принято%(date_time) s%(судьей) s"
+msgstr "Принято %(date_time) %(judge)"
 
 #: indico/modules/events/papers/templates/reviewing/timeline.html:85
 msgid "Submitted on %(date_time)s by %(submitter)s"
@@ -10388,8 +10389,8 @@ msgid ""
 "I have read and accepted the %(link_start)sterms and conditions%(link_end)s and understand that by confirming this "
 "order I will be entering into a binding transaction."
 msgstr ""
-"Я прочитал и принял условия%(link_start)%(link_end) s и понимаю, что, подтверждая этот"
-"заказ, я буду заключать обязательную транзакцию. "
+"Я прочитал и %(link_start)принял условия%(link_end) и понимаю, что, подтверждая этот"
+"заказ, я буду заключать обязательную транзакцию."
 
 #: indico/modules/events/registration/templates/display/registration_summary.html:138
 msgid ""
@@ -10590,7 +10591,7 @@ msgstr "Вы уверены, что хотите отозвать эту рег�
 
 #: indico/modules/events/registration/templates/management/_reglist.html:11
 msgid "Filtering is enabled. Displaying %(filtered_registrations)s out of %(total_registrations)s registrants."
-msgstr "Фильтрация включена. Отображение%(filter_registrations) s из%(total_registrations) s."
+msgstr "Фильтрация включена. Отображение%(filter_registrations)из%(total_registrations)."
 
 
 #: indico/modules/events/registration/templates/management/_reglist.html:24
@@ -11005,7 +11006,7 @@ msgstr "Мероприятие заполнено"
 
 #: indico/modules/events/registration/templates/management/regform_stats.html:55
 msgid "%(places)s places available"
-msgstr "%(мест) s мест доступно"
+msgstr "%(places) мест доступно"
 
 #: indico/modules/events/registration/templates/management/regform_stats.html:64
 msgid "Registrants per country"
@@ -13444,7 +13445,7 @@ msgstr "Вы собираетесь <strong>удалить</strong> сетеву
 
 #: indico/modules/networks/templates/networks.html:14
 msgid "%(number)s subnets"
-msgstr "%(число) s подсетей"
+msgstr "%(number) подсетей"
 
 #: indico/modules/networks/templates/networks.html:29
 msgid "Network cannot be added to ACLs"
@@ -14665,7 +14666,7 @@ msgstr "Прикрепить"
 
 #: indico/modules/vc/templates/manage_event_select.html:14
 msgid "%(action)s %(plugin_name)s room"
-msgstr "%(действие) s%(plugin_name) s room"
+msgstr "%(action) %(plugin_name) s room"
 
 #: indico/modules/vc/templates/vc_room_list.html:20
 msgid "VC room"
@@ -15379,7 +15380,7 @@ msgid ""
 "%(link_start)slanguage reference%(link_end)s for more information."
 msgstr ""
 "Markdown - это облегченный язык разметки, который упрощает написание форматированного текстового контента. Для получения дополнительной информации см"
-"%(Link_start) slanguage reference%(link_end) s"
+"%(link_start) language reference%(link_end)"
 
 #: indico/web/templates/forms/markdown_widget.html:51
 msgid ""
