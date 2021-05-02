@@ -5608,11 +5608,11 @@ msgstr "Предложено%(action) saccept%(endaction) s "
 
 #: indico/modules/events/abstracts/templates/reviewing/timeline.html:22
 msgid "Proposed to %(action)sreject%(endaction)s"
-msgstr "Предложено %(action)reject%(endaction) s"
+msgstr "Предложено %(action)sreject%(endaction)s"
 
 #: indico/modules/events/abstracts/templates/reviewing/timeline.html:26
 msgid "Proposed to %(action)schange tracks%(endaction)s"
-msgstr "Предложено %(action)change отслеживает%(endaction) s"
+msgstr "Предложено %(action)schange отслеживает%(endaction) s"
 
 #: indico/modules/events/abstracts/templates/reviewing/timeline.html:38
 msgid "Proposed to %(action)smerge%(endaction)s into %(title)s"
@@ -8030,7 +8030,8 @@ msgid ""
 "%(count)s new events will be created. %(lastday)s<strong>All cloned events will occur on the last day of the "
 "month.</strong>%(endlastday)s %(link)sWhen?%(endlink)s"
 msgstr ""
-"%(Count) s новые события будут быть создан. %(lastday) s <strong>Все клонированные события будут происходить в последний день"
+"%(count) новые события будут быть создан. %(lastday) s <strong>Все клонированные события будут происходить в 
+последний день"
 "месяца.</strong> %(endlastday) s%(link) When?%(endlink)"
 
 #: indico/modules/events/management/templates/clone_event.html:113
@@ -9041,7 +9042,7 @@ msgstr "Бумажные файлы:"
 
 #: indico/modules/events/papers/templates/reviewing/timeline.html:81
 msgid "Accepted on %(date_time)s by %(judge)s"
-msgstr "Принято %(date_time) %(judge)"
+msgstr "Принято %(date_time)s %(judge)"
 
 #: indico/modules/events/papers/templates/reviewing/timeline.html:85
 msgid "Submitted on %(date_time)s by %(submitter)s"
@@ -9125,7 +9126,7 @@ msgstr "Расчет"
 
 #: indico/modules/events/payment/templates/event_checkout.html:16
 msgid "You need to pay %(price)s for your registration."
-msgstr "Вам нужно заплатить%(цену) s за вашу регистрацию."
+msgstr "Вам нужно заплатить%(price)s за вашу регистрацию."
 
 #: indico/modules/events/payment/templates/event_checkout.html:20
 msgid "You can pay using <strong>%(payment_method)s</strong>."
@@ -14666,7 +14667,7 @@ msgstr "Прикрепить"
 
 #: indico/modules/vc/templates/manage_event_select.html:14
 msgid "%(action)s %(plugin_name)s room"
-msgstr "%(action) %(plugin_name) s room"
+msgstr "%(action)s %(plugin_name)s room"
 
 #: indico/modules/vc/templates/vc_room_list.html:20
 msgid "VC room"
