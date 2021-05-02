@@ -2904,7 +2904,7 @@ msgstr "Только лицевая сторона"
 
 #: indico/modules/designer/__init__.py:95 indico/modules/designer/__init__.py:102
 msgid "Posters/Badges"
-msgstr"Плакаты / значки"
+msgstr "Плакаты / значки"
 
 #: indico/modules/designer/controllers.py:196
 msgid "Created copy of template '{}'"
