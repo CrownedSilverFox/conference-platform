@@ -2382,8 +2382,8 @@ msgid "new"
 msgstr "новый"
 
 #: indico/modules/categories/templates/display/root_category.html:17
-msgid "Welcome to Indico. The Indico tool allows you to manage complex conferences, workshops and meetings."
-msgstr "Добро пожаловать в Indico. Инструмент Indico позволяет вам управлять сложными конференциями, семинарами и собраниями."
+msgid "Welcome to Conference System. The CS tool allows you to manage complex conferences, workshops and meetings."
+msgstr "Добро пожаловать в Conference System. Инструмент CS позволяет вам управлять сложными конференциями, семинарами и собраниями."
 
 #: indico/modules/categories/templates/display/root_category.html:21
 msgid "To start browsing, please select a category below."
