@@ -8030,9 +8030,8 @@ msgid ""
 "%(count)s new events will be created. %(lastday)s<strong>All cloned events will occur on the last day of the "
 "month.</strong>%(endlastday)s %(link)sWhen?%(endlink)s"
 msgstr ""
-"%(count) новые события будут быть создан. %(lastday) s <strong>Все клонированные события будут происходить в 
-последний день"
-"месяца.</strong> %(endlastday) s%(link) When?%(endlink)"
+"%(count)s новые события будут быть создан. %(lastday)s <strong>Все клонированные события будут происходить в последний день"
+"месяца.</strong>%(endlastday)s %(link)sWhen?%(endlink)s"
 
 #: indico/modules/events/management/templates/clone_event.html:113
 #: indico/modules/events/management/templates/import_event.html:77
