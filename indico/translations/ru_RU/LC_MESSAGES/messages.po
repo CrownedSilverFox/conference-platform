@@ -2584,7 +2584,7 @@ msgstr "См. Страницу отображения категории"
 
 #: indico/modules/categories/templates/management/base.html:60 indico/modules/events/management/templates/base.html:25
 msgid "Switch to display view"
-msgstr "Перейти в режим просмотра"
+msgstr "В режим просмотра"
 
 #: indico/modules/categories/templates/management/category_protection.html:6
 msgid "Category protection"
